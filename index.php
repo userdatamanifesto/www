@@ -19,8 +19,7 @@ $response=CAMPAIGNER::listener();
 
 <?php
 
-  echo('<center><span class="notify">'.$response.'</span></center>');
-
+   echo('<center><span class="notify">'.$response.'</span></center>');
 
 ?>
 
@@ -70,11 +69,8 @@ Everybody should be able to protect their own data against surveillance and to f
 
 
 
-
-
-
 <br />
-<span class="related">Services, projects, software that respects the user data rights and this manifesto. Contact us to have a software or project added to this list.</span><br />
+<span class="related">Services, projects and software that respects the user data rights and this manifesto. <a href="#contact">Contact us</a> to have software or projects added to this list.</span><br />
 <ul class="list">
 <li><a href="http://buddycloud.com">buddycloud</a></li>
 <li><a href="http://data.fm">data.fm</a></li>
@@ -92,14 +88,13 @@ Everybody should be able to protect their own data against surveillance and to f
 
 <?php
 
-CAMPAIGNER::show();
-
+   CAMPAIGNER::show();
 
 ?>
 
 
 <br /><br />
-<span class="contact">contact: frank.karlitschek (at) userdatamanifesto.org</span>
+<span class="contact" id="contact"><b>Contact:</b> frank.karlitschek (at) userdatamanifesto.org</span>
 
 
 </td><td></td></tr></table>
