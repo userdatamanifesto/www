@@ -27,13 +27,13 @@
   define('CAMPAIGNER_SMTPFROMSUBJECT', 'Confirm Support');
 
   // Email mailtext
-  define('CAMPAIGNER_SMTPMAILTEXT', 'Thanks a lot for supporting the User Data Manifesto. Please click on this link to confirm your email. Your name will be listed on the website to show your support. Thanks a lot.');
+  define('CAMPAIGNER_SMTPMAILTEXT', 'Thanks for supporting the User Data Manifesto. Please click this link to confirm your email. Your name will be listed on the website to show your support.');
 
   // Confirmation text
-  define('CAMPAIGNER_ADDTEXT', 'We send you a confirmation email. Please click on the link in the email to confirm your support.<br /><br />');
+  define('CAMPAIGNER_ADDTEXT', 'We\'ll send you a confirmation email. Please click on the link in the email to confirm your support.<br /><br />');
 
   // 2. Confirmation text
-  define('CAMPAIGNER_CONFIRMTEXT', 'Thanks a lot for confirming your email address. Your name is now listed on the website. Thanks for supporting us.<br /><br />');
+  define('CAMPAIGNER_CONFIRMTEXT', 'Thanks for confirming your email address. Your name is now listed on the website. Thanks for supporting us.<br /><br />');
 
   // MySQL DB name
   define('CAMPAIGNER_DB_NAME', 'userdatamanifesto');
