@@ -76,14 +76,16 @@ Everybody should be able to protect their own data against surveillance and to f
 <br />
 <span class="related">Services, projects, software that respects the user data rights and this manifesto. Contact us to have a software or project added to this list.</span><br />
 <ul class="list">
-<li><a href="http://diasporaproject.org/">Diaspora</a></li>
-<li><a href="http://tent.io/">tent.io</a></li>
-<li><a href="http://unhosted.org/">All Unhosted apps</a></li>
-<li><a href="http://status.net/">status.net</a></li>
-<li><a href="http://sparkleshare.org">Sparkleshare</a></li>
-<li><a href="http://open-xchange.com">Open-Xchange</a></li>
 <li><a href="http://buddycloud.com">buddycloud</a></li>
+<li><a href="http://data.fm">data.fm</a></li>
+<li><a href="http://diasporaproject.org/">Diaspora</a></li>
+<li><a href="http://open-xchange.com">Open-Xchange</a></li>
 <li><a href="http://owncloud.org">ownCloud</a></li>
+<li><a href="http://sparkleshare.org">Sparkleshare</a></li>
+<li><a href="http://status.net/">status.net</a></li>
+<li><a href="http://tent.io/">tent.io</a></li>
+<li><a href="http://unhosted.org/">Unhosted apps</a></li>
+<li><a href="https://github.com/wrr/wwwhisper">wwwhisper</a></li>
 </ul>
 
 
