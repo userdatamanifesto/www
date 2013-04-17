@@ -7,7 +7,12 @@ internet age
 
     The data that the user stores should be under control of this
     person. Users should be able to decide whom to grant
-    direct access to theire data and under which permissions.
+    direct access to their data and under which permissions.
+
+    [What happens when the data is used by somebody else, e.g.
+    creating a thread of discussion. Should the original user have
+    a right to withdraw the content? The doc focuses on data,
+    maybe we should leave the "social relations" bit out of it.]
 
 2. Know where the data is stored
 
@@ -40,6 +45,8 @@ internet age
 
     [?: Let's explain here exactly why Free Software is important
     to build a true distributed Internet.]
+
+    [The distinction between server and client should go.]
 
 [Note: I think we should have less points. Ideally 4. The details
 should then be laid out in explanations below the points. A little
