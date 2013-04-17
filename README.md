@@ -52,8 +52,8 @@ internet age
     surveillance and to federate their data for backups to prevent
     data loss or for any other reason.
 
-<!-- I don't see how it is connected.  The backup and federation
-argument is redundant with 3.  -->
+    <!-- I don't see how it is connected.  The backup and federation
+    argument is redundant with 3.  -->
 
 7.  Use it optimally
 
