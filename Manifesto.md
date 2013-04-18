@@ -15,7 +15,7 @@ internet age
 
     When the data is uploaded to a specific storage provider,
     users should be able to know: where their data is stored, how
-    long, in what country, and what laws apply.
+    long, in which country, and which laws apply.
 
     It is recommended that all users have their own server in the
     long term. Use of peer-to-peer systems and unhosted apps are a
@@ -26,7 +26,7 @@ internet age
     Users should always be able to extract their data at any time
     without being locked in to a specific service.
 
-    Open standards for formats and protocoles, and access to the
+    Open standards for formats and protocols, as well as access to the
     program under a Free Software license are necessary to achieve
     this.
 
