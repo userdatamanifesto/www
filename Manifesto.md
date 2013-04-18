@@ -3,6 +3,12 @@
 defining basic rights for people to control their own data in the
 internet age
 
+[Right now, User Data is only defined as people="their own data"
+it might be needed to define this further. User data is not
+necessarily "personal data". It can be personal data, it can be
+private data or public data too when it is clearly
+affiliated/attributed to one physical person.]
+
 1. Control of user data access
 
     The data that the user uploads should be under control of this
