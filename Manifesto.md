@@ -27,7 +27,7 @@ internet age
     without being locked in to a specific service.
 
     Open standards for formats and protocoles, and access to the
-    program under a Free Software license are necessary for
+    program under a Free Software license are necessary to achieve
     this.
 
 4. Protect the data 
