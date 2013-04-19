@@ -39,7 +39,60 @@ Thus, users should have:
     program under a Free Software license are necessary to achieve
     this.
 
+If users have these, they are in control and can reasonably
+trust the services they use, rather than paying allegiance to the
+operator of a service.
 
+When users control access to data they uploads, it also applies to
+the operator of the service and to governments. Thus, a service
+should never force you to disclose private data (including private
+correspondence). That also means the right to use cryptography
+should never be denied.
+
+Some services essentially allow users to submit data with the
+intention to make it publicly available for all. But even in these
+cases, some amount of user data is kept private. The user should
+have control over this data, e.g. by being able to refuse this
+data be collected and still be able to use the service.
+
+When users make data available to others, like a restrictive group
+of people or quite a large group, they should be able to decide
+under which permissions they grant access to this data. However,
+this right should not extend over others' rights to use the data
+once it has been made available to them. What's more, it does not
+mean that users should have the right to impose insane
+restrictions upon other people, like proprietary software. But
+this should be ultimately under the user's control, not under
+control of the operator of the service.
+
+Even then, there are possibly additional issues regarding control
+over user data. One of the most important is when user data is
+being stored by the operator of the service. In these cases,
+another layer of complexity is added, especially regarding legal
+issues.  Thus, when the user data is stored, users should be able
+to know where it is, and which laws applies to it. Obviously, when
+user data is made public, this requirement makes less sense. But
+most of the time, this is actually imperative as a lot of services
+dealing with user data are designed in a central fashion.
+
+Ultimately, to ensure that user data is under the users' control
+rather than under control of a service operator the best technical
+designs include peer-to-peer or distributed systems, and unhosted
+applications. In the long term, all users should be their own
+server.
+
+But it is also important that users are not stuck into a specific
+technical solution, otherwise it might become a problem. This is
+why people should always be able to leave a platform. It means
+they should be able to have their data in an open format, be
+able to exchange information in an open protocol. Open standards
+are standards that are free of copyright and patent constraints.
+(A better definition http://fsfe.org/activities/os/def.html)
+Obviously, without the source code of the programs used to deal
+with user data, this is impractical. This is why programs should
+be distributed under a Free Software license.
+
+----
 
 
 Notes: 
