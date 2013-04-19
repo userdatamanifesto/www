@@ -39,13 +39,13 @@ Thus, users should have:
     program under a Free Software license are necessary to achieve
     this.
 
-If users have these, they are in control and can reasonably
-trust the services they use, rather than paying allegiance to the
+If users have these, they are in control and can reasonably trust
+the services they use, rather than paying allegiance to the
 operator of a service.
 
-When users control access to data they uploads, it also applies to
+When users control access to data they upload, it also applies to
 the operator of the service and to governments. Thus, a service
-should never force you to disclose private data (including private
+should not force you to disclose private data (including private
 correspondence). That also means the right to use cryptography
 should never be denied.
 
