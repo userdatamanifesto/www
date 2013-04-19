@@ -18,7 +18,7 @@ Thus, users should have:
     person. Users should be able to decide whom to grant
     direct access to their data and under which permissions.
 
-    Cryptography is necessary to achieve this.
+    Cryptography is necessary to ensure this.
 
 2. Knowledge of where the data is stored
 
