@@ -1,15 +1,18 @@
 # user data manifesto
 
-defining basic rights for people to control their own data in the
-internet age
+“User data” means data submitted by or collected from a person
+using a service on the Internet. It is not necessarily personal
+data nor private data, but the origin of that data is clearly
+identified to a person.
 
-[Right now, User Data is only defined as people="their own data"
-it might be needed to define this further. User data is not
-necessarily "personal data". It can be personal data, it can be
-private data or public data too when it is clearly
-affiliated/attributed to one physical person.]
+This manifesto aims at defining basic rights for people regarding
+their own data in the Internet age. Roughly, we refuse feudalism:
+people ought to be free and should not have to pay allegiance to
+service providers. 
 
-1. Control of user data access
+Thus, users should have:
+
+1. Control over user data access
 
     The data that the user uploads should be under control of this
     person. Users should be able to decide whom to grant
@@ -17,7 +20,7 @@ affiliated/attributed to one physical person.]
 
     Cryptography is necessary to achieve this.
 
-2. Know where the data is stored
+2. Knowledge of where the data is stored
 
     When the data is uploaded to a specific storage provider,
     users should be able to know: where their data is stored, how
@@ -36,12 +39,10 @@ affiliated/attributed to one physical person.]
     program under a Free Software license are necessary to achieve
     this.
 
-4. Protect the data 
- 
-    User data must be protected from seizure and spying.
-    Federating the data and encryption must be allowed to grant
-    backup insurance and protection from eavesdropping. 
 
+
+
+Notes: 
 
 [@Okhin suggested to focus on data "created" by the user rather
 than "stored." While we try to say the same things (the bits are
@@ -84,6 +85,19 @@ data at one time, you cannot take away that right completely if
 that infringes on others' rights. We might want to clarify this in
 point #1.
 
+
+Okhin also proposed to add:
+
+4. Protect the data 
+
+    User data must be protected from seizure and spying.
+    Federating the data and encryption must be allowed to grant
+    backup insurance and protection from eavesdropping. 
+
+But I feel that this is redundant with previous points. Seizure
+and spying is just one particular application of #1. Federation
+IMHO is a means to achieve #3. Encryption is already included,
+etc. But it might 
 
 History: 
 
