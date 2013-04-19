@@ -76,10 +76,10 @@ most of the time, this is actually imperative as a lot of services
 dealing with user data are designed in a central fashion.
 
 Ultimately, to ensure that user data is under the users' control
-rather than under control of a service operator the best technical
-designs include peer-to-peer or distributed systems, and unhosted
-applications. In the long term, all users should be their own
-server.
+rather than under control of a service operator, the best
+technical designs include peer-to-peer or distributed systems, and
+unhosted applications. In the long term, all users should have
+their own server.
 
 But it is also important that users are not stuck into a specific
 technical solution, otherwise it might become a problem. This is
