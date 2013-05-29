@@ -1,9 +1,8 @@
 # user data manifesto
 
-“User data” means data submitted by or collected from a person
-using a service on the Internet. It is not necessarily personal
-data nor private data, but the origin of that data is clearly
-identified to a user.
+“User data” means any data submitted by or collected from a person
+using a service on the Internet, which origin is attributed to a
+user. It is not necessarily personal nor private data.
 
 This manifesto aims at defining basic rights for people regarding
 their own data in the Internet age. Roughly, we refuse feudalism:
