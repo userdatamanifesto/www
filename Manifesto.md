@@ -2,7 +2,7 @@
 
 “User data” means any data submitted by or collected from a person
 using a service on the Internet, on which a user has
-power.[^ For instance, the power to edit or move such data. That
+power.^[For instance, the power to edit or move such data. That
 means that anonymously “dumped” data, e.g. on pastebin, or data
 that can be edited directly by anybody, e.g. a public etherpad, do
 not usually deal with user data.]
