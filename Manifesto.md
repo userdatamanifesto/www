@@ -1,7 +1,13 @@
 # user data manifesto
 
 “User data” means any data submitted by or collected from a person
-using a service on the Internet, on which a user has power.  
+using a service on the Internet, on which a user has
+power.[^power]
+
+[^power]: For instance, the power to edit or move such data. That
+means that anonymously “dumped” data, e.g. on pastebin, or data
+that can be edited directly by anybody, e.g. a public etherpad, do
+not usually deal with user data.
 
 This manifesto aims at defining basic rights for people regarding
 their own data in the Internet age. Roughly, we refuse feudalism:
@@ -13,10 +19,16 @@ Thus, users should have:
 1. Control over user data access
 
     The data that the user uploads should be under control of this
-    person. Users should be able to decide whom to grant
-    direct access to their data and under which permissions.
+    person. Users should be able to decide whom to grant direct
+    access to their data and under which permissions.[^necessity]
 
-    Cryptography is necessary to ensure this.
+    Cryptography[^snake-oil] is necessary to ensure this.
+
+[^necessity]: Services shall apply this principle in spirit.
+However, we understand that in order to provide some services such
+as providing email, some amount of user data needs to be accessed
+by the service provider (e.g. the email metadata from:, to: etc.)
+This is why Rule #2 is important.
 
 2. Knowledge of where the data is stored
 
@@ -25,8 +37,9 @@ Thus, users should have:
     long, in which country, and which laws apply.
 
     It is recommended that all users have their own server in the
-    long term. Use of peer-to-peer systems and unhosted apps are a
-    means to that end.
+    long term and that users do not rely on centralised services.
+    Use of peer-to-peer systems and unhosted apps are a means to
+    that end.
 
 3. Right to leave a platform
 
@@ -35,7 +48,11 @@ Thus, users should have:
 
     Open standards for formats and protocols, as well as access to the
     program under a Free Software license are necessary to achieve
-    this.
+    this.[^agpl]
+
+[^agpl]: The GNU AGPL-3+ safeguards this right by making it a
+legal obligation to provide access to the modified program run by
+the service provider. (§ 13. Remote Network Interaction)
 
 If users have these, they are in control and can reasonably trust
 the services they use, rather than paying allegiance to the
@@ -44,14 +61,24 @@ operator of a service.
 When users control access to data they upload, it also applies to
 the operator of the service and to governments. Thus, a service
 should not force you to disclose private data (including private
-correspondence). That also means the right to use cryptography
-should never be denied.
+correspondence). That also means the right to use
+cryptography[^snake-oil] should never be denied. Exceptions where
+the user of a service “forces” the user to give access to some
+user data to the service provider means data that is necessary for
+the service to perform the service.[^necessity]
+
+[^snake-oil]: We mean effective cryptography. If the service
+provider enables cryptography but controls the keys or encrypts
+the data with your password, it's probably [snake oil][Snake Oil].
+
+[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
 
 Some services essentially allow users to submit data with the
 intention to make it publicly available for all. But even in these
 cases, some amount of user data is kept private. The user should
 have control over this data, e.g. by being able to refuse this
-data be collected and still be able to use the service.
+data be stored and still be able to use the service. This usually
+applies to so-called “metadata” or to the social graph.
 
 When users make data available to others, like a restrictive group
 of people or quite a large group, they should be able to decide
