@@ -89,6 +89,10 @@ restrictions upon other people, like proprietary software. But
 this should be ultimately under the user's control, not under
 control of the operator of the service.
 
+<!--
+
+I'm really not sure this is necessary:
+
 Even then, there are possibly additional issues regarding control
 over user data. One of the most important is when user data is
 being stored by the operator of the service. In these cases,
@@ -98,6 +102,8 @@ to know where it is, and which laws applies to it. Obviously, when
 user data is made public, this requirement makes less sense. But
 most of the time, this is actually imperative as a lot of services
 dealing with user data are designed in a central fashion.
+
+-->
 
 Ultimately, to ensure that user data is under the users' control
 rather than under control of a service operator, the best
