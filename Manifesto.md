@@ -57,8 +57,8 @@ should not force you to disclose private data (including private
 correspondence). That also means the right to use
 cryptography[^snake-oil] should never be denied. Exceptions where
 the user of a service “forces” the user to give access to some
-user data to the service provider means data that is necessary for
-the service to perform the service.[^necessity]
+user data to the service provider includes cases where data that
+is necessary for the service to perform the service.[^necessity]
 
 [^snake-oil]: We mean effective cryptography. If the service
 provider enables cryptography but controls the keys or encrypts
