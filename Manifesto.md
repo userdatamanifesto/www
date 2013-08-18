@@ -2,12 +2,10 @@
 
 “User data” means any data submitted by or collected from a person
 using a service on the Internet, on which a user has
-power.[^power]
-
-[^power]: For instance, the power to edit or move such data. That
+power.[^ For instance, the power to edit or move such data. That
 means that anonymously “dumped” data, e.g. on pastebin, or data
 that can be edited directly by anybody, e.g. a public etherpad, do
-not usually deal with user data.
+not usually deal with user data.]
 
 This manifesto aims at defining basic rights for people regarding
 their own data in the Internet age. Roughly, we refuse feudalism:
@@ -24,11 +22,6 @@ Thus, users should have:
 
     Cryptography[^snake-oil] is necessary to ensure this.
 
-[^necessity]: Services shall apply this principle in spirit.
-However, we understand that in order to provide some services such
-as providing email, some amount of user data needs to be accessed
-by the service provider (e.g. the email metadata from:, to: etc.)
-This is why Rule #2 is important.
 
 2. Knowledge of where the data is stored
 
@@ -72,6 +65,12 @@ provider enables cryptography but controls the keys or encrypts
 the data with your password, it's probably [snake oil][Snake Oil].
 
 [Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
+
+[^necessity]: Services shall apply this principle in spirit.
+However, we understand that in order to provide some services such
+as providing email, some amount of user data needs to be accessed
+by the service provider (e.g. the email metadata from:, to: etc.)
+This is why Rule #2 is important.
 
 Some services essentially allow users to submit data with the
 intention to make it publicly available for all. But even in these
