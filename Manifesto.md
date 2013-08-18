@@ -3,10 +3,6 @@
 “User data” means any data submitted by or collected from a person
 using a service on the Internet, on which a user has power.  
 
-User data is not necessarily private data and does not necessarily
-relate to a person or contains personnally identifiable
-information.
-
 This manifesto aims at defining basic rights for people regarding
 their own data in the Internet age. Roughly, we refuse feudalism:
 people ought to be free and should not have to pay allegiance to
@@ -94,7 +90,18 @@ Obviously, without the source code of the programs used to deal
 with user data, this is impractical. This is why programs should
 be distributed under a Free Software license.
 
-----
+-----
+
+FAQ:
+
+1. what's *not* user data?
+
+User data is not necessarily private data and does not necessarily
+relate to a person or contains personnally identifiable
+information. Thus, this manifesto does not aim at modifying
+personal data regulations, but rather aim at complementing them.
+
+-----
 
 
 Notes: 
