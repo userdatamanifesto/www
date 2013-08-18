@@ -72,22 +72,28 @@ as providing email, some amount of user data needs to be accessed
 by the service provider (e.g. the email metadata from:, to: etc.)
 This is why Rule #2 is important.
 
-Some services essentially allow users to submit data with the
-intention to make it publicly available for all. But even in these
-cases, some amount of user data is kept private. The user should
-have control over this data, e.g. by being able to refuse this
-data be stored and still be able to use the service. This usually
-applies to so-called “metadata” or to the social graph.
+Some services  allow users to submit data with the intention to
+make it publicly available for all. Even in these cases, some
+amount of user data is kept private. The user should also have
+control over this data. This usually applies to so-called
+“metadata” or to the social graph.
 
-When users make data available to others, like a restrictive group
-of people or quite a large group, they should be able to decide
+When users make data available to others, whether to a restrictive
+group of people or to large groups, they should be able to decide
 under which permissions they grant access to this data. However,
-this right should not extend over others' rights to use the data
-once it has been made available to them. What's more, it does not
-mean that users should have the right to impose insane
-restrictions upon other people, like proprietary software. But
-this should be ultimately under the user's control, not under
-control of the operator of the service.
+this right is not absolute and should not extend over others'
+rights to use the data once it has been made available to them.
+What's more, it does not mean that users should have the right to
+impose insane restrictions to other people. But this should be
+ultimately under the user's control, not under the control of the
+operator of the service.
+
+Ultimately, to ensure that user data is under the users' control,
+the best technical designs include peer-to-peer or distributed
+systems, and unhosted applications. Legally, that means terms of
+service should respect users' rights.
+
+In the long term, all users should have their own server.
 
 <!--
 
@@ -105,22 +111,17 @@ dealing with user data are designed in a central fashion.
 
 -->
 
-Ultimately, to ensure that user data is under the users' control
-rather than under control of a service operator, the best
-technical designs include peer-to-peer or distributed systems, and
-unhosted applications. In the long term, all users should have
-their own server.
-
 But it is also important that users are not stuck into a specific
-technical solution, otherwise it might become a problem. This is
-why people should always be able to leave a platform. It means
-they should be able to have their data in an open format, be
-able to exchange information in an open protocol. Open standards
-are standards that are free of copyright and patent constraints.
-(A better definition http://fsfe.org/activities/os/def.html)
-Obviously, without the source code of the programs used to deal
-with user data, this is impractical. This is why programs should
-be distributed under a Free Software license.
+technical solution. This is why people should always be able to
+leave a platform and settle elsewhere. It means users should be
+able to have their data in an open format, and to exchange
+information with an open protocol. [Open standards] are standards
+that are free of copyright and patent constraints. Obviously,
+without the source code of the programs used to deal with user
+data, this is impractical. This is why programs should be
+distributed under a Free Software license.
+
+[Open standards]: http://fsfe.org/activities/os/def.html
 
 -----
 
