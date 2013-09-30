@@ -16,14 +16,9 @@ Thus, users should have:
     user. Users should be able to decide whom to grant direct
     access to their data and under which permissions.[^necessity]
 
-    Cryptography[^snake-oil] (e.g. a [PKI]) is necessary to enable
+    Cryptography (e.g. a [PKI]) is necessary to enable
     this control.
 
-[^snake-oil]: We mean effective cryptography. If the service
-provider enables cryptography but controls the keys or encrypts
-the data with your password, it's probably [snake oil][Snake Oil].
-
-[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
 2. Knowledge of how the data is stored
@@ -55,28 +50,36 @@ If users have these, they are in control of their data rather than
 being subjugated by service providers. Many services that deal with
 user data at the moment are gratis, but that does not mean that
 they are free. Instead of paying with money, users are paying
-with their allegiance to the operator of the service so that these
-operators can exploit their data (e.g. by selling them or building
+with their allegiance to the service provider so that these
+providers can exploit their data (e.g. by selling them or building
 a profile for advertisers).
 
-When users control access to the data they upload (Right #1),
-they should be the only ones to have ultimate control over it and
-able to grant access to it. It also applies to the operator of the
-service and to governments.
-Thus, a service should not force you to disclose private data
-(including private correspondence). That also means the right to
-use cryptography[^snake-oil] should never be denied. Exceptions
-where the user of a service “forces” the user to give access to
-some user data to the service provider includes cases where data
-that is necessary for the service to perform the
-service.[^necessity]
-
+When users control access to the data they upload (Right #1), it
+means that data intended to be privately shared should not be
+accessible by the service provider, nor shared with governments.
+Users should be the only ones to have ultimate control over it and
+to grant access to it. Thus, a service should not force you
+to disclose private data (including private correspondence) with
+them. (Exceptions where the service provider asks the user to give
+access to some user data  includes cases where data that is
+necessary for the provider function technically.[^necessity])
 
 [^necessity]: Services shall apply this principle in spirit.
 However, we understand that in order to provide some services such
 as providing email, some amount of user data needs to be accessed
 by the service provider (e.g. the email metadata from:, to: etc.)
 This is why Rule #2 is important.
+
+That means the right to use cryptography[^snake-oil] should never
+be denied. On the contrary, cryptography should be enabled by
+default and be put under the users' control with Free Software.  
+
+[^snake-oil]: We mean effective cryptography. If the service
+provider enables cryptography but controls the keys or encrypts
+the data with your password, it's probably [snake oil][Snake Oil].
+
+[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
+
 
 Some services  allow users to submit data with the intention to
 make it publicly available for all. Even in these cases, some
@@ -92,7 +95,7 @@ rights to use the data once it has been made available to them.
 What's more, it does not mean that users should have the right to
 impose insane restrictions to other people. But this should be
 ultimately under the user's control, not under the control of the
-operator of the service.
+provider of the service.
 
 Ultimately, to ensure that user data is under the users' control,
 the best technical designs include peer-to-peer or distributed
