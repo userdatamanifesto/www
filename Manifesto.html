@@ -11,76 +11,47 @@
 <body>
 <h1 id="user-data-manifesto">user data manifesto</h1>
 <p>“User data” means any data submitted by or collected from a person using a service on the Internet, on which a user has power.<sup><a href="#fn1" class="footnoteRef" id="fnref1">1</a></sup></p>
-<p>This manifesto aims at defining basic rights for people regarding their own data in the Internet age. Roughly, we refuse feudalism: people ought to be free and should not have to pay allegiance to service providers.</p>
+<p>This manifesto aims at defining basic rights for people regarding their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.</p>
 <p>Thus, users should have:</p>
 <ol type="1">
 <li><p>Control over user data access</p>
-<p>The data that the user uploads should be under control of this person. Users should be able to decide whom to grant direct access to their data and under which permissions.<sup><a href="#fn2" class="footnoteRef" id="fnref2">2</a></sup></p>
-<p>Cryptography<sup><a href="#fn3" class="footnoteRef" id="fnref3">3</a></sup> is necessary to ensure this.</p></li>
-<li><p>Knowledge of where the data is stored</p>
-<p>When the data is uploaded to a specific storage provider, users should be able to know: where their data is stored, how long, in which country, and which laws apply.</p>
+<p>Uploaded user data should be under the ultimate control of the user. Users should be able to decide whom to grant direct access to their data and under which permissions.</p>
+<p>Cryptography (e.g. a <a href="https://en.wikipedia.org/wiki/PKI">PKI</a>) is necessary to enable this control.</p></li>
+<li><p>Knowledge of how the data is stored</p>
+<p>When the data is uploaded to a specific service provider, users should be able to know where that specific service provider stores data, how long, in which jurisdiction the specific service provider operates, and which laws apply.</p>
 <p>It is recommended that all users have their own server in the long term and that users do not rely on centralised services. Use of peer-to-peer systems and unhosted apps are a means to that end.</p></li>
-<li><p>Right to leave a platform</p>
-<p>Users should always be able to extract their data at any time without being locked in to a specific service.</p>
-<p>Open standards for formats and protocols, as well as access to the program under a Free Software license are necessary to achieve this.<sup><a href="#fn4" class="footnoteRef" id="fnref4">4</a></sup></p></li>
+<li><p>Freedom to choose a platform</p>
+<p>Users should always be able to extract their data at any time without vendor lock-in.</p>
+<p>Open standards for formats and protocols, as well as access to the program under a Free Software license are necessary to achieve this.<sup><a href="#fn2" class="footnoteRef" id="fnref2">2</a></sup></p></li>
 </ol>
-<p>If users have these, they are in control and can reasonably trust the services they use, rather than paying allegiance to the operator of a service.</p>
-<p>When users control access to data they upload, it also applies to the operator of the service and to governments. Thus, a service should not force you to disclose private data (including private correspondence). That also means the right to use cryptography<sup><a href="#fn5" class="footnoteRef" id="fnref5">5</a></sup> should never be denied. Exceptions where the user of a service “forces” the user to give access to some user data to the service provider includes cases where data that is necessary for the service to perform the service.<sup><a href="#fn6" class="footnoteRef" id="fnref6">6</a></sup></p>
-<p>Some services allow users to submit data with the intention to make it publicly available for all. Even in these cases, some amount of user data is kept private. The user should also have control over this data. This usually applies to so-called “metadata” or to the social graph.</p>
-<p>When users make data available to others, whether to a restrictive group of people or to large groups, they should be able to decide under which permissions they grant access to this data. However, this right is not absolute and should not extend over others' rights to use the data once it has been made available to them. What's more, it does not mean that users should have the right to impose insane restrictions to other people. But this should be ultimately under the user's control, not under the control of the operator of the service.</p>
-<p>Ultimately, to ensure that user data is under the users' control, the best technical designs include peer-to-peer or distributed systems, and unhosted applications. Legally, that means terms of service should respect users' rights.</p>
-<p>In the long term, all users should have their own server.</p>
-<!--
-
-I'm really not sure this is necessary:
-
-Even then, there are possibly additional issues regarding control
-over user data. One of the most important is when user data is
-being stored by the operator of the service. In these cases,
-another layer of complexity is added, especially regarding legal
-issues.  Thus, when the user data is stored, users should be able
-to know where it is, and which laws applies to it. Obviously, when
-user data is made public, this requirement makes less sense. But
-most of the time, this is actually imperative as a lot of services
-dealing with user data are designed in a central fashion.
-
--->
-
+<p>If users have these, they are in control of their data rather than being subjugated by service providers. Many services that deal with user data at the moment are gratis, but that does not mean that they are free. Instead of paying with money, users are paying with their allegiance to the service provider so that these providers can exploit their data (e.g. by selling them or building a profile for advertisers).</p>
+<p>When users control access to the data they upload (Right #1), it means that data intended to be privately shared should not be accessible by the service provider, nor shared with governments. Users should be the only ones to have ultimate control over it and to grant access to it. Thus, a service should not force you to disclose private data (including private correspondence) with them. (Exceptions where the service provider asks the user to give access to some user data includes cases where data that is necessary for the provider to function technically.)</p>
+<p>That means the right to use cryptography<sup><a href="#fn3" class="footnoteRef" id="fnref3">3</a></sup> should never be denied. On the contrary, cryptography should be enabled by default and be put under the users’ control with Free Software that is easy to use.</p>
+<p>Some services allow users to submit data with the intention to make it publicly available for all. Even in these cases, some amount of user data is kept private (e.g. metadata or social graph data). The user should also have control over this data, because metadata or logging information can be used for unfair surveillance. Service providers must commit to keeping these to a minimum, and only for the purpose of operating the service.</p>
+<p>When users make data available to others, whether to a restrictive group of people or to large groups, they should be able to decide under which permissions they grant access to this data. However, this right is not absolute and should not extend over others’ rights to use the data once it has been made available to them. What’s more, it does not mean that users should have the right to impose unfair restrictions to other people.</p>
+<p>Ultimately, to ensure that user data is under the users’ control, the best technical designs include peer-to-peer or distributed systems, and unhosted applications. Legally, that means terms of service should respect users’ rights.</p>
+<p>When users use centralised services that uploads data to specific storage providers instead of relying on peer-to-peer systems, it is important to know where the providers might store data because they could be compelled by governments to turn over data they have in their possession.</p>
+<p>In the long term, all users should have their own server. Unfortunately, this is made very difficult by some Internet access providers that restrict their customers unfairly. Also, being your own service provider often means having to administer systems which require expertise and time that most people currently don’t have.</p>
 <p>But it is also important that users are not stuck into a specific technical solution. This is why people should always be able to leave a platform and settle elsewhere. It means users should be able to have their data in an open format, and to exchange information with an open protocol. <a href="http://fsfe.org/activities/os/def.html">Open standards</a> are standards that are free of copyright and patent constraints. Obviously, without the source code of the programs used to deal with user data, this is impractical. This is why programs should be distributed under a Free Software license.</p>
 <hr>
 <p>FAQ:</p>
 <ol type="1">
-<li>what's <em>not</em> user data?</li>
+<li>what’s <em>not</em> user data?</li>
 </ol>
-<p>User data is not necessarily private data and does not necessarily relate to a person or contains personnally identifiable information. Thus, this manifesto does not aim at modifying personal data regulations, but rather aim at complementing them.</p>
+<p>User data is not necessarily private data and does not necessarily relate to a person or contains personally identifiable information. Thus, this manifesto does not aim at modifying personal data regulations, but rather aim at complementing them.</p>
+<p>Anonymously “dumped” data, e.g. on pastebin, or data that can be edited directly by anybody, e.g. a public etherpad, do not usually deal with user data.</p>
 <hr>
-<p>Notes:</p>
-<p>[@Okhin suggested to focus on data &quot;created&quot; by the user rather than &quot;stored.&quot; While we try to say the same things (the bits are &quot;created&quot; by the user when he &quot;stores&quot;) it does not necessarily applies to all kinds of architectures. &quot;To store&quot; can be tricky to define. So I changed it to &quot;uploads&quot;]</p>
-<p>The idea is that once data leaves the private sphere to enter the sphere of the web service, the manifesto should come into play. But this needsto be define thorougly too. I can think of 100 cases where data leaves my laptop. For instance let's take email. What is &quot;stored&quot;? An email goes through many different points before it gets &quot;stored&quot; - does that mean each point, not &quot;storing&quot; from a legal sense, wouldn't be concerned with the users' privacy? No. This is why we need to explain here that cryptography's needed to achieve #1.</p>
-<p>So let's take email. When I send an email:</p>
+<p>TODO:</p>
 <ul>
-<li>I can say who should access my data (the To: and CC: fields)</li>
-<li>and how (CC: / BCC:)</li>
+<li>need to explain with examples and simple worlds why rule #1 needs cryptography and what we should aim at. By default, if I share something privately</li>
+<li>maybe add another rule or another paragraph in rule #1 to address metadata/surveillance</li>
 </ul>
-<p>What's important is that I can use GPG or other cryptographic tools to ensure that only the persons to which the data is aimed can read the email, etc. Of course, most people don't use cryptography, it's a problem, so ideally email providers should use cryptography (see https://g10code.com/steed.html for instance). On the other hand, some emails are really intended to be public or semi-public (lists, etc.) so mandatory use of cryptography would be a bit weird (except to sign). In any case, use of cryptography should NEVER be denied.</p>
-<p>One issue is #1 is what happens when data is published and then the user wants to remove it. I think we should write something about the fact that this right to control access to user data is in no way an absolute right. This right is limited by other persons' rights. So if you give a person the right to access this data at one time, you cannot take away that right completely if that infringes on others' rights. We might want to clarify this in point #1.</p>
-<p>Okhin also proposed to add:</p>
-<ol start="4" type="1">
-<li><p>Protect the data</p>
-<p>User data must be protected from seizure and spying. Federating the data and encryption must be allowed to grant backup insurance and protection from eavesdropping.</p></li>
-</ol>
-<p>But I feel that this is redundant with previous points. Seizure and spying is just one particular application of #1. Federation IMHO is a means to achieve #3. Encryption is already included, etc. But it might</p>
-<p>History:</p>
-<p>Okhin's proposal and my comments which let to the modifications https://github.com/okhin/user-data-manifesto/commit/058283b568faa7e46cf050155089c0f235e81b74#README.md</p>
 <section class="footnotes">
 <hr>
 <ol>
-<li id="fn1"><p>For instance, the power to edit or move such data. That means that anonymously “dumped” data, e.g. on pastebin, or data that can be edited directly by anybody, e.g. a public etherpad, do not usually deal with user data.<a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p>Services shall apply this principle in spirit. However, we understand that in order to provide some services such as providing email, some amount of user data needs to be accessed by the service provider (e.g. the email metadata from:, to: etc.) This is why Rule #2 is important.<a href="#fnref2">↩</a></p></li>
-<li id="fn3"><p>We mean effective cryptography. If the service provider enables cryptography but controls the keys or encrypts the data with your password, it's probably <a href="https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29">snake oil</a>.<a href="#fnref3">↩</a></p></li>
-<li id="fn4"><p>The GNU AGPL-3+ safeguards this right by making it a legal obligation to provide access to the modified program run by the service provider. (§ 13. Remote Network Interaction)<a href="#fnref4">↩</a></p></li>
-<li id="fn5"><p>We mean effective cryptography. If the service provider enables cryptography but controls the keys or encrypts the data with your password, it's probably <a href="https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29">snake oil</a>.<a href="#fnref5">↩</a></p></li>
-<li id="fn6"><p>Services shall apply this principle in spirit. However, we understand that in order to provide some services such as providing email, some amount of user data needs to be accessed by the service provider (e.g. the email metadata from:, to: etc.) This is why Rule #2 is important.<a href="#fnref6">↩</a></p></li>
+<li id="fn1"><p>For instance, the power to edit or move such data.<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>The GNU AGPL-3+ safeguards this right by making it a legal obligation to provide access to the modified program run by the service provider. (§ 13. Remote Network Interaction)<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>We mean effective cryptography. If the service provider enables cryptography but controls the keys or encrypts the data with your password, it’s probably <a href="https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29">snake oil</a>.<a href="#fnref3">↩</a></p></li>
 </ol>
 </section>
 </body>

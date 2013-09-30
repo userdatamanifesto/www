@@ -1,12 +1,12 @@
 # user data manifesto
 
-“User data” means any data submitted by or collected from a person
-using a service on the Internet, on which a user has
-power.^[For instance, the power to edit or move such data.]
-
 This manifesto aims at defining basic rights for people regarding
 their own data in the Internet age. People ought to be free and
 should not have to pay allegiance to service providers. 
+
+“User data” means any data submitted by or collected from a person
+using a service on the Internet, on which a user has
+power.^[For instance, the power to edit or move such data.]
 
 Thus, users should have:
 
@@ -146,4 +146,4 @@ TODO:
    needs cryptography and what we should aim at. By default, if I
    share something privately
  - maybe add another rule or another paragraph in rule #1 to
-   address metadata/surveillance
+   address metadata/surveillance or definition of "user data" etc.
