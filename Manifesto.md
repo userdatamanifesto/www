@@ -15,9 +15,9 @@ Thus, users should have:
 
 1. Control over user data access
 
-    Uploaded user data should be under control of the user. Users
-    should be able to decide whom to grant direct access to their
-    data and under which permissions.[^necessity]
+    Uploaded user data should be under the ultimate control of the
+    user. Users should be able to decide whom to grant direct
+    access to their data and under which permissions.[^necessity]
 
     Cryptography[^snake-oil] (e.g. a [PKI]) is necessary to enable
     this control.
@@ -29,11 +29,12 @@ the data with your password, it's probably [snake oil][Snake Oil].
 [Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
-2. Knowledge of where the data is stored
+2. Knowledge of how the data is stored
 
-    When the data is uploaded to a specific storage provider,
-    users should be able to know: where their data is stored, how
-    long, in which country, and which laws apply.
+    When the data is uploaded to a specific service provider,
+    users should be able to know where that specific service
+    provider stores data, how long, in which jurisdiction the
+    specific service provider operates, and which laws apply.
 
     It is recommended that all users have their own server in the
     long term and that users do not rely on centralised services.
@@ -57,14 +58,18 @@ If users have these, they are in control and can reasonably trust
 the services they use, rather than paying allegiance to the
 operator of a service.
 
-When users control access to data they upload, it also applies to
-the operator of the service and to governments. Thus, a service
-should not force you to disclose private data (including private
-correspondence). That also means the right to use
-cryptography[^snake-oil] should never be denied. Exceptions where
-the user of a service “forces” the user to give access to some
-user data to the service provider includes cases where data that
-is necessary for the service to perform the service.[^necessity]
+
+When users control access to the data they upload (Right #1),
+they should be the only ones to have ultimate control over it and
+able to grant access to it. It also applies to the operator of the
+service and to governments.
+Thus, a service should not force you to disclose private data
+(including private correspondence). That also means the right to
+use cryptography[^snake-oil] should never be denied. Exceptions
+where the user of a service “forces” the user to give access to
+some user data to the service provider includes cases where data
+that is necessary for the service to perform the
+service.[^necessity]
 
 
 [^necessity]: Services shall apply this principle in spirit.
@@ -111,6 +116,12 @@ most of the time, this is actually imperative as a lot of services
 dealing with user data are designed in a central fashion.
 
 -->
+
+When users use centralised services that uploads data to specific
+storage providers instead of relying on peer-to-peer systems, it
+is important to know where the providers might store data because
+they could be compelled by governments to turn down data they have
+in their possession.
 
 But it is also important that users are not stuck into a specific
 technical solution. This is why people should always be able to
