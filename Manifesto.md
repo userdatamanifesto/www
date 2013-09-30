@@ -8,20 +8,26 @@ that can be edited directly by anybody, e.g. a public etherpad, do
 not usually deal with user data.]
 
 This manifesto aims at defining basic rights for people regarding
-their own data in the Internet age. Roughly, we refuse feudalism:
-people ought to be free and should not have to pay allegiance to
-service providers. 
+their own data in the Internet age. People ought to be free and
+should not have to pay allegiance to service providers. 
 
 Thus, users should have:
 
 1. Control over user data access
 
-    The data that the user uploads should be under control of this
-    person. Users should be able to decide whom to grant direct
-    access to their data and under which permissions.[^necessity]
+    Uploaded user data should be under control of the user. Users
+    should be able to decide whom to grant direct access to their
+    data and under which permissions.[^necessity]
 
-    Cryptography[^snake-oil] is necessary to ensure this.
+    Cryptography[^snake-oil] (e.g. a [PKI]) is necessary to enable
+    this control.
 
+[^snake-oil]: We mean effective cryptography. If the service
+provider enables cryptography but controls the keys or encrypts
+the data with your password, it's probably [snake oil][Snake Oil].
+
+[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
+[PKI]: https://en.wikipedia.org/wiki/PKI
 
 2. Knowledge of where the data is stored
 
@@ -60,11 +66,6 @@ the user of a service “forces” the user to give access to some
 user data to the service provider includes cases where data that
 is necessary for the service to perform the service.[^necessity]
 
-[^snake-oil]: We mean effective cryptography. If the service
-provider enables cryptography but controls the keys or encrypts
-the data with your password, it's probably [snake oil][Snake Oil].
-
-[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
 
 [^necessity]: Services shall apply this principle in spirit.
 However, we understand that in order to provide some services such
