@@ -2,10 +2,7 @@
 
 “User data” means any data submitted by or collected from a person
 using a service on the Internet, on which a user has
-power.^[For instance, the power to edit or move such data. That
-means that anonymously “dumped” data, e.g. on pastebin, or data
-that can be edited directly by anybody, e.g. a public etherpad, do
-not usually deal with user data.]
+power.^[For instance, the power to edit or move such data.]
 
 This manifesto aims at defining basic rights for people regarding
 their own data in the Internet age. People ought to be free and
@@ -138,6 +135,10 @@ User data is not necessarily private data and does not necessarily
 relate to a person or contains personally identifiable
 information. Thus, this manifesto does not aim at modifying
 personal data regulations, but rather aim at complementing them.
+
+Anonymously “dumped” data, e.g. on pastebin, or data that can be
+edited directly by anybody, e.g. a public etherpad, do not usually
+deal with user data.
 
 -----
 
