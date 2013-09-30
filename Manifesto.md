@@ -14,7 +14,7 @@ Thus, users should have:
 
     Uploaded user data should be under the ultimate control of the
     user. Users should be able to decide whom to grant direct
-    access to their data and under which permissions.[^necessity]
+    access to their data and under which permissions.
 
     Cryptography (e.g. a [PKI]) is necessary to enable
     this control.
@@ -62,13 +62,7 @@ to grant access to it. Thus, a service should not force you
 to disclose private data (including private correspondence) with
 them. (Exceptions where the service provider asks the user to give
 access to some user data  includes cases where data that is
-necessary for the provider function technically.[^necessity])
-
-[^necessity]: Services shall apply this principle in spirit.
-However, we understand that in order to provide some services such
-as providing email, some amount of user data needs to be accessed
-by the service provider (e.g. the email metadata from:, to: etc.)
-This is why Rule #2 is important.
+necessary for the provider to function technically.)
 
 That means the right to use cryptography[^snake-oil] should never
 be denied. On the contrary, cryptography should be enabled by
@@ -84,7 +78,10 @@ the data with your password, it’s probably [snake oil][Snake Oil].
 Some services allow users to submit data with the intention to
 make it publicly available for all. Even in these cases, some
 amount of user data is kept private (e.g. metadata or social graph
-data). The user should also have control over this data.
+data). The user should also have control over this data, because
+metadata or logging information can be used for unfair surveillance.
+Service providers must commit to keeping these to a minimum, and
+only for the purpose of operating the service.
 
 When users make data available to others, whether to a restrictive
 group of people or to large groups, they should be able to decide
@@ -111,7 +108,6 @@ providers that restrict their customers unfairly. Also, being your
 own service provider often means having to administer systems
 which require expertise and time that most people currently don’t
 have.
-
 
 But it is also important that users are not stuck into a specific
 technical solution. This is why people should always be able to
