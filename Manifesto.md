@@ -41,10 +41,10 @@ the data with your password, it's probably [snake oil][Snake Oil].
     Use of peer-to-peer systems and unhosted apps are a means to
     that end.
 
-3. Right to leave a platform
+3. Freedom to choose a platform
 
     Users should always be able to extract their data at any time
-    without being locked in to a specific service.
+    without vendor lock-in.
 
     Open standards for formats and protocols, as well as access to the
     program under a Free Software license are necessary to achieve
@@ -99,6 +99,12 @@ the best technical designs include peer-to-peer or distributed
 systems, and unhosted applications. Legally, that means terms of
 service should respect users' rights.
 
+When users use centralised services that uploads data to specific
+storage providers instead of relying on peer-to-peer systems, it
+is important to know where the providers might store data because
+they could be compelled by governments to turn over data they have
+in their possession. 
+
 In the long term, all users should have their own server.
 
 <!--
@@ -116,12 +122,6 @@ most of the time, this is actually imperative as a lot of services
 dealing with user data are designed in a central fashion.
 
 -->
-
-When users use centralised services that uploads data to specific
-storage providers instead of relying on peer-to-peer systems, it
-is important to know where the providers might store data because
-they could be compelled by governments to turn down data they have
-in their possession.
 
 But it is also important that users are not stuck into a specific
 technical solution. This is why people should always be able to
