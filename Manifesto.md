@@ -54,10 +54,13 @@ the data with your password, it's probably [snake oil][Snake Oil].
 legal obligation to provide access to the modified program run by
 the service provider. (§ 13. Remote Network Interaction)
 
-If users have these, they are in control and can reasonably trust
-the services they use, rather than paying allegiance to the
-operator of a service.
-
+If users have these, they are in control of their data rather than
+being subjugated by service providers. Many services that deal with
+user data at the moment are gratis, but that does not mean that
+they are free. Instead of paying with money, users are paying
+with their allegiance to the operator of the service so that these
+operators can exploit their data (e.g. by selling them or building
+a profile for advertisers).
 
 When users control access to the data they upload (Right #1),
 they should be the only ones to have ultimate control over it and
@@ -106,22 +109,12 @@ they could be compelled by governments to turn over data they have
 in their possession. 
 
 In the long term, all users should have their own server.
+Unfortunately, this is made very difficult by some Internet access
+providers that restrict their customers unfairly. Also, being your
+own service provider often means having to administer systems
+which require expertise and time that most people currently don't
+have.
 
-<!--
-
-I'm really not sure this is necessary:
-
-Even then, there are possibly additional issues regarding control
-over user data. One of the most important is when user data is
-being stored by the operator of the service. In these cases,
-another layer of complexity is added, especially regarding legal
-issues.  Thus, when the user data is stored, users should be able
-to know where it is, and which laws applies to it. Obviously, when
-user data is made public, this requirement makes less sense. But
-most of the time, this is actually imperative as a lot of services
-dealing with user data are designed in a central fashion.
-
--->
 
 But it is also important that users are not stuck into a specific
 technical solution. This is why people should always be able to
@@ -150,4 +143,10 @@ personal data regulations, but rather aim at complementing them.
 
 
 
+TODO:
 
+ - need to explain with examples and simple worlds why rule #1
+   needs cryptography and what we should aim at. By default, if I
+   share something privately
+ - maybe add another rule or another paragraph in rule #1 to
+   address metadata/surveillance
