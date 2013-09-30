@@ -72,35 +72,32 @@ This is why Rule #2 is important.
 
 That means the right to use cryptography[^snake-oil] should never
 be denied. On the contrary, cryptography should be enabled by
-default and be put under the users' control with Free Software.  
+default and be put under the users’ control with Free Software
+that is easy to use.  
 
 [^snake-oil]: We mean effective cryptography. If the service
 provider enables cryptography but controls the keys or encrypts
-the data with your password, it's probably [snake oil][Snake Oil].
+the data with your password, it’s probably [snake oil][Snake Oil].
 
 [Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
 
-
-Some services  allow users to submit data with the intention to
+Some services allow users to submit data with the intention to
 make it publicly available for all. Even in these cases, some
-amount of user data is kept private. The user should also have
-control over this data. This usually applies to so-called
-“metadata” or to the social graph.
+amount of user data is kept private (e.g. metadata or social graph
+data). The user should also have control over this data.
 
 When users make data available to others, whether to a restrictive
 group of people or to large groups, they should be able to decide
 under which permissions they grant access to this data. However,
-this right is not absolute and should not extend over others'
+this right is not absolute and should not extend over others’
 rights to use the data once it has been made available to them.
-What's more, it does not mean that users should have the right to
-impose insane restrictions to other people. But this should be
-ultimately under the user's control, not under the control of the
-provider of the service.
+What’s more, it does not mean that users should have the right to
+impose unfair restrictions to other people. 
 
-Ultimately, to ensure that user data is under the users' control,
+Ultimately, to ensure that user data is under the users’ control,
 the best technical designs include peer-to-peer or distributed
 systems, and unhosted applications. Legally, that means terms of
-service should respect users' rights.
+service should respect users’ rights.
 
 When users use centralised services that uploads data to specific
 storage providers instead of relying on peer-to-peer systems, it
@@ -112,7 +109,7 @@ In the long term, all users should have their own server.
 Unfortunately, this is made very difficult by some Internet access
 providers that restrict their customers unfairly. Also, being your
 own service provider often means having to administer systems
-which require expertise and time that most people currently don't
+which require expertise and time that most people currently don’t
 have.
 
 
@@ -132,7 +129,7 @@ distributed under a Free Software license.
 
 FAQ:
 
-1. what's *not* user data?
+1. what’s *not* user data?
 
 User data is not necessarily private data and does not necessarily
 relate to a person or contains personally identifiable
