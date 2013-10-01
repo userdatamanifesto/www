@@ -43,11 +43,7 @@ Thus, users should have:
 
     Open standards for formats and protocols, as well as access to the
     program under a Free Software license are necessary to achieve
-    this.[^agpl]
-
-[^agpl]: The GNU AGPL-3+ safeguards this right by making it a
-legal obligation to provide access to the modified program run by
-the service provider. (§ 13. Remote Network Interaction)
+    this.
 
 If users have these, they are in control of their data rather than
 being subjugated by service providers. Many services that deal
@@ -102,7 +98,7 @@ When users use centralised services that uploads data to specific
 storage providers instead of relying on peer-to-peer systems, it
 is important to know where the providers might store data because
 they could be compelled by governments to turn over data they have
-in their possession. 
+in their possession (Right #2).
 
 In the long term, all users should have their own server.
 Unfortunately, this is made very difficult by some Internet access
@@ -111,15 +107,19 @@ own service provider often means having to administer systems
 which require expertise and time that most people currently don’t
 have.
 
-But it is also important that users are not stuck into a specific
-technical solution. This is why people should always be able to
-leave a platform and settle elsewhere. It means users should be
-able to have their data in an open format, and to exchange
-information with an open protocol. [Open standards] are standards
-that are free of copyright and patent constraints. Obviously,
-without the source code of the programs used to deal with user
-data, this is impractical. This is why programs should be
-distributed under a Free Software license.
+Users should not get stuck into a specific technical solution.
+This is why people should always be able to leave a platform and
+settle elsewhere (Right #3). It means users should be able to have
+their data in an open format, and to exchange information with an
+open protocol. [Open standards] are standards that are free of
+copyright and patent constraints. Obviously, without the source
+code of the programs used to deal with user data, this is
+impractical. This is why programs should be distributed under a
+Free Software license like the GNU AGPL-3[^agpl].
+
+[^agpl]: The GNU AGPL-3 safeguards this right by making it a
+legal obligation to provide access to the modified program run by
+the service provider. (§ 13. Remote Network Interaction)
 
 [Open standards]: http://fsfe.org/activities/os/def.html
 
