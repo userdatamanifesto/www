@@ -4,9 +4,8 @@ This manifesto aims at defining basic rights for people regarding
 their own data in the Internet age. People ought to be free and
 should not have to pay allegiance to service providers. 
 
-“User data” means any data submitted by or collected from a person
-using a service on the Internet, on which a user has
-power.^[For instance, the power to edit or move such data.]
+“User data” means any data uploaded by a person or generated from
+a person, using a service on the Internet.
 
 Thus, users should have:
 
