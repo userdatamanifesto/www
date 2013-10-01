@@ -18,6 +18,10 @@ Thus, users should have:
     Cryptography (e.g. a [PKI]) is necessary to enable
     this control.
 
+    Data generated from user activity (e.g. metadata or social
+    graph data) should be made accessible to these users and put
+    under their contorl.
+
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
 2. Knowledge of how the data is stored
