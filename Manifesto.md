@@ -64,9 +64,7 @@ accessible by the service provider, nor shared with governments.
 Users should be the only ones to have ultimate control over it and
 to grant access to it. Thus, a service should not force you
 to disclose private data (including private correspondence) with
-them. (Exceptions where the service provider asks the user to give
-access to some user data  includes cases where data that is
-necessary for the provider to function technically.)
+them. 
 
 That means the right to use cryptography[^snake-oil] should never
 be denied. On the contrary, cryptography should be enabled by
