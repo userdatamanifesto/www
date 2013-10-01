@@ -50,12 +50,13 @@ legal obligation to provide access to the modified program run by
 the service provider. (§ 13. Remote Network Interaction)
 
 If users have these, they are in control of their data rather than
-being subjugated by service providers. Many services that deal with
-user data at the moment are gratis, but that does not mean that
-they are free. Instead of paying with money, users are paying
-with their allegiance to the service provider so that these
-providers can exploit their data (e.g. by selling them or building
-a profile for advertisers).
+being subjugated by service providers. Many services that deal
+with user data at the moment are gratis, but that does not mean
+they are free. Instead of paying with money, users are paying with
+their allegiance to the service providers so that they can exploit
+user data (e.g. by selling them or building a profile for
+advertisers). Thus, massive and centralised surveillance is common
+for users of internet services.
 
 When users control access to the data they upload (Right #1), it
 means that data intended to be privately shared should not be
