@@ -20,7 +20,7 @@ Thus, users should have:
 
     Data generated from user activity (e.g. metadata or social
     graph data) should be made accessible to these users and put
-    under their contorl.
+    under their control.
 
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
