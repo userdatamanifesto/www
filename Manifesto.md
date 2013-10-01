@@ -56,7 +56,7 @@ for users of internet services.
 
 When users control access to the data they upload (Right #1), it
 means that data intended to be privately shared should not be
-accessible by the service provider, nor shared with governments.
+accessible to the service provider, nor shared with governments.
 Users should be the only ones to have ultimate control over it and
 to grant access to it. Thus, a service should not force you
 to disclose private data (including private correspondence) with
@@ -108,7 +108,7 @@ which require expertise and time that most people currently don’t
 have.
 
 Users should not get stuck into a specific technical solution.
-This is why people should always be able to leave a platform and
+This is why they should always be able to leave a platform and
 settle elsewhere (Right #3). It means users should be able to have
 their data in an open format, and to exchange information with an
 open protocol. [Open standards] are standards that are free of
