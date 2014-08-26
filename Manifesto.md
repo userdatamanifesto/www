@@ -18,7 +18,7 @@ Thus, users should have:
     (direct[^whydirect]) access to their data and with which permissions such
     access should be granted.
 
-    /*Cryptography (e.g. a [PKI]) is necessary to enable this control.*/
+<!--Cryptography (e.g. a [PKI]) is necessary to enable this control.-->
 
     Data received, generated, collected and/or constructed from users' online
     activity while using the service (e.g. metadata or social graph data)
