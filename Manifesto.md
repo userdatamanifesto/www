@@ -25,7 +25,7 @@ Thus, users should have:
     Data received, generated, collected and/or constructed from
     users' online activity while using the service (e.g. metadata or social 
     graph data) should be made accessible to these users and put 
-    under their control. If this control can't be given, than this
+    under their control. If this control can't be given, then this
     type of data should be anonymous and not stored for long periods.
 
 [PKI]: https://en.wikipedia.org/wiki/PKI
