@@ -28,11 +28,6 @@ Thus, users should have:
     under their control. If this control can't be given, than this
     type of data should be anonymous and not stored for long periods.
 
-[^whydirect]: Once the user has granted direct access to somebody else over the
-  data, it is no longer in their sole power to decide who should get access to
-  that data (unless other conditions outside the scope of this manifesto
-  apply).
-
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
 2. **Knowledge** of how the data is stored
@@ -144,6 +139,12 @@ Free Software license like the GNU AGPL-3[^agpl].
 [^agpl]: The GNU AGPL-3 safeguards this right by making it a
 legal obligation to provide access to the modified program run by
 the service provider. ([§ 13. Remote Network Interaction][agplv3])
+
+[^whydirect]: Once the user has granted direct access to somebody else over the
+  data, it is no longer in their sole power to decide who should get access to
+  that data (unless other conditions outside the scope of this manifesto
+  apply).
+
 
 [Open standards]: http://fsfe.org/activities/os/def.html
 [agplv3]: http://www.gnu.org/licenses/agpl.html
