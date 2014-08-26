@@ -13,7 +13,7 @@ should not have to pay allegiance to service providers.
 
 Thus, users should have:
 
-1. Control over user data access
+1. **Control** over user data access
 
     Data explicitly and willingly uploaded by a user should always be under the
     ultimate control of the user. Users should be able to decide whom to grant
@@ -35,7 +35,7 @@ Thus, users should have:
 
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
-2. Knowledge of how the data is stored
+2. **Knowledge** of how the data is stored
 
     When the data is uploaded to a specific service provider,
     users should be informed about where that specific service
@@ -49,7 +49,7 @@ Thus, users should have:
     peer-to-peer systems and unhosted apps are a means to
     that end.
 
-3. Freedom to choose a platform
+3. **Freedom** to choose a platform
 
     Users should always be able to extract their data from
     the service at any time without experiencing any vendor 
