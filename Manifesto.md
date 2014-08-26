@@ -15,10 +15,10 @@ Thus, users should have:
 
 1. Control over user data access
 
-    Data explicitly and willingly uploaded by a user should always 
-    be under the ultimate control of the user. Users should be able 
-    to decide whom to grant (direct) access to their data and under 
-    which permissions such access should occur.
+    Data explicitly and willingly uploaded by a user should always be under the
+    ultimate control of the user. Users should be able to decide whom to grant
+    (direct[^whydirect]) access to their data and with which permissions such
+    access should be granted.
 
     Cryptography (e.g. a [PKI]) is necessary to enable this control.
 
@@ -28,12 +28,17 @@ Thus, users should have:
     under their control. If this control can't be given, than this
     type of data should be anonymous and not stored for long periods.
 
+[^whydirect]: Once the user has granted direct access to somebody else over the
+  data, it is no longer in their sole power to decide who should get access to
+  that data (unless other conditions outside the scope of this manifesto
+  apply).
+
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
 2. Knowledge of how the data is stored
 
     When the data is uploaded to a specific service provider,
-    users should be able to know where that specific service
+    users should be informed about where that specific service
     provider stores the data, how long, in which jurisdiction the
     specific service provider operates, and which laws apply.
 
