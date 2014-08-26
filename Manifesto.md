@@ -37,12 +37,10 @@ Thus, users should have:
     provider stores the data, how long, in which jurisdiction the
     specific service provider operates, and which laws apply.
 
-    A solution would be, that all users are free to choose to 
-    store their own data on devices (e.g. servers) in their 
-    vicinity and under their direct control. This way, users 
-    do not have to rely on centralised services. The use of 
-    peer-to-peer systems and unhosted apps are a means to
-    that end.
+    Users should be free to choose to store their own data on devices (e.g.
+    servers) in their vicinity and under their direct control. This way, users
+    do not have to rely on centralised services. The use of peer-to-peer
+    systems and unhosted apps are a means to that end.
 
 3. **Freedom** to choose a platform
 
