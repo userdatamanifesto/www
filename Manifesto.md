@@ -22,8 +22,6 @@ Thus, users should have:
     given, then this type of data should be anonymous or not stored for
     periods longer than necessary.
 
-[PKI]: https://en.wikipedia.org/wiki/PKI
-
 2. **Protection** from legal schemes
 
     When user data is governed by other laws regulating their flow (e.g.
@@ -142,6 +140,8 @@ the GNU AGPL-3[^agpl].
 
 
 <!--Cryptography (e.g. a [PKI]) is necessary to enable this control.-->
+
+[PKI]: https://en.wikipedia.org/wiki/PKI
 
 [Open standards]: http://fsfe.org/activities/os/def.html [agplv3]:
 http://www.gnu.org/licenses/agpl.html
