@@ -1,13 +1,11 @@
 # user data manifesto
 
-This manifesto aims at defining basic rights for people regarding their own
-data in the Internet age. People ought to be free and should not have to pay
-allegiance to service providers. 
+This manifesto aims at defining users’ fundamental rights to their own data in
+the Internet age. People ought to be free and should not have to pay allegiance
+to service providers. 
 
-<ol start="0"> <li> 
-“User data” means any data uploaded by a user and/or generated from a user,
-while using a service on the Internet.  
-</li> </ol>
+<ol start="0"><li>“User data” means any data uploaded by a user and/or
+generated from a user, while using a service on the Internet. </li></ol>
 
 Thus, users should have:
 
@@ -18,18 +16,20 @@ Thus, users should have:
     (direct[^whydirect]) access to their data and with which permissions such
     access should be granted.
 
-<!--Cryptography (e.g. a [PKI]) is necessary to enable this control.-->
-
-    Data received, generated, collected and/or constructed from users' online
-    activity while using the service (e.g. metadata or social graph data)
-    should be made accessible to these users and put under their control. If
-    this control can't be given, then this type of data should be anonymous and
-    not stored for long periods.
+    Data received, generated, and/or collected from users’ activity while using
+    the service (e.g. metadata or social graph data) should be made accessible
+    to them and put under their control as well. If this control can’t be
+    given, then this type of data should be anonymous or not stored for
+    periods longer than necessary.
 
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
-2. **Protection** from arbitrary copyright licensing TODO reformulate
-overly broad
+2. **Protection** from legal schemes
+
+    When user data is governed by other laws regulating their flow (e.g.
+    copyright, personal data protection), users should be protected from
+    granting broad licenses which catch rights that are not necessary for the
+    operations on data.
 
 3. **Knowledge** of how the data is stored
 
@@ -40,17 +40,15 @@ overly broad
 
     Users should be free to choose to store their own data on devices (e.g.
     servers) in their vicinity and under their direct control. This way, users
-    do not have to rely on centralised services. The use of peer-to-peer
-    systems and unhosted apps are a means to that end.
+    do not have to rely on centralised services: they can rely on peer-to-peer
+    systems and unhosted apps instead.
 
 4. **Freedom** to choose a platform
 
-    Users should always be able to migrate their data from the service to
-    another equivalent service at any time without experiencing any vendor
-    lock-in.
+    Users should always be able to extract their data from the service at any
+    time without experiencing any vendor lock-in.
 
     Open standards for formats and protocols are necessary to guarantee this.
-    <!--TODO add Free Software here-->
 
 
 
@@ -59,18 +57,19 @@ If users have these rights, they are in control of their data rather than being
 subjugated by service providers. 
 
 Many services that deal with user data at the moment are gratis, but that does
-not mean they are free. Instead of paying with money, users are paying with
-their allegiance to the service providers so that they can exploit user data
-(e.g. by selling them or building a profile for advertisers). 
+not mean they are free (as in freedom). Instead of paying with money, users are
+paying with their allegiance to the service providers so that they can exploit
+user data (e.g. by selling them, licensing them or building a profile for
+advertisers). 
 
 Surrendering privacy in this way may seem to many people a trivial thing and a
-small price to pay for the sake of convenience that the Internet services
-brings. This has made this kind of exchange to become common.
+small price to pay for the sake of convenience that these Internet services
+bring. This has made this kind of exchange to become common.
 
 Service providers have thus been unwittingly compelled to turn their valuable
 Internet services into massive and centralised surveillance systems. It is of
 grave importance that people understand/realize this, since it forms a serious
-threat to the freedom of humanity
+threat to the freedom of humanity.
 
 When users control access to the data they upload (Right #1), it means that
 data intended to be privately shared should not be accessible to the service
@@ -92,21 +91,21 @@ users’ control with Free Software that is easy to use.
 Some services allow users to submit data with the intention to make it publicly
 available for all. Even in these cases, some amount of user data is kept
 private (e.g. metadata or social graph data). The user should also have control
-over this data, because metadata or logging information can be used for unfair
-surveillance.  Service providers must commit to keeping these to a minimum, and
-only for the purpose of operating the service.
+over this data, because metadata and logging information can be used for
+disproportionate surveillance.  Service providers must commit to keeping these
+to a minimum, and only for the purpose of operating the service.
 
 When users make data available to others, whether to a restrictive group of
 people or to large groups, they should be able to decide under which
 permissions they grant access to this data. However, this right is not absolute
-and should not extend over others’ rights to use the data once it has been made
-available to them.  What’s more, it does not mean that users should have the
-right to impose unfair restrictions to other people. 
+and should not extend over others’ rights to use and exploit the data once it
+has been made available to them.  What’s more, it does not mean that users
+should have the right to impose unfair restrictions to other people. 
 
 Ultimately, to ensure that user data is under the users’ control, the best
 technical designs include peer-to-peer or distributed systems, and unhosted
 applications. Legally, that means terms of service should respect users’
-rights.
+rights and give them the possibility to exercise the rights defined in this manifesto.
 
 When users use centralised services that uploads data to specific storage
 providers instead of relying on peer-to-peer systems, it is important to know
@@ -117,16 +116,16 @@ In the long term, all users should have their own server.  Unfortunately, this
 is made very difficult by some Internet access providers that restrict their
 customers unfairly. Also, being your own service provider often means having to
 administer systems which require expertise and time that most people currently
-don’t have or are willing to invest.
+don’t have or are not willing to invest.
 
 Users should not get stuck into a specific technical solution.  This is why
-they should always be able to leave a platform and settle elsewhere (Right #3).
-It means users should be able to have their data in an open format, and to
-exchange information with an open protocol. [Open standards] are standards that
-are free of copyright and patent constraints. Obviously, without the source
-code of the programs used to deal with user data, this is impractical. This is
-why programs should be distributed under a Free Software license like the GNU
-AGPL-3[^agpl].
+they should always be able to leave a platform and settle elsewhere (Right
+#3).  It means users should be able to have their data in an open format, and
+to exchange information with an open protocol. [Open standards] are standards
+that are free of copyright and patent constraints. Obviously, without the
+source code of the programs used to deal with user data, this is impractical.
+This is why programs should be distributed under a Free Software license like
+the GNU AGPL-3[^agpl].
 
 [^agpl]: The GNU AGPL-3 safeguards this right by making it a legal obligation
   to provide access to the modified program run by the service provider.
@@ -138,7 +137,8 @@ AGPL-3[^agpl].
   apply).
 
 
-TODO: add about right to cryptography; Add a "aside" did you nkow that? Ask Jan about his idea
+
+<!--Cryptography (e.g. a [PKI]) is necessary to enable this control.-->
 
 [Open standards]: http://fsfe.org/activities/os/def.html [agplv3]:
 http://www.gnu.org/licenses/agpl.html
@@ -169,3 +169,6 @@ TODO:
    privately
  - maybe add another rule or another paragraph in rule #1 to address
    metadata/surveillance or definition of "user data" etc.
+ - add about right to cryptography; Add a "aside" did you nkow that? Ask Jan
+   about his idea
+ - add free software about the last point freedom to choose platform
