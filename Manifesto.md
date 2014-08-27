@@ -143,8 +143,9 @@ the GNU AGPL-3[^agpl].
 
 [PKI]: https://en.wikipedia.org/wiki/PKI
 
-[Open standards]: http://fsfe.org/activities/os/def.html [agplv3]:
-http://www.gnu.org/licenses/agpl.html
+[Open standards]: http://fsfe.org/activities/os/def.html 
+
+[agplv3]: http://www.gnu.org/licenses/agpl.html
 
 -----
 
