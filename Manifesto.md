@@ -11,7 +11,7 @@ Thus, users should have:
 
 1. **Control** over user data access
 
-    Data explicitly and willingly uploaded by a user should always be under the
+    Data explicitly and willingly uploaded by a user should be under the
     ultimate control of the user. Users should be able to decide whom to grant
     (direct[^whydirect]) access to their data and with which permissions such
     access should be granted.
@@ -28,7 +28,7 @@ Thus, users should have:
 
     When user data is governed by other laws regulating their flow (e.g.
     copyright, personal data protection), users should be protected from
-    granting broad licenses which catch rights that are not necessary for the
+    granting broad licenses catching rights that are not necessary for the
     operations on data.
 
 3. **Knowledge** of how the data is stored
@@ -40,8 +40,7 @@ Thus, users should have:
 
     Users should be free to choose to store their own data on devices (e.g.
     servers) in their vicinity and under their direct control. This way, users
-    do not have to rely on centralised services: they can rely on peer-to-peer
-    systems and unhosted apps instead.
+    do not have to rely on centralised services.
 
 4. **Freedom** to choose a platform
 
@@ -49,6 +48,8 @@ Thus, users should have:
     time without experiencing any vendor lock-in.
 
     Open standards for formats and protocols are necessary to guarantee this.
+    Programs under a Free Software license should be available for such formats
+    and protocols.
 
 
 
@@ -110,17 +111,19 @@ rights and give them the possibility to exercise the rights defined in this mani
 When users use centralised services that uploads data to specific storage
 providers instead of relying on peer-to-peer systems, it is important to know
 where the providers might store data because they could be compelled by
-governments to turn over data they have in their possession (Right #2).
+governments to turn over data they have in their possession (Right #3).
 
-In the long term, all users should have their own server.  Unfortunately, this
-is made very difficult by some Internet access providers that restrict their
-customers unfairly. Also, being your own service provider often means having to
-administer systems which require expertise and time that most people currently
-don’t have or are not willing to invest.
+Users should not rely on centralised services. Peer-to-peer systems and
+unhosted applications are a means to that end.  In the long term, all users
+should have their own server.  Unfortunately, this is made very difficult by
+some Internet access providers that restrict their customers unfairly. Also,
+being your own service provider often means having to administer systems which
+require expertise and time that most people currently don’t have or are not
+willing to invest.
 
 Users should not get stuck into a specific technical solution.  This is why
 they should always be able to leave a platform and settle elsewhere (Right
-#3).  It means users should be able to have their data in an open format, and
+#4).  It means users should be able to have their data in an open format, and
 to exchange information with an open protocol. [Open standards] are standards
 that are free of copyright and patent constraints. Obviously, without the
 source code of the programs used to deal with user data, this is impractical.
@@ -164,11 +167,6 @@ data.
 
 TODO:
 
- - need to explain with examples and simple worlds why rule #1 needs
-   cryptography and what we should aim at. By default, if I share something
-   privately
- - maybe add another rule or another paragraph in rule #1 to address
-   metadata/surveillance or definition of "user data" etc.
+ - add a paragraph expand Right #2
  - add about right to cryptography; Add a "aside" did you nkow that? Ask Jan
    about his idea
- - add free software about the last point freedom to choose platform
