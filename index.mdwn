@@ -1,0 +1,51 @@
+# user data manifesto
+
+This manifesto aims at defining users’ fundamental rights to their own data in
+the Internet age. People ought to be free and should not have to pay allegiance
+to service providers. 
+
+<ol start="0"><li>“User data” means any data uploaded by a user and/or
+generated from a user, while using a service on the Internet. </li></ol>
+
+Thus, users should have:
+
+1. **Control** over user data access
+
+    Data explicitly and willingly uploaded by a user should be under the
+    ultimate control of the user. Users should be able to decide whom to grant
+    (direct[^whydirect]) access to their data and with which permissions such
+    access should be granted.
+
+    Data received, generated, and/or collected from users’ activity while using
+    the service (e.g. metadata or social graph data) should be made accessible
+    to them and put under their control as well. If this control can’t be
+    given, then this type of data should be anonymous or not stored for
+    periods longer than necessary.
+
+<!--2. **Protection** from legal schemes
+
+    When user data is governed by other laws regulating their flow (e.g.
+    copyright, personal data protection), users should be protected from
+    granting broad licenses catching rights that are not necessary for the
+    operations on data.-->
+
+3. **Knowledge** of how the data is stored
+
+    When the data is uploaded to a specific service provider, users should be
+    informed about where that specific service provider stores the data, how
+    long, in which jurisdiction the specific service provider operates, and
+    which laws apply.
+
+    Users should be free to choose to store their own data on devices (e.g.
+    servers) in their vicinity and under their direct control. This way, users
+    do not have to rely on centralised services.
+
+4. **Freedom** to choose a platform
+
+    Users should always be able to extract their data from the service at any
+    time without experiencing any vendor lock-in.
+
+    Open standards for formats and protocols are necessary to guarantee this.
+    Programs under a Free Software license should be available for such formats
+    and protocols.
+
