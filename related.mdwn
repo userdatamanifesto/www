@@ -1,0 +1,45 @@
+[[!meta title="Related projects and statements"]]
+[[!meta language="en"]]
+[[!tag lang:en]]
+
+Here's a list of related projects or statements and an extract from their
+introduction or preamble.
+
+  - [Franklin Street Statement on Freedom and Network Services][franklin]
+
+    > The current generation of network services or Software as a Service can
+    > provide advantages over traditional, locally installed software in ease of
+    > deployment, collaboration, and data aggregation. Many users have begun to
+    > rely on such services in preference to software provisioned by themselves or
+    > their organizations. This move toward centralization has powerful effects on
+    > software freedom and user autonomy.
+
+  - [Free/Open Services Definition][FreeOpenServicesDefinition]
+
+    > Software as a Service (SaaS) has become extremely popular in the last few
+    > years, demonstrating a number of benefits to users and developers,
+    > including:
+    >
+    > […]
+    > 
+    > Unfortunately, SaaS has historically been antithetical to many of the
+    > goals advanced by free software and open source. Among the restrictions
+    > typical of many SaaS systems: 
+
+  - [Open Software Service Definition][opendefinition]
+
+    > An online service, also known under the title of Software as a Service
+    > (SaaS), is a service provided by a software application running online and
+    > making its facilities available to users over the Internet via an interface
+    > (be that HTML presented by a web-browser such as Firefox, via a web-API or by
+    > any other means).
+    > 
+    > With an online-service, in contrast to a traditional software application,
+    > users no longer need to ‘possess’ (own or license) the software to use it.
+    > Instead they can simply interact via a standard client (such as web-browser)
+    > and pay, where they do pay, for use of the ‘service’ rather than for ‘owning’
+    > (or licensing) the application itself.
+
+[opendefinition]: http://opendefinition.org/software-service/
+[franklin]: http://autonomo.us/2008/07/14/franklin-street-statement/
+[FreeOpenServicesDefinition]: https://wiki.gnome.org/Attic/FreeOpenServicesDefinition
