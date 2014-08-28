@@ -119,9 +119,9 @@ require expertise and time that most people currently don’t have or are not
 willing to invest.
 
 Users should not get stuck into a specific technical solution.  This is why
-they should always be able to leave a platform and settle elsewhere (Right
-#4).  It means users should be able to have their data in an open format, and
-to exchange information with an open protocol. [Open standards] are standards
+they should always be able to leave a platform and settle elsewhere (Right #4).
+It means users should be able to have their data in an open format, and to
+exchange information with an open protocol. [Open standards] are standards
 that are free of copyright and patent constraints. Obviously, without the
 source code of the programs used to deal with user data, this is impractical.
 This is why programs should be distributed under a Free Software license like
