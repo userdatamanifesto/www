@@ -13,7 +13,7 @@ Thus, users should have:
 
     Data explicitly and willingly uploaded by a user should be under the
     ultimate control of the user. Users should be able to decide whom to grant
-    (direct[^whydirect]) access to their data and with which permissions such
+    direct access to their data and with which permissions and licenses such
     access should be granted.
 
     Data received, generated, and/or collected from users’ activity while using
@@ -22,14 +22,7 @@ Thus, users should have:
     given, then this type of data should be anonymous or not stored for
     periods longer than necessary.
 
-2. **Protection** from legal schemes
-
-    When user data is governed by other laws regulating their flow (e.g.
-    copyright, personal data protection), users should be protected from
-    granting broad licenses catching rights that are not necessary for the
-    operations on data.
-
-3. **Knowledge** of how the data is stored
+2. **Knowledge** of how the data is stored
 
     When the data is uploaded to a specific service provider, users should be
     informed about where that specific service provider stores the data, how
@@ -40,7 +33,7 @@ Thus, users should have:
     servers) in their vicinity and under their direct control. This way, users
     do not have to rely on centralised services.
 
-4. **Freedom** to choose a platform
+3. **Freedom** to choose a platform
 
     Users should always be able to extract their data from the service at any
     time without experiencing any vendor lock-in.
@@ -101,6 +94,12 @@ and should not extend over others’ rights to use and exploit the data once it
 has been made available to them.  What’s more, it does not mean that users
 should have the right to impose unfair restrictions to other people. 
 
+<!--**Protection** from legal schemes-->
+When user data is governed by other laws regulating their flow (e.g.
+copyright, personal data protection), users should be protected from granting
+broad licenses catching rights that are not necessary for the operations on
+data. <!--TODO: make it more concrete and simple-->
+
 Ultimately, to ensure that user data is under the users’ control, the best
 technical designs include peer-to-peer or distributed systems, and unhosted
 applications. Legally, that means terms of service should respect users’
@@ -149,28 +148,12 @@ the GNU AGPL-3[^agpl].
 
 -----
 
-FAQ:
-
-1. what’s *not* user data?
-
-User data is not necessarily private data and does not necessarily relate to a
-person or contains personally identifiable information. Thus, this manifesto
-does not aim at modifying personal data regulations, but rather aim at
-complementing them.
-
-Anonymously “dumped” data, e.g. on pastebin, or data that can be edited
-directly by anybody, e.g. a public etherpad, do not usually deal with user
-data.
-
------
 
 
 
 TODO:
 
- - add a paragraph expand Right #2
  - add about right to cryptography; Add a "aside" did you nkow that? Ask Jan
    about his idea
- - point 2 is confusing: it's about not giving up on other rights…
  - in lasst point, paragraph about open standard and free software: is this
    implementation? is this necessary or should it be in the details?
