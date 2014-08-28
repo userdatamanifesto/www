@@ -17,49 +17,50 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"user data manifesto\"]]\n"
-msgstr ""
+msgstr "[[!meta title=\"manifeste des données utilisateur\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta description=\"This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.\"]] \n"
-msgstr ""
+msgstr "[[!meta description=\"Ce manifeste a pour but de définir les droits fondamentaux des utilisateurs sur leurs données à l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer allégeance aux fournisseurs de service.\"]] \n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
-msgstr ""
+msgstr "[[!meta language=\"fr\"]]\n"
 
 #. type: Title #
 #, no-wrap
 msgid "2.0 DRAFT"
-msgstr ""
+msgstr "2.0 BROUILLON"
 
 #. type: Plain text
 msgid ""
 "This manifesto aims at defining users’ fundamental [[!taglink "
 "rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
-msgstr ""
+msgstr "Ce manifeste a pour but de définir [[!taglink les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer allégeance aux fournisseurs de service."
+
 
 #. type: Plain text
 #, no-wrap
 msgid ""
 "<ol start=\"0\"><li><strong>User data</strong> means any data uploaded by a user and/or\n"
 "generated from a user, while using a service on the Internet. </li></ol>\n"
-msgstr ""
+msgstr "<ol start=\"0\"><li>Par <strong>données utilisateur</strong>, on entend les données envoyées par un utilisateur et/ou générées depuis une utilisatrice, au moyen de l’utilisation d’un service sur Internet.</li></ol>\n"
 
 #. type: Plain text
 msgid "Thus, users should have:"
-msgstr ""
+msgstr "Ainsi, les utilisateurs devrait avoir :"
 
 #. type: Bullet: '1. '
 msgid "**Control** over user data access"
-msgstr ""
+msgstr "La **maîtrise** sur l’accès aux données utilisateur"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
