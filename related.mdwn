@@ -1,6 +1,6 @@
 [[!meta title="Related projects and statements"]]
 [[!meta language="en"]]
-[[!tag lang:en]]
+[[!tag projects]]
 
 Here's a list of related projects or statements and an extract from their
 introduction or preamble.
