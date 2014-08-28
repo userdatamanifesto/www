@@ -168,14 +168,3 @@ to provide access to the modified program run by the service provider.
 
 [agplv3]: http://www.gnu.org/licenses/agpl.html
 
------
-
-
-
-
-TODO:
-
- - add about right to cryptography; Add a "aside" did you nkow that? Ask Jan
-   about his idea
- - in lasst point, paragraph about open standard and free software: is this
-   implementation? is this necessary or should it be in the details?
