@@ -1,13 +1,12 @@
 [[!meta title="user data manifesto"]]
 [[!meta description="This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers."]] 
-[[!tag datarights]]
 [[!meta language="en"]]
 
 # 2.0 DRAFT
 
-This manifesto aims at defining users’ fundamental rights to their own data in
-the Internet age. People ought to be free and should not have to pay allegiance
-to service providers. 
+This manifesto aims at defining users’ fundamental 
+[[!taglink rights_to_their_own_data|datarights]] in the Internet age. People
+ought to be free and should not have to pay allegiance to service providers. 
 
 <ol start="0"><li><strong>User data</strong> means any data uploaded by a user and/or
 generated from a user, while using a service on the Internet. </li></ol>
