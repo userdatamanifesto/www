@@ -1,4 +1,1 @@
-[[!meta title="pages tagged datarights"]]
-
-[[!inline pages="tagged(datarights)" actions="no" archive="yes"
-feedshow=10]]
+TODO
