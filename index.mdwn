@@ -117,9 +117,7 @@ Thus, users should have:
     they should always be able to leave a platform and settle elsewhere.
 
     Open standards for formats and protocols are necessary to guarantee this.
-    
-    [Open standards] are standards that are free of copyright and patent
-    constraints. Obviously, without the source code of the programs used to
+    Obviously, without the source code of the programs used to
     deal with user data, this is impractical.  This is why programs should be
     distributed under a [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].
     """]]
@@ -151,16 +149,6 @@ and give them the possibility to exercise the rights defined in this manifesto.
 
 
 
-[^whydirect]: Once the user has granted direct access to somebody else over the
-  data, it is no longer in their sole power to decide who should get access to
-  that data (unless other conditions outside the scope of this manifesto
-  apply).
 
-
-<!--Cryptography (e.g. a [PKI]) is necessary to enable this control.-->
-
-[PKI]: https://en.wikipedia.org/wiki/PKI
-
-[Open standards]: http://fsfe.org/activities/os/def.html 
 
 
