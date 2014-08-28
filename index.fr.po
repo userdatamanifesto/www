@@ -51,7 +51,7 @@ msgstr "<ol start=\"0\"><li>Par <strong>données utilisateur</strong>, on entend
 
 #. type: Plain text
 msgid "Thus, users should have:"
-msgstr "Ainsi, les utilisateurs devrait avoir :"
+msgstr "Ainsi, les utilisateurs devraient avoir :"
 
 #. type: Bullet: '1. '
 msgid "**Control** over user data access"
@@ -69,17 +69,17 @@ msgid ""
 "    ultimate control of the user. Users should be able to decide whom to grant\n"
 "    direct access to their data and with which permissions and licenses such\n"
 "    access should be granted.\n"
-msgstr ""
+msgstr "Les données explicitement et volontairement envoyées par une utilisatrice devraient être sous la pleine maîtrise de l’utilisatrice. Les utilisateurs devraient être capables de décider à qui accorder un accès direct à leurs données et avec quelles permissions et licences cet accès devrait être accordé."
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"wucat\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"wucat\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -114,7 +114,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"ssauts\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -129,12 +129,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -159,12 +159,12 @@ msgstr ""
 
 #. type: Bullet: '2. '
 msgid "**Knowledge** of how the data is stored"
-msgstr ""
+msgstr "La **connaissance** de comment les données sont stockées"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -178,12 +178,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -197,7 +197,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -210,12 +210,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -231,12 +231,12 @@ msgstr ""
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
-msgstr ""
+msgstr "La **liberté** de choisir une plateforme"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -248,12 +248,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
