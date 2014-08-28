@@ -104,22 +104,19 @@ Thus, users should have:
     [[!toggle  id="usngsi" text="""
     Users should always be able to extract their data from the service at any
     time without experiencing any vendor lock-in.
-
-    Open standards for formats and protocols are necessary to guarantee this.
-    Programs under a Free Software license should be available for such formats
-    and protocols.
     """]]
 
     [[!toggleable id="usngsi" text="""
     [[!toggle  id="usngsi" text="×"]]
     Users should not get stuck into a specific technical solution.  This is why
-    they should always be able to leave a platform and settle elsewhere (Right #4).
-    It means users should be able to have their data in an open format, and to
-    exchange information with an open protocol. [Open standards] are standards
-    that are free of copyright and patent constraints. Obviously, without the
-    source code of the programs used to deal with user data, this is impractical.
-    This is why programs should be distributed under a Free Software license like
-    the GNU AGPL-3[^agpl].
+    they should always be able to leave a platform and settle elsewhere.
+
+    Open standards for formats and protocols are necessary to guarantee this.
+    
+    [Open standards] are standards that are free of copyright and patent
+    constraints. Obviously, without the source code of the programs used to
+    deal with user data, this is impractical.  This is why programs should be
+    distributed under a Free Software license like the GNU AGPL-3[^agpl].
     """]]
 
 
