@@ -11,16 +11,66 @@ Thus, users should have:
 
 1. **Control** over user data access
 
+    [[!toggle  id="wucat" text="""
     Data explicitly and willingly uploaded by a user should be under the
     ultimate control of the user. Users should be able to decide whom to grant
     direct access to their data and with which permissions and licenses such
     access should be granted.
+    """]]
 
+    [[!toggleable id="wucat" text="""
+    [[!toggle  id="wucat" text="×"]]
+    When users control access to the data they upload (Right #1), it means that
+    data intended to be privately shared should not be accessible to the service
+    provider, nor shared with governments.  Users should be the only ones to have
+    ultimate control over it and to grant access to it. Thus, a service should not
+    force you to disclose private data (including private correspondence) with
+    them. 
+
+    That means the right to use cryptography[^snake-oil] should never be denied. On
+    the contrary, cryptography should be enabled by default and be put under the
+    users’ control with Free Software that is easy to use.  
+    """]]
+
+    [[!toggle  id="ipsum" text="""
     Data received, generated, and/or collected from users’ activity while using
     the service (e.g. metadata or social graph data) should be made accessible
     to them and put under their control as well. If this control can’t be
     given, then this type of data should be anonymous or not stored for
     periods longer than necessary.
+    """]]
+
+<!--**Protection** from legal schemes-->
+When user data is governed by other laws regulating their flow (e.g.
+copyright, personal data protection), users should be protected from granting
+broad licenses catching rights that are not necessary for the operations on
+data. <!--TODO: make it more concrete and simple-->
+
+[^snake-oil]: We mean effective cryptography. If the service provider enables
+  cryptography but controls the keys or encrypts the data with your password,
+  it’s probably [snake oil][Snake Oil].
+
+[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
+
+Some services allow users to submit data with the intention to make it publicly
+available for all. Even in these cases, some amount of user data is kept
+private (e.g. metadata or social graph data). The user should also have control
+over this data, because metadata and logging information can be used for
+disproportionate surveillance.  Service providers must commit to keeping these
+to a minimum, and only for the purpose of operating the service.
+
+When users make data available to others, whether to a restrictive group of
+people or to large groups, they should be able to decide under which
+permissions they grant access to this data. However, this right is not absolute
+and should not extend over others’ rights to use and exploit the data once it
+has been made available to them.  What’s more, it does not mean that users
+should have the right to impose unfair restrictions to other people. 
+
+
+Ultimately, to ensure that user data is under the users’ control, the best
+technical designs include peer-to-peer or distributed systems, and unhosted
+applications. Legally, that means terms of service should respect users’
+rights and give them the possibility to exercise the rights defined in this manifesto.
 
 2. **Knowledge** of how the data is stored
 
@@ -54,56 +104,15 @@ paying with their allegiance to the service providers so that they can exploit
 user data (e.g. by selling them, licensing them or building a profile for
 advertisers). 
 
-Surrendering privacy in this way may seem to many people a trivial thing and a
-small price to pay for the sake of convenience that these Internet services
-bring. This has made this kind of exchange to become common.
+Surrendering privacy and other rights in this way may seem to many people a
+trivial thing and a small price to pay for the sake of convenience that these
+Internet services bring. This has made this kind of exchange to become common.
 
 Service providers have thus been unwittingly compelled to turn their valuable
 Internet services into massive and centralised surveillance systems. It is of
 grave importance that people understand/realize this, since it forms a serious
 threat to the freedom of humanity.
 
-When users control access to the data they upload (Right #1), it means that
-data intended to be privately shared should not be accessible to the service
-provider, nor shared with governments.  Users should be the only ones to have
-ultimate control over it and to grant access to it. Thus, a service should not
-force you to disclose private data (including private correspondence) with
-them. 
-
-That means the right to use cryptography[^snake-oil] should never be denied. On
-the contrary, cryptography should be enabled by default and be put under the
-users’ control with Free Software that is easy to use.  
-
-[^snake-oil]: We mean effective cryptography. If the service provider enables
-  cryptography but controls the keys or encrypts the data with your password,
-  it’s probably [snake oil][Snake Oil].
-
-[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
-
-Some services allow users to submit data with the intention to make it publicly
-available for all. Even in these cases, some amount of user data is kept
-private (e.g. metadata or social graph data). The user should also have control
-over this data, because metadata and logging information can be used for
-disproportionate surveillance.  Service providers must commit to keeping these
-to a minimum, and only for the purpose of operating the service.
-
-When users make data available to others, whether to a restrictive group of
-people or to large groups, they should be able to decide under which
-permissions they grant access to this data. However, this right is not absolute
-and should not extend over others’ rights to use and exploit the data once it
-has been made available to them.  What’s more, it does not mean that users
-should have the right to impose unfair restrictions to other people. 
-
-<!--**Protection** from legal schemes-->
-When user data is governed by other laws regulating their flow (e.g.
-copyright, personal data protection), users should be protected from granting
-broad licenses catching rights that are not necessary for the operations on
-data. <!--TODO: make it more concrete and simple-->
-
-Ultimately, to ensure that user data is under the users’ control, the best
-technical designs include peer-to-peer or distributed systems, and unhosted
-applications. Legally, that means terms of service should respect users’
-rights and give them the possibility to exercise the rights defined in this manifesto.
 
 When users use centralised services that uploads data to specific storage
 providers instead of relying on peer-to-peer systems, it is important to know
