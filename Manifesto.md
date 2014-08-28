@@ -171,3 +171,6 @@ TODO:
  - add a paragraph expand Right #2
  - add about right to cryptography; Add a "aside" did you nkow that? Ask Jan
    about his idea
+ - point 2 is confusing: it's about not giving up on other rights…
+ - in lasst point, paragraph about open standard and free software: is this
+   implementation? is this necessary or should it be in the details?
