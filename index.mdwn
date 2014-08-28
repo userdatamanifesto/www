@@ -22,7 +22,7 @@ Thus, users should have:
     given, then this type of data should be anonymous or not stored for
     periods longer than necessary.
 
-<!--2. **Protection** from legal schemes
+    <!--2. **Protection** from legal schemes
 
     When user data is governed by other laws regulating their flow (e.g.
     copyright, personal data protection), users should be protected from
