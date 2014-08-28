@@ -121,7 +121,7 @@ Thus, users should have:
     [Open standards] are standards that are free of copyright and patent
     constraints. Obviously, without the source code of the programs used to
     deal with user data, this is impractical.  This is why programs should be
-    distributed under a Free Software license like the GNU AGPL-3[^agpl].
+    distributed under a [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].
     """]]
 
 
@@ -150,9 +150,6 @@ applications. Legally, that means terms of service should respect users’ right
 and give them the possibility to exercise the rights defined in this manifesto.
 
 
-[^agpl]: The GNU AGPL-3 safeguards this right by making it a legal obligation
-to provide access to the modified program run by the service provider.
-([§ 13. Remote Network Interaction][agplv3])
 
 [^whydirect]: Once the user has granted direct access to somebody else over the
   data, it is no longer in their sole power to decide who should get access to
@@ -166,5 +163,4 @@ to provide access to the modified program run by the service provider.
 
 [Open standards]: http://fsfe.org/activities/os/def.html 
 
-[agplv3]: http://www.gnu.org/licenses/agpl.html
 
