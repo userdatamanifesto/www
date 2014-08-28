@@ -27,7 +27,7 @@ Thus, users should have:
     force you to disclose private data (including private correspondence) with
     them. 
 
-    That means the right to use cryptography[^snake-oil] should never be denied. On
+    That means the right to use [[!taglink cryptography]] should never be denied. On
     the contrary, cryptography should be enabled by default and be put under the
     users’ control with Free Software that is easy to use.  
 
