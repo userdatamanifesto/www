@@ -116,10 +116,11 @@ Thus, users should have:
     Users should not get stuck into a specific technical solution.  This is why
     they should always be able to leave a platform and settle elsewhere.
 
-    Open standards for formats and protocols are necessary to guarantee this.
-    Obviously, without the source code of the programs used to
+    [[!taglink Open_standards]] for formats and protocols are necessary to
+    guarantee this.  Obviously, without the source code of the programs used to
     deal with user data, this is impractical.  This is why programs should be
-    distributed under a [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].
+    distributed under a 
+    [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].
     """]]
 
 
