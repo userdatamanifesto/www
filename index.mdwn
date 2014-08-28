@@ -78,7 +78,7 @@ Thus, users should have:
     When users use centralised services that uploads data to specific storage
     providers instead of relying on peer-to-peer systems, it is important to know
     where the providers might store data because they could be compelled by
-    governments to turn over data they have in their possession (Right #3).
+    governments to turn over data they have in their possession.
     """]]
 
     [[!toggle  id="usnroc" text="""
