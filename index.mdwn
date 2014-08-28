@@ -66,25 +66,61 @@ Thus, users should have:
 
 2. **Knowledge** of how the data is stored
 
+    [[!toggle  id="wuucstu" text="""
     When the data is uploaded to a specific service provider, users should be
     informed about where that specific service provider stores the data, how
     long, in which jurisdiction the specific service provider operates, and
     which laws apply.
+    """]]
 
+    [[!toggleable id="wuucstu" text="""
+    [[!toggle  id="wuucstu" text="×"]]
+    When users use centralised services that uploads data to specific storage
+    providers instead of relying on peer-to-peer systems, it is important to know
+    where the providers might store data because they could be compelled by
+    governments to turn over data they have in their possession (Right #3).
+    """]]
+
+    [[!toggle  id="usnroc" text="""
     Users should be free to choose to store their own data on devices (e.g.
     servers) in their vicinity and under their direct control. This way, users
     do not have to rely on centralised services.
+    """]]
+
+
+    [[!toggleable id="usnroc" text="""
+    [[!toggle  id="usnroc" text="×"]]
+    Users should not rely on centralised services. Peer-to-peer systems and
+    unhosted applications are a means to that end.  In the long term, all users
+    should have their own server.  Unfortunately, this is made very difficult by
+    some Internet access providers that restrict their customers unfairly. Also,
+    being your own service provider often means having to administer systems which
+    require expertise and time that most people currently don’t have or are not
+    willing to invest.
+    """]]
 
 3. **Freedom** to choose a platform
 
+    [[!toggle  id="usngsi" text="""
     Users should always be able to extract their data from the service at any
     time without experiencing any vendor lock-in.
 
     Open standards for formats and protocols are necessary to guarantee this.
     Programs under a Free Software license should be available for such formats
     and protocols.
+    """]]
 
-
+    [[!toggleable id="usngsi" text="""
+    [[!toggle  id="usngsi" text="×"]]
+    Users should not get stuck into a specific technical solution.  This is why
+    they should always be able to leave a platform and settle elsewhere (Right #4).
+    It means users should be able to have their data in an open format, and to
+    exchange information with an open protocol. [Open standards] are standards
+    that are free of copyright and patent constraints. Obviously, without the
+    source code of the programs used to deal with user data, this is impractical.
+    This is why programs should be distributed under a Free Software license like
+    the GNU AGPL-3[^agpl].
+    """]]
 
 
 If users have these rights, they are in control of their data rather than being
@@ -106,35 +142,11 @@ grave importance that people understand/realize this, since it forms a serious
 threat to the freedom of humanity.
 
 
-When users use centralised services that uploads data to specific storage
-providers instead of relying on peer-to-peer systems, it is important to know
-where the providers might store data because they could be compelled by
-governments to turn over data they have in their possession (Right #3).
-
-Users should not rely on centralised services. Peer-to-peer systems and
-unhosted applications are a means to that end.  In the long term, all users
-should have their own server.  Unfortunately, this is made very difficult by
-some Internet access providers that restrict their customers unfairly. Also,
-being your own service provider often means having to administer systems which
-require expertise and time that most people currently don’t have or are not
-willing to invest.
-
-
-
 Ultimately, to ensure that user data is under the users’ control, the best
 technical designs include peer-to-peer or distributed systems, and unhosted
-applications. Legally, that means terms of service should respect users’
-rights and give them the possibility to exercise the rights defined in this manifesto.
+applications. Legally, that means terms of service should respect users’ rights
+and give them the possibility to exercise the rights defined in this manifesto.
 
-
-Users should not get stuck into a specific technical solution.  This is why
-they should always be able to leave a platform and settle elsewhere (Right #4).
-It means users should be able to have their data in an open format, and to
-exchange information with an open protocol. [Open standards] are standards
-that are free of copyright and patent constraints. Obviously, without the
-source code of the programs used to deal with user data, this is impractical.
-This is why programs should be distributed under a Free Software license like
-the GNU AGPL-3[^agpl].
 
 [^agpl]: The GNU AGPL-3 safeguards this right by making it a legal obligation
 to provide access to the modified program run by the service provider.
