@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
-"POT-Creation-Date: 2014-08-29 13:46+0000\n"
+"POT-Creation-Date: 2014-08-29 13:49+0000\n"
 "PO-Revision-Date: 2009-08-23 18:50+0200\n"
 "Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -95,10 +95,7 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid ""
-"    That means the right to use [[!taglink cryptography]] should never be denied. On\n"
-"    the contrary, cryptography should be enabled by default and be put under the\n"
-"    users’ control with Free Software that is easy to use.  \n"
+msgid "    That means the right to use [[!taglink cryptography]] should never be denied. \n"
 msgstr ""
 
 #. type: Plain text

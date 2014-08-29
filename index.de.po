@@ -4,7 +4,7 @@
 # modification, are permitted under any circumstances. No warranty.
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2014-08-29 13:46+0000\n"
+"POT-Creation-Date: 2014-08-29 13:49+0000\n"
 "PO-Revision-Date: 2010-03-12 09:40+0530\n"
 "Last-Translator: Sebastian Kuhnert <mail@sebastian-kuhnert.de>\n"
 "Language-Team: None\n"
@@ -91,10 +91,7 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid ""
-"    That means the right to use [[!taglink cryptography]] should never be denied. On\n"
-"    the contrary, cryptography should be enabled by default and be put under the\n"
-"    users’ control with Free Software that is easy to use.  \n"
+msgid "    That means the right to use [[!taglink cryptography]] should never be denied. \n"
 msgstr ""
 
 #. type: Plain text
