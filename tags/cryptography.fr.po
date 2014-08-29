@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-08-28 22:24+0000\n"
+"POT-Creation-Date: 2014-08-29 13:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
+msgid "Cryptography should be easy to use, with [[!taglink Free_Software]]."
+msgstr ""
+
+#. type: Plain text
 #, no-wrap
 msgid ""
 "We mean effective cryptography. If the service provider enables\n"
-"  cryptography but controls the keys or encrypts the data with your "
-"password,\n"
+"  cryptography but controls the keys or encrypts the data with your password,\n"
 "  it’s probably [snake oil][Snake Oil].\n"
 msgstr ""
 
