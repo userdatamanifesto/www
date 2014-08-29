@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
-"POT-Creation-Date: 2014-08-28 22:24+0000\n"
+"POT-Creation-Date: 2014-08-29 13:46+0000\n"
 "PO-Revision-Date: 2009-08-23 18:50+0200\n"
 "Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -39,8 +39,11 @@ msgid ""
 "This manifesto aims at defining users’ fundamental [[!taglink "
 "rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
-msgstr "Ce manifeste a pour but de définir [[!taglink les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer allégeance aux fournisseurs de service."
-
+msgstr ""
+"Ce manifeste a pour but de définir [[!taglink "
+"les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à "
+"l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer "
+"allégeance aux fournisseurs de service."
 
 #. type: Plain text
 #, no-wrap
@@ -87,9 +90,7 @@ msgid ""
 "    When users control access to the data they upload, it means that\n"
 "    data intended to be privately shared should not be accessible to the service\n"
 "    provider, nor shared with governments.  Users should be the only ones to have\n"
-"    ultimate control over it and to grant access to it. Thus, a service should not\n"
-"    force you to disclose private data (including private correspondence) with\n"
-"    them. \n"
+"    ultimate control over it and to grant access to it. \n"
 msgstr ""
 
 #. type: Plain text
@@ -98,6 +99,23 @@ msgid ""
 "    That means the right to use [[!taglink cryptography]] should never be denied. On\n"
 "    the contrary, cryptography should be enabled by default and be put under the\n"
 "    users’ control with Free Software that is easy to use.  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "    That also means that a service provider should **not**:\n"
+msgstr ""
+
+#. type: Bullet: '     1. '
+msgid ""
+"force users to disclose private data (including private correspondence)  "
+"with them, nor"
+msgstr ""
+
+#. type: Bullet: '     2. '
+msgid ""
+"impose licensing conditions (e.g. copyright, personal data protection)  that "
+"go beyond what is necessary for the purpose of the service."
 msgstr ""
 
 #. type: Plain text
@@ -143,18 +161,14 @@ msgid ""
 "    available for all. Even in these cases, some amount of user data is kept\n"
 "    private (e.g. metadata or social graph data). The user should also have control\n"
 "    over this data, because metadata and logging information can be used for\n"
-"    disproportionate surveillance.  Service providers must commit to keeping these\n"
-"    to a minimum, and only for the purpose of operating the service.\n"
+"    disproportionate surveillance. \n"
 msgstr ""
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    <!--**Protection** from legal schemes-->\n"
-"    When user data is governed by other laws regulating their flow (e.g.\n"
-"    copyright, personal data protection), users should be protected from granting\n"
-"    broad licenses catching rights that are not necessary for the operations on\n"
-"    data. <!--TODO: make it more concrete and simple-->\n"
+"    That means that service providers must commit to keeping these to a\n"
+"    minimum, and only for the purpose of operating the service.\n"
 msgstr ""
 
 #. type: Bullet: '2. '
@@ -222,11 +236,14 @@ msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 msgid ""
 "    Users should not rely on centralised services. Peer-to-peer systems and\n"
 "    unhosted applications are a means to that end.  In the long term, all users\n"
-"    should have their own server.  Unfortunately, this is made very difficult by\n"
-"    some Internet access providers that restrict their customers unfairly. Also,\n"
-"    being your own service provider often means having to administer systems which\n"
-"    require expertise and time that most people currently don’t have or are not\n"
-"    willing to invest.\n"
+"    should be able to have their own server.  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"    Unfortunately, this is made very difficult by some Internet access\n"
+"    providers that restrict their customers unfairly. \n"
 msgstr ""
 
 #. type: Bullet: '3. '
