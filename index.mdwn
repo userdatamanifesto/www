@@ -143,7 +143,8 @@ threat to the freedom of humanity.
 Ultimately, to ensure that user data is under the users’ control, the best
 technical designs include peer-to-peer or distributed systems, and unhosted
 applications. Legally, that means terms of service should respect users’ rights
-and give them the possibility to exercise the rights defined in this manifesto.
+and give them the possibility to exercise the [[!taglink datarights]] defined
+in this manifesto.
 
 
 
