@@ -126,9 +126,9 @@ subjugated by service providers.
 
 Many services that deal with user data at the moment are gratis, but that does
 not mean they are free (as in freedom). Instead of paying with money, users are
-paying with their allegiance to the service providers so that they can exploit
-user data (e.g. by selling them, licensing them or building a profile for
-advertisers). 
+[[!taglink paying_with_their_allegiance|Internet_Feudalism]] to the service
+providers so that they can exploit user data (e.g. by selling them, licensing
+them or building a profile for advertisers). 
 
 Surrendering privacy and other rights in this way may seem to many people a
 trivial thing and a small price to pay for the sake of convenience that these
