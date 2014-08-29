@@ -29,9 +29,7 @@ Thus, users should have:
     provider, nor shared with governments.  Users should be the only ones to have
     ultimate control over it and to grant access to it. 
 
-    That means the right to use [[!taglink cryptography]] should never be denied. On
-    the contrary, cryptography should be enabled by default and be put under the
-    users’ control with Free Software that is easy to use.  
+    That means the right to use [[!taglink cryptography]] should never be denied. 
 
     That also means that a service provider should **not**:
      
