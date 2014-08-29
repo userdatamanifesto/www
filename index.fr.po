@@ -27,7 +27,7 @@ msgstr "[[!meta description=\"Ce manifeste a pour but de définir les droits fon
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
-msgstr "[[!meta language=\"fr\"]] <p class=\"translation notice\">Cette page est une traduction en cours. L’[original est en anglais](index.en.html). Pour contribuer à cette traduction, [éditer la source](https://github.com/hugoroy/user-data-manifesto/blob/master/index.fr.po).</p>"
+msgstr "[[!meta language=\"fr\"]] <div class=\"translation notice\">Cette page est une traduction en cours. L’[original est en anglais](index.en.html). Pour contribuer à cette traduction, [éditer la source](https://github.com/hugoroy/user-data-manifesto/blob/master/index.fr.po).</div>"
 
 #. type: Title #
 #, no-wrap
