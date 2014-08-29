@@ -62,8 +62,10 @@ Thus, users should have:
     available for all. Even in these cases, some amount of user data is kept
     private (e.g. metadata or social graph data). The user should also have control
     over this data, because metadata and logging information can be used for
-    disproportionate surveillance.  Service providers must commit to keeping these
-    to a minimum, and only for the purpose of operating the service.
+    disproportionate surveillance. 
+    
+    That means that service providers must commit to keeping these to a
+    minimum, and only for the purpose of operating the service.
     """]]
 
 
@@ -95,11 +97,10 @@ Thus, users should have:
     [[!toggle  id="usnroc" text="×"]]
     Users should not rely on centralised services. Peer-to-peer systems and
     unhosted applications are a means to that end.  In the long term, all users
-    should have their own server.  Unfortunately, this is made very difficult by
-    some Internet access providers that restrict their customers unfairly. Also,
-    being your own service provider often means having to administer systems which
-    require expertise and time that most people currently don’t have or are not
-    willing to invest.
+    should be able to have their own server.  
+    
+    Unfortunately, this is made very difficult by some Internet access
+    providers that restrict their customers unfairly. 
     """]]
 
 3. **Freedom** to choose a platform
