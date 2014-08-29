@@ -51,11 +51,11 @@ msgstr "<ol start=\"0\"><li>Par <strong>données utilisateur</strong>, on entend
 
 #. type: Plain text
 msgid "Thus, users should have:"
-msgstr "Ainsi, les utilisateurs devraient avoir :"
+msgstr "Ainsi, les utilisateurs devraient pouvoir :"
 
 #. type: Bullet: '1. '
 msgid "**Control** over user data access"
-msgstr "La **maîtrise** sur l’accès aux données utilisateur"
+msgstr "**Maîtriser** l’accès aux données utilisateur"
 
 #. type: Plain text
 #, no-wrap
@@ -124,7 +124,7 @@ msgid ""
 "    to them and put under their control as well. If this control can’t be\n"
 "    given, then this type of data should be anonymous or not stored for\n"
 "    periods longer than necessary.\n"
-msgstr ""
+msgstr "Les données reçues, générées et/ou collectées à partir de l’activité des utilisateurs dans l’utilisation du service (ex. : les métadonnées ou les données du graphe social) devraient leur être rendues accessibles et être également sous leur maîtrise. Si cette maîtrise n’est pas possible, alors ce type de données devrait être anonyme ou bien ne pas être stockée pour une période plus longue que nécessaire."
 
 #. type: Plain text
 #, no-wrap
@@ -159,7 +159,7 @@ msgstr ""
 
 #. type: Bullet: '2. '
 msgid "**Knowledge** of how the data is stored"
-msgstr "La **connaissance** de comment les données sont stockées"
+msgstr "**Savoir** comment les données sont stockées"
 
 #. type: Plain text
 #, no-wrap
@@ -173,7 +173,7 @@ msgid ""
 "    informed about where that specific service provider stores the data, how\n"
 "    long, in which jurisdiction the specific service provider operates, and\n"
 "    which laws apply.\n"
-msgstr ""
+msgstr "Quand les données sont envoyées à un fournisseur de service particulier, les utilisateurs devraient être informés du lieu de stockage des données du fournisseur de service, de la durée, de la juridiction dans laquelle le fournisseur de service particulier opère, et des lois qui s’y appliquent."
 
 #. type: Plain text
 #, no-wrap
@@ -205,7 +205,7 @@ msgid ""
 "    Users should be free to choose to store their own data on devices (e.g.\n"
 "    servers) in their vicinity and under their direct control. This way, users\n"
 "    do not have to rely on centralised services.\n"
-msgstr ""
+msgstr "Les utilisateurs devraient être libres de choisir de stocker leurs propres données sur leurs appareils (ex. : des serveurs) dans leur entourage et sous leur contrôle direct. De cette manière, les utilisateurs n’ont pas à compter sur les services centralisés."
 
 #. type: Plain text
 #, no-wrap
@@ -231,7 +231,7 @@ msgstr ""
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
-msgstr "La **liberté** de choisir une plateforme"
+msgstr "**Être libre** de choisir une plateforme"
 
 #. type: Plain text
 #, no-wrap
@@ -243,7 +243,7 @@ msgstr "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
 msgid ""
 "    Users should always be able to extract their data from the service at any\n"
 "    time without experiencing any vendor lock-in.\n"
-msgstr ""
+msgstr "Les utilisateurs devraient toujours être en mesure d’extraire leurs données du service à tout moment sans faire l’expérience de l’enfermement propriétaire."
 
 #. type: Plain text
 #, no-wrap
