@@ -27,7 +27,7 @@ msgstr "[[!meta description=\"Ce manifeste a pour but de définir les droits fon
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
-msgstr "[[!meta language=\"fr\"]] [[!template id=\"translation-notice.tmpl\" french doing]]"
+msgstr "[[!meta language=\"fr\"]] [[!template id=\"translation-notice.tmpl\" french=\"yes\" doing=\"yes\"]]"
 
 #. type: Title #
 #, no-wrap
