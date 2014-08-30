@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
-"POT-Creation-Date: 2014-08-30 09:45+0000\n"
+"POT-Creation-Date: 2014-08-30 09:48+0000\n"
 "PO-Revision-Date: 2009-08-23 18:50+0200\n"
 "Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -28,11 +28,6 @@ msgstr "[[!meta description=\"Ce manifeste a pour but de définir les droits fon
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
 msgstr "[[!meta language=\"fr\"]] [[!template id=\"translation-notice.tmpl\" french=\"yes\" doing=\"yes\" ghsrc=\"index.fr.po\"]]"
-
-#. type: Plain text
-#, no-wrap
-msgid "[[!inline pages=sidebar raw=yes]]\n"
-msgstr ""
 
 #. type: Title #
 #, no-wrap
