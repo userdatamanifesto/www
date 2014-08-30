@@ -4,7 +4,7 @@
 # modification, are permitted under any circumstances. No warranty.
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2014-08-29 13:54+0000\n"
+"POT-Creation-Date: 2014-08-30 09:45+0000\n"
 "PO-Revision-Date: 2010-03-12 09:40+0530\n"
 "Last-Translator: Sebastian Kuhnert <mail@sebastian-kuhnert.de>\n"
 "Language-Team: None\n"
@@ -27,6 +27,11 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!inline pages=sidebar raw=yes]]\n"
 msgstr ""
 
 #. type: Title #
