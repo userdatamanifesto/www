@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-08-30 10:22+0000\n"
+"POT-Creation-Date: 2014-08-30 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,16 +18,23 @@ msgstr ""
 
 #. type: Plain text
 msgid ""
-"This wiki is a space dedicated to writing, discussing collaboratively the "
-"next version of the user data manifesto."
+"This wiki is a space dedicated to writing and discussing the next version of "
+"the user data manifesto. (There is a “Discussion” link on the top-right hand "
+"corner of every page.)"
 msgstr ""
 
 #. type: Plain text
 msgid ""
-"The official page of the [user data manifesto][udm2] is "
-"<http://userdatamanifesto.org/2.0/>. Please spread the word!"
+"The official page of the [user data manifesto][udm2] is <http://"
+"userdatamanifesto.org/2.0/>. Please spread the word!"
 msgstr ""
 
 #. type: Plain text
 msgid "[udm2]: http://userdatamanifesto.org/2.0/"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Sources should also be available [on Github](https://github.com/"
+"userdatamanifesto)"
 msgstr ""
