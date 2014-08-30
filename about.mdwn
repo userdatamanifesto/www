@@ -1,0 +1,6 @@
+
+This wiki is a space dedicated to writing, discussing collaboratively the next version of the user data manifesto.
+
+The official page of the [user data manifesto][udm2] is <http://userdatamanifesto.org/2.0/>. Please spread the word!
+
+[udm2]: http://userdatamanifesto.org/2.0/
