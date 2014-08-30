@@ -1,0 +1,102 @@
+/* Copyright (c) 2014, Jan-Christoph Borchardt, http://jancborchardt.net
+ This file is licensed under the AGPL version 3 or later */
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	padding-bottom: 200px;
+}
+body {
+	width: 80%;
+	margin: 4em auto;
+	padding: 0;
+	padding-bottom: 100px;
+	background: #fff;
+	color: #000;
+	font: normal 16px/150% FreeSans,Helvetica,sans-serif;
+}
+a { font-weight:bold; white-space:nowrap; text-decoration:none; color:#000; opacity:.9; -webkit-transition:opacity 300ms; -moz-transition:opacity 300ms; -o-transition:opacity 300ms; transition:opacity 300ms; }
+a:hover, a:focus { opacity:.6; outline:0; }
+em, blockquote, q, cite { font:italic 1.08em FreeSerif,Georgia,serif; }
+#background { width:100%; position:absolute; top:0; left:0; z-index:-1; }
+ul, ol { padding-left:0; }
+blockquote, q { color:#222; quotes:"»""«""›""‹"; -webkit-margin-start:0; }
+blockquote { padding-left:0; clear:both; margin:0 0 3em 0; }
+blockquote:before { content:"»"; position:absolute; margin:-.53em 0 0 -.6em; font-size:3em; }
+blockquote>p { margin-bottom:0; }
+blockquote>p+p { margin-top:0; }
+blockquote a, blockquote span { font:bold .8em/150% FreeSans,Helvetica,sans-serif; position:relative; float:right; clear:left; }
+
+
+h1 {
+	font-size: 60px;
+	line-height: 130%;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 0;
+}
+p strong+a {
+	white-space: normal;
+}
+h2 a, h3 a {
+	color: #000;
+}
+h2 {
+	font-weight: normal;
+	text-align: center;
+	line-height: 130%;
+}
+h3 {
+	margin-top: 0;
+	padding-top: 1em;
+}
+
+.center {
+	text-align: center;
+}
+
+.draft {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 44px;
+	padding-top: 10px;
+	text-align: center;
+	background: rgb(255, 248, 127);
+	opacity: .9;
+}
+
+.external {
+	color:#999;
+}
+
+
+
+.section {
+	width: 100%;
+	float: left;
+}
+.section img {
+	width: 100px;
+	height: 100px;
+	margin: 50px auto 0;
+	display: block;
+}
+
+
+@media (min-width: 768px) {
+
+	.section {
+		width: 33%;
+	}
+	.section.control,
+	.section.knowledge {
+		padding-right: 3%;
+	}
+
+}
