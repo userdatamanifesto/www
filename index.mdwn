@@ -2,7 +2,6 @@
 [[!meta description="This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers."]] 
 [[!meta language="en"]]
 
-[[!inline pages=sidebar raw=yes]]
 
 
 # 2.0 DRAFT
