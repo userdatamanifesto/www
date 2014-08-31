@@ -129,7 +129,7 @@ msgstr "Lorsque les utilisateurs rendent des données accessibles à d’autres,
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"ssauts\" text=\"\"\"\n"
-msgstr "    [[!toggle  id=\"ssauts\" text=\"\"\"\n"
+msgstr "[[!toggle  id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
