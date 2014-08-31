@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-08-30 10:34+0000\n"
+"POT-Creation-Date: 2014-08-31 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,9 +18,9 @@ msgstr ""
 
 #. type: Plain text
 msgid ""
-"This wiki is a space dedicated to writing and discussing the next version of "
-"the user data manifesto. (There is a “Discussion” link on the top-right hand "
-"corner of every page.)"
+"This wiki is a space dedicated to exploring, writing and discussing the "
+"[next version of the user data manifesto][udm2]. (Look for a “Discussion” "
+"link on the top-right hand corner of every page.)"
 msgstr ""
 
 #. type: Plain text
@@ -36,5 +36,14 @@ msgstr ""
 #. type: Plain text
 msgid ""
 "Sources should also be available [on Github](https://github.com/"
-"userdatamanifesto)"
+"userdatamanifesto)."
+msgstr ""
+
+#. type: Plain text
+msgid "Wiki [hosted by branchable]."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[hosted by branchable]: http://udm.branchable.com/ikiwiki.cgi?do=branchable"
 msgstr ""
