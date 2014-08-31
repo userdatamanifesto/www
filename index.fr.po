@@ -72,7 +72,7 @@ msgid ""
 "    ultimate control of the user. Users should be able to decide whom to grant\n"
 "    direct access to their data and with which permissions and licenses such\n"
 "    access should be granted.\n"
-msgstr "Les données explicitement et volontairement envoyées par une utilisatrice devraient être sous la pleine maîtrise de l’utilisatrice. Les utilisateurs devraient être capables de décider à qui accorder un accès direct à leurs données et avec quelles permissions et licences cet accès devrait être accordé."
+msgstr "    Les données explicitement et volontairement envoyées par une utilisatrice devraient être sous la pleine maîtrise de l’utilisatrice. Les utilisateurs devraient être capables de décider à qui accorder un accès direct à leurs données et avec quelles permissions et licences cet accès devrait être accordé."
 
 #. type: Plain text
 #, no-wrap
@@ -91,12 +91,12 @@ msgid ""
 "    data intended to be privately shared should not be accessible to the service\n"
 "    provider, nor shared with governments.  Users should be the only ones to have\n"
 "    ultimate control over it and to grant access to it. \n"
-msgstr "Lorsque les utilisateurs maîtrisent l’accès aux données qu’ils envoient, cela signifie que les données censées restées privées ou partagées à un cercle restreint ne devraient pas être rendues accessibles au fournisseur du service, ni divulguées aux États. Seuls les utilisateurs devraient en avoir la maîtrise ultime et y donner accès."
+msgstr "    Lorsque les utilisateurs maîtrisent l’accès aux données qu’ils envoient, cela signifie que les données censées restées privées ou partagées à un cercle restreint ne devraient pas être rendues accessibles au fournisseur du service, ni divulguées aux États. Seuls les utilisateurs devraient en avoir la maîtrise ultime et y donner accès."
 
 #. type: Plain text
 #, no-wrap
 msgid "    That means the right to use [[!taglink cryptography]] should never be denied. \n"
-msgstr "Cela signifie que le droit d’utiliser [[!taglink la_cryptographie|cryptography]] ne devrait jamais être bafoué."
+msgstr "    Cela signifie que le droit d’utiliser [[!taglink la_cryptographie|cryptography]] ne devrait jamais être bafoué."
 
 #. type: Plain text
 #, no-wrap
@@ -146,12 +146,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
-msgstr "[[!toggleable id=\"ssauts\" text=\"\"\"\n"
+msgstr "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
-msgstr "[[!toggle  id=\"ssauts\" text=\"×\"]]\n"
+msgstr "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -177,7 +177,7 @@ msgstr "**Savoir** comment les données sont stockées"
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
-msgstr "[[!toggle  id=\"wuucstu\" text=\"\"\"\n"
+msgstr "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -191,12 +191,12 @@ msgstr "    Quand les données sont envoyées à un fournisseur de service parti
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
-msgstr "[[!toggleable id=\"wuucstu\" text=\"\"\"\n"
+msgstr "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
-msgstr "[[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
+msgstr "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -210,7 +210,7 @@ msgstr "    Lorsque les utilisateurs utilisent des services centralisés pour en
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
-msgstr "[[!toggle  id=\"usnroc\" text=\"\"\"\n"
+msgstr "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -223,12 +223,12 @@ msgstr "    Les utilisateurs devraient être libres de choisir de stocker leurs 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
-msgstr "[[!toggleable id=\"usnroc\" text=\"\"\"\n"
+msgstr "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
-msgstr "[[!toggle  id=\"usnroc\" text=\"×\"]]\n"
+msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -252,7 +252,7 @@ msgstr "**Être libre** de choisir une plateforme"
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
-msgstr "[[!toggle  id=\"usngsi\" text=\"\"\"\n"
+msgstr "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -264,12 +264,12 @@ msgstr "    Les utilisateurs devraient toujours être en mesure d’extraire leu
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
-msgstr "[[!toggleable id=\"usngsi\" text=\"\"\"\n"
+msgstr "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
-msgstr "[[!toggle  id=\"usngsi\" text=\"×\"]]\n"
+msgstr "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -301,7 +301,7 @@ msgid ""
 "users are [[!taglink paying_with_their_allegiance|Internet_Feudalism]] to "
 "the service providers so that they can exploit user data (e.g. by selling "
 "them, licensing them or building a profile for advertisers)."
-msgstr "De nombreux services qui gèrent les données utilisateur à ce jour sont gratuits, mais cela ne signifie pas qu’ils soient libres. Plutôt que de payer avec de l’argent, les utilisateurs [[!taglink paye_allégeance|Internet_Feudalism]] aux fournisseurs de services pour que ceux-ci puissent exploiter les données utilisateurs (par ex. en les vendant, en offrant des licences ou en construisant des profils pour les annonceurs publicitaires)."
+msgstr "De nombreux services qui gèrent les données utilisateur à ce jour sont gratuits, mais cela ne signifie pas qu’ils soient libres. Plutôt que de payer avec de l’argent, les utilisateurs [[!taglink payent_allégeance|Internet_Feudalism]] aux fournisseurs de services pour que ceux-ci puissent exploiter les données utilisateurs (par ex. en les vendant, en offrant des licences ou en construisant des profils pour les annonceurs publicitaires)."
 
 #. type: Plain text
 msgid ""
