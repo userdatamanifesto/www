@@ -7,7 +7,7 @@ They are unlike:
   - copyright, because data rights apply to *data* whereas copyright applies to
     “*works*” (typically, works of art).
 
-  - data protection, because data rights apply are for *the user* uploading
+  - data protection, because data rights apply for *the user* uploading
     data, not for *the person* who is the subject of the personally
     identifiable data.
 
