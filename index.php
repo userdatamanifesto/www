@@ -12,7 +12,7 @@ $response=CAMPAIGNER::listener();
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>User Data Manifesto</title>
-<link rel="stylesheet" href="style.css" type="text/css"  />
+<link rel="stylesheet" href="style1.0.css" type="text/css"  />
 <link rel="stylesheet" href="campaigner/style.css" type="text/css"  />
 </head>
 <body bgcolor="#EEEEEE">

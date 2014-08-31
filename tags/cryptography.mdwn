@@ -1,0 +1,17 @@
+
+
+
+Cryptography should be easy to use, with [[!taglink Free_Software]].
+
+We mean effective cryptography. If the service provider enables
+  cryptography but controls the keys or encrypts the data with your password,
+  it’s probably [snake oil][Snake Oil].
+
+[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29
+
+
+
+
+<!--Cryptography (e.g. a [PKI]) is necessary to enable this control.-->
+
+[PKI]: https://en.wikipedia.org/wiki/PKI

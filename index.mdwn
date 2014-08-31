@@ -1,0 +1,156 @@
+[[!meta title="user data manifesto"]]
+[[!meta description="This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers."]] 
+[[!meta language="en"]]
+
+
+
+# 2.0 DRAFT
+
+
+This manifesto aims at defining users’ fundamental 
+[[!taglink rights_to_their_own_data|datarights]] in the Internet age. People
+ought to be free and should not have to pay allegiance to service providers. 
+
+<ol start="0"><li><strong>User data</strong> means any data uploaded by a user and/or
+generated from a user, while using a service on the Internet. </li></ol>
+
+Thus, users should have:
+
+1. **Control** over user data access
+
+    [[!toggle  id="wucat" text="""
+    Data explicitly and willingly uploaded by a user should be under the
+    ultimate control of the user. Users should be able to decide whom to grant
+    direct access to their data and with which permissions and licenses such
+    access should be granted.
+    """]]
+
+    [[!toggleable id="wucat" text="""
+    [[!toggle  id="wucat" text="×"]]
+    When users control access to the data they upload, it means that
+    data intended to be privately shared should not be accessible to the service
+    provider, nor shared with governments.  Users should be the only ones to have
+    ultimate control over it and to grant access to it. 
+
+    That means the right to use [[!taglink cryptography]] should never be denied. 
+
+    That also means that a service provider should **not**:
+     
+     1. force users to disclose private data (including private correspondence)
+        with them, nor
+     2. impose licensing conditions (e.g. copyright, personal data protection)
+        that go beyond what is necessary for the purpose of the service.
+
+    When users make data available to others, whether to a restrictive group of
+    people or to large groups, they should be able to decide under which
+    permissions they grant access to this data. However, this right is not absolute
+    and should not extend over others’ rights to use and exploit the data once it
+    has been made available to them.  What’s more, it does not mean that users
+    should have the right to impose unfair restrictions to other people. 
+    """]]
+
+    [[!toggle  id="ssauts" text="""
+    Data received, generated, and/or collected from users’ activity while using
+    the service (e.g. metadata or social graph data) should be made accessible
+    to them and put under their control as well. If this control can’t be
+    given, then this type of data should be anonymous or not stored for
+    periods longer than necessary.
+    """]]
+
+    [[!toggleable id="ssauts" text="""
+    [[!toggle  id="ssauts" text="×"]]
+    Some services allow users to submit data with the intention to make it publicly
+    available for all. Even in these cases, some amount of user data is kept
+    private (e.g. metadata or social graph data). The user should also have control
+    over this data, because metadata and logging information can be used for
+    disproportionate surveillance. 
+    
+    That means that service providers must commit to keeping these to a
+    minimum, and only for the purpose of operating the service.
+    """]]
+
+
+2. **Knowledge** of how the data is stored
+
+    [[!toggle  id="wuucstu" text="""
+    When the data is uploaded to a specific service provider, users should be
+    informed about where that specific service provider stores the data, how
+    long, in which jurisdiction the specific service provider operates, and
+    which laws apply.
+    """]]
+
+    [[!toggleable id="wuucstu" text="""
+    [[!toggle  id="wuucstu" text="×"]]
+    When users use centralised services that uploads data to specific storage
+    providers instead of relying on peer-to-peer systems, it is important to know
+    where the providers might store data because they could be compelled by
+    governments to turn over data they have in their possession.
+    """]]
+
+    [[!toggle  id="usnroc" text="""
+    Users should be free to choose to store their own data on devices (e.g.
+    servers) in their vicinity and under their direct control. This way, users
+    do not have to rely on centralised services.
+    """]]
+
+
+    [[!toggleable id="usnroc" text="""
+    [[!toggle  id="usnroc" text="×"]]
+    Users should not rely on centralised services. Peer-to-peer systems and
+    unhosted applications are a means to that end.  In the long term, all users
+    should be able to have their own server.  
+    
+    Unfortunately, this is made very difficult by some Internet access
+    providers that restrict their customers unfairly. 
+    """]]
+
+3. **Freedom** to choose a platform
+
+    [[!toggle  id="usngsi" text="""
+    Users should always be able to extract their data from the service at any
+    time without experiencing any vendor lock-in.
+    """]]
+
+    [[!toggleable id="usngsi" text="""
+    [[!toggle  id="usngsi" text="×"]]
+    Users should not get stuck into a specific technical solution.  This is why
+    they should always be able to leave a platform and settle elsewhere.
+
+    [[!taglink Open_standards]] for formats and protocols are necessary to
+    guarantee this.  Obviously, without the source code of the programs used to
+    deal with user data, this is impractical.  This is why programs should be
+    distributed under a 
+    [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].
+    """]]
+
+
+If users have these rights, they are in control of their data rather than being
+subjugated by service providers. 
+
+Many services that deal with user data at the moment are gratis, but that does
+not mean they are free (as in freedom). Instead of paying with money, users are
+[[!taglink paying_with_their_allegiance|Internet_Feudalism]] to the service
+providers so that they can exploit user data (e.g. by selling them, licensing
+them or building a profile for advertisers). 
+
+Surrendering privacy and other rights in this way may seem to many people a
+trivial thing and a small price to pay for the sake of convenience that these
+Internet services bring. This has made this kind of exchange to become common.
+
+Service providers have thus been unwittingly compelled to turn their valuable
+Internet services into massive and centralised surveillance systems. It is of
+grave importance that people understand/realize this, since it forms a serious
+threat to the freedom of humanity.
+
+
+Ultimately, to ensure that user data is under the users’ control, the best
+technical designs include peer-to-peer or distributed systems, and unhosted
+applications. Legally, that means terms of service should respect users’ rights
+and give them the possibility to exercise the [[!taglink datarights]] defined
+in this manifesto.
+
+
+
+
+
+

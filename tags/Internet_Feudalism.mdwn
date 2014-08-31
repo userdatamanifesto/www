@@ -1,0 +1,43 @@
+Bruce Schneier. *The Battle for Power on the Internet* (extract):
+
+> I have previously characterized this model of computing as "feudal." Users
+> pledge their allegiance to more powerful companies who, in turn, promise to
+> protect them from both sysadmin duties and security threats. It's a metaphor
+> that's rich in history and in fiction, and a model that's increasingly
+> permeating computing today.
+> 
+> Medieval feudalism evolved into a more balanced relationship in which lords
+> had responsibilities as well as rights. Today's Internet feudalism is both
+> ad-hoc and one-sided. Those in power have a lot of rights, but increasingly
+> few responsibilities or limits. We need to rebalance this relationship. In
+> medieval Europe, the rise of the centralized state and the rule of law
+> provided the stability that feudalism lacked. The Magna Carta first forced
+> responsibilities on governments and put humans on the long road toward
+> government by the people and for the people. In addition to re-reigning in
+> government power, we need similar restrictions on corporate power: a new
+> Magna Carta focused on the institutions that abuse power in the 21st century.
+> 
+> Today's Internet is a fortuitous accident: a combination of an initial lack
+> of commercial interests, government benign neglect, military requirements for
+> survivability and resilience, and computer engineers building open systems
+> that worked simply and easily.
+> 
+> We're at the beginning of some critical debates about the future of the
+> Internet: the proper role of law enforcement, the character of ubiquitous
+> surveillance, the collection and retention of our entire life's history, how
+> automatic algorithms should judge us, government control over the Internet,
+> cyberwar rules of engagement, national sovereignty on the Internet,
+> limitations on the power of corporations over our data, the ramifications of
+> information consumerism, and so on.
+> 
+> Data is the pollution problem of the information age. All computer processes
+> produce it. It stays around. How we deal with it -- how we reuse and recycle
+> it, who has access to it, how we dispose of it, and what laws regulate it --
+> is central to how the information age functions. And I believe that just as
+> we look back at the early decades of the industrial age and wonder how
+> society could ignore pollution in their rush to build an industrial world,
+> our grandchildren will look back at us during these early decades of the
+> information age and judge us on how we dealt with the rebalancing of power
+> resulting from all this new data.
+>
+> <https://www.schneier.com/blog/archives/2013/10/the_battle_for_1.html>

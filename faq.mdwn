@@ -1,0 +1,13 @@
+
+
+1. what’s *not* user data?
+
+User data is not necessarily private data and does not necessarily relate to a
+person or contains personally identifiable information. Thus, this manifesto
+does not aim at modifying personal data regulations, but rather aim at
+complementing them.
+
+Anonymously “dumped” data, e.g. on pastebin, or data that can be edited
+directly by anybody, e.g. a public etherpad, do not usually deal with user
+data.
+

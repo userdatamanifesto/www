@@ -1,0 +1,5 @@
+
+[Open standards]: http://fsfe.org/activities/os/def.html 
+
+[Open standards] are standards that are free of copyright and patent
+constraints. 
