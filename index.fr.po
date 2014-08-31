@@ -36,12 +36,12 @@ msgstr "2.0 BROUILLON"
 
 #. type: Plain text
 msgid ""
-"This manifesto aims at defining users’ fundamental [[!taglink "
-"rights_to_their_own_data|datarights]] in the Internet age. People ought to "
+"This manifesto aims at defining users’ fundamental "
+"[[!taglink rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
 msgstr ""
-"Ce manifeste a pour but de définir[[!taglink "
-"les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à "
+"Ce manifeste a pour but de définir "
+"[[!taglink les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à "
 "l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer "
 "allégeance aux fournisseurs de service."
 
