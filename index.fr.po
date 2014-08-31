@@ -141,7 +141,7 @@ msgid ""
 "    given, then this type of data should be anonymous or not stored for\n"
 "    periods longer than necessary.\n"
 msgstr ""
-"Les données reçues, générées et/ou collectées à partir de l’activité des utilisateurs dans l’utilisation du service (ex. : les métadonnées ou les données du graphe social) devraient leur être rendues accessibles et être également sous leur maîtrise. Si cette maîtrise n’est pas possible, alors ce type de données devrait être anonyme ou bien ne pas être stockée pour une période plus longue que nécessaire."
+"    Les données reçues, générées et/ou collectées à partir de l’activité des utilisateurs dans l’utilisation du service (ex. : les métadonnées ou les données du graphe social) devraient leur être rendues accessibles et être également sous leur maîtrise. Si cette maîtrise n’est pas possible, alors ce type de données devrait être anonyme ou bien ne pas être stockée pour une période plus longue que nécessaire."
 
 #. type: Plain text
 #, no-wrap
@@ -186,7 +186,7 @@ msgid ""
 "    informed about where that specific service provider stores the data, how\n"
 "    long, in which jurisdiction the specific service provider operates, and\n"
 "    which laws apply.\n"
-msgstr "Quand les données sont envoyées à un fournisseur de service particulier, les utilisateurs devraient être informés du lieu de stockage des données du fournisseur de service, de la durée, de la juridiction dans laquelle le fournisseur de service particulier opère, et des lois qui s’y appliquent."
+msgstr "    Quand les données sont envoyées à un fournisseur de service particulier, les utilisateurs devraient être informés du lieu de stockage des données du fournisseur de service, de la durée, de la juridiction dans laquelle le fournisseur de service particulier opère, et des lois qui s’y appliquent."
 
 #. type: Plain text
 #, no-wrap
@@ -205,7 +205,7 @@ msgid ""
 "    providers instead of relying on peer-to-peer systems, it is important to know\n"
 "    where the providers might store data because they could be compelled by\n"
 "    governments to turn over data they have in their possession.\n"
-msgstr "Lorsque les utilisateurs utilisent des services centralisés pour envoyer leurs données à un fournisseur de stockage particulier plutôt que de reposer sur des systèmes pair-à-pair, il est important de savoir où les fournisseurs pourraient stocker ces données car ils pourraient être obligés par les États à divulguer ces données qu’ils ont en leur possession."
+msgstr "    Lorsque les utilisateurs utilisent des services centralisés pour envoyer leurs données à un fournisseur de stockage particulier plutôt que de reposer sur des systèmes pair-à-pair, il est important de savoir où les fournisseurs pourraient stocker ces données car ils pourraient être obligés par les États à divulguer ces données qu’ils ont en leur possession."
 
 #. type: Plain text
 #, no-wrap
@@ -218,7 +218,7 @@ msgid ""
 "    Users should be free to choose to store their own data on devices (e.g.\n"
 "    servers) in their vicinity and under their direct control. This way, users\n"
 "    do not have to rely on centralised services.\n"
-msgstr "Les utilisateurs devraient être libres de choisir de stocker leurs propres données sur leurs appareils (ex. : des serveurs) dans leur entourage et sous leur contrôle direct. De cette manière, les utilisateurs n’ont pas à compter sur les services centralisés."
+msgstr "    Les utilisateurs devraient être libres de choisir de stocker leurs propres données sur leurs appareils (ex. : des serveurs) dans leur entourage et sous leur contrôle direct. De cette manière, les utilisateurs n’ont pas à compter sur les services centralisés."
 
 #. type: Plain text
 #, no-wrap
@@ -236,14 +236,14 @@ msgid ""
 "    Users should not rely on centralised services. Peer-to-peer systems and\n"
 "    unhosted applications are a means to that end.  In the long term, all users\n"
 "    should be able to have their own server.  \n"
-msgstr "Les utilisateurs ne devraient pas reposer sur des services centralisés. Les systèmes pair-à-pair et les applications *unhosted* sont un moyen d’y arriver. À long terme, tous les utilisateurs devraient être capables d’avoir leur propre serveur."
+msgstr "    Les utilisateurs ne devraient pas reposer sur des services centralisés. Les systèmes pair-à-pair et les applications *unhosted* sont un moyen d’y arriver. À long terme, tous les utilisateurs devraient être capables d’avoir leur propre serveur."
 
 #. type: Plain text
 #, no-wrap
 msgid ""
 "    Unfortunately, this is made very difficult by some Internet access\n"
 "    providers that restrict their customers unfairly. \n"
-msgstr "Malheureusement, cela est rendu très difficile par certains fournisseurs d’accès à Internet qui empêchent injustement leurs clients."
+msgstr "    Malheureusement, cela est rendu très difficile par certains fournisseurs d’accès à Internet qui empêchent injustement leurs clients."
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
@@ -259,7 +259,7 @@ msgstr "[[!toggle  id=\"usngsi\" text=\"\"\"\n"
 msgid ""
 "    Users should always be able to extract their data from the service at any\n"
 "    time without experiencing any vendor lock-in.\n"
-msgstr "Les utilisateurs devraient toujours être en mesure d’extraire leurs données du service à tout moment sans faire l’expérience de l’enfermement propriétaire."
+msgstr "    Les utilisateurs devraient toujours être en mesure d’extraire leurs données du service à tout moment sans faire l’expérience de l’enfermement propriétaire."
 
 #. type: Plain text
 #, no-wrap
@@ -276,7 +276,7 @@ msgstr "[[!toggle  id=\"usngsi\" text=\"×\"]]\n"
 msgid ""
 "    Users should not get stuck into a specific technical solution.  This is why\n"
 "    they should always be able to leave a platform and settle elsewhere.\n"
-msgstr "Les utilisateurs ne devraient pas être bloqués par une solution technique particulière. C’est pourquoi ils devraient toujours être capables de quitter une plateforme et de s’installer ailleurs."
+msgstr "    Les utilisateurs ne devraient pas être bloqués par une solution technique particulière. C’est pourquoi ils devraient toujours être capables de quitter une plateforme et de s’installer ailleurs."
 
 #. type: Plain text
 #, no-wrap
@@ -286,7 +286,7 @@ msgid ""
 "    deal with user data, this is impractical.  This is why programs should be\n"
 "    distributed under a \n"
 "    [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].\n"
-msgstr "[[!taglink Les_standards_ouverts|Open_standards]] pour les formats et les protocoles sont nécessaires pour garantir cela. Évidemment, sans le code source des programmes utilisés pour les données utilisateurs, cela n’est pas pratique. C’est pourquoi des programmes devraient être distribués sous une [[!taglink licence_de_logiciel_libre_comme_la_GNU_AGPL-3|Free_Software]]."
+msgstr "    [[!taglink Les_standards_ouverts|Open_standards]] pour les formats et les protocoles sont nécessaires pour garantir cela. Évidemment, sans le code source des programmes utilisés pour les données utilisateurs, cela n’est pas pratique. C’est pourquoi des programmes devraient être distribués sous une [[!taglink licence_de_logiciel_libre_comme_la_GNU_AGPL-3|Free_Software]]."
 
 #. type: Plain text
 msgid ""
