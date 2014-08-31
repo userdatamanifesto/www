@@ -2,6 +2,10 @@
 # Copyright (C) 2009 Debian French l10n team <debian-l10n-french@lists.debian.org>
 # This file is distributed under the same license as the PACKAGE Ikiwiki.
 #
+#
+# Merci de faire attention à bien respecter les espaces en début de chaînes à traduire !
+#
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
