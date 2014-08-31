@@ -145,12 +145,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
-msgstr "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
+msgstr "[[!toggleable id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
-msgstr "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
+msgstr "[[!toggle  id=\"ssauts\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -176,7 +176,7 @@ msgstr "**Savoir** comment les données sont stockées"
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
-msgstr "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
+msgstr "[[!toggle  id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -190,12 +190,12 @@ msgstr "Quand les données sont envoyées à un fournisseur de service particuli
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
-msgstr "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
+msgstr "[[!toggleable id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
-msgstr "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
+msgstr "[[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -209,7 +209,7 @@ msgstr "Lorsque les utilisateurs utilisent des services centralisés pour envoye
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
-msgstr "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
+msgstr "[[!toggle  id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -222,12 +222,12 @@ msgstr "Les utilisateurs devraient être libres de choisir de stocker leurs prop
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
-msgstr "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
+msgstr "[[!toggleable id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
-msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
+msgstr "[[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -251,7 +251,7 @@ msgstr "**Être libre** de choisir une plateforme"
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
-msgstr "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
+msgstr "[[!toggle  id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
@@ -263,12 +263,12 @@ msgstr "Les utilisateurs devraient toujours être en mesure d’extraire leurs d
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
-msgstr "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
+msgstr "[[!toggleable id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
-msgstr "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
+msgstr "[[!toggle  id=\"usngsi\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
