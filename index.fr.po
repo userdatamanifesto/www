@@ -139,7 +139,8 @@ msgid ""
 "    to them and put under their control as well. If this control can’t be\n"
 "    given, then this type of data should be anonymous or not stored for\n"
 "    periods longer than necessary.\n"
-msgstr "Les données reçues, générées et/ou collectées à partir de l’activité des utilisateurs dans l’utilisation du service (ex. : les métadonnées ou les données du graphe social) devraient leur être rendues accessibles et être également sous leur maîtrise. Si cette maîtrise n’est pas possible, alors ce type de données devrait être anonyme ou bien ne pas être stockée pour une période plus longue que nécessaire."
+msgstr ""
+"Les données reçues, générées et/ou collectées à partir de l’activité des utilisateurs dans l’utilisation du service (ex. : les métadonnées ou les données du graphe social) devraient leur être rendues accessibles et être également sous leur maîtrise. Si cette maîtrise n’est pas possible, alors ce type de données devrait être anonyme ou bien ne pas être stockée pour une période plus longue que nécessaire."
 
 #. type: Plain text
 #, no-wrap
