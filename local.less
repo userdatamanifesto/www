@@ -1,0 +1,115 @@
+@screen-xs: 350px;
+@screen-sm: 700px;
+@max-bodysize: 900px;
+@screen-lg: 1200px;
+@screen-xl: 1800px;
+
+
+.pageheader {
+    /* less clutter, more space for title */
+    .actions {
+        font-size: 0.8em;
+        display: none;
+            @media (min-width: @screen-sm) {
+                display: block;
+            }
+    }
+    .title {
+        padding: 1em 0;
+    }
+    #searchform {
+        display: none;
+    }
+}
+
+#pagebody {
+    max-width: @max-bodysize;
+}
+
+aside.sidebar {
+    margin: 1em 2em;
+    border: 0;
+    padding: 0;
+    width: auto;
+    float: none;
+    background: transparent;
+    display: none;
+
+    @media (min-width: @screen-xs) {
+        display: block;
+    }
+
+    .nav {
+        padding-left: 0;
+        list-style-type: none;
+        font-size: 0.8em;
+        li {
+            background: rgba(255, 255, 0, 0.2);
+            display: inline-block;
+            padding: 0.5em;
+            margin: 0.25em;
+        }
+    }
+
+    @media (min-width: @screen-lg) {
+        float: right;
+        width: 250px;
+        .nav li { display: block; }
+    }
+
+    /* FIXME */
+
+    /* I had to comment this out because otherwise it will make the text on the
+     * left unclickable. I have tried to fix this with z-index but it sucks, so
+     * for now this is left out
+    @media (min-width: @screen-xl) {
+        float: none;
+        position: absolute;
+        width: auto;
+        .nav { margin-left: @max-bodysize; padding-left: 3em; }
+        .nav li { display: inline-block; }
+    }
+    */
+}
+
+.toggle {
+}
+
+.toggleable {
+    font-size: 0.9em;
+    margin-left: 1.5em;
+
+    .toggle {
+        margin-left: -1.5em;
+        float: left;
+    }
+}
+
+#otherlanguages {
+    span {
+        float: left;
+        padding: 6px 0;
+    }
+}
+
+.notice {
+    &.translation {
+        display: block;
+        font-size: 0.8em;
+        background: none repeat scroll 0px 0px rgba(255, 255, 0, 0.2);
+        padding: 1em;
+    }
+}
+
+#footer {
+    .tags {
+        a {
+            display: block;
+
+            @media (min-width: @screen-xs) {
+                display: inline;
+                margin-right: 1.5em;
+            }
+        }
+    }
+}
