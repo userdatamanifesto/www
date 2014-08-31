@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-08-28 22:24+0000\n"
+"POT-Creation-Date: 2014-08-31 15:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,5 +17,31 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-msgid "TODO"
+msgid ""
+"“Data rights” are a new set of rights that people should have but are not "
+"recognised by law (yet)."
+msgstr ""
+
+#. type: Plain text
+msgid "They are unlike:"
+msgstr ""
+
+#. type: Bullet: '  - '
+msgid ""
+"copyright, because data rights apply to *data* whereas copyright applies to "
+"“*works*” (typically, works of art)."
+msgstr ""
+
+#. type: Bullet: '  - '
+msgid ""
+"data protection, because data rights apply are for *the user* uploading "
+"data, not for *the person* who is the subject of the personally identifiable "
+"data."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"    So data protection and data rights complement each others and some data is\n"
+"    at the intersection of both of these rights.\n"
 msgstr ""
