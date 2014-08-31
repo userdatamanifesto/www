@@ -124,7 +124,7 @@ msgid ""
 "    and should not extend over others’ rights to use and exploit the data once it\n"
 "    has been made available to them.  What’s more, it does not mean that users\n"
 "    should have the right to impose unfair restrictions to other people. \n"
-msgstr "Lorsque les utilisateurs rendent des données accessibles à d’autres, qu’il s’agisse d’un groupe de gens restreint ou d’un groupe plus large, ils devraient pouvoir décider sous quelles permissions l’accès à leurs données est autorisé. Cependant, ce droit n’est pas absolu et ne devrait pas empiéter sur le droit des tierces personnes à utiliser et exploiter ces données une fois qu’elles leur ont été rendues accessibles. Qui plus est, cela ne signifie pas que les utilisateurs devraient avoir le droit d’imposer des restrictions injustes à d’autres personnes. \n"
+msgstr "    Lorsque les utilisateurs rendent des données accessibles à d’autres, qu’il s’agisse d’un groupe de gens restreint ou d’un groupe plus large, ils devraient pouvoir décider sous quelles permissions l’accès à leurs données est autorisé. Cependant, ce droit n’est pas absolu et ne devrait pas empiéter sur le droit des tierces personnes à utiliser et exploiter ces données une fois qu’elles leur ont été rendues accessibles. Qui plus est, cela ne signifie pas que les utilisateurs devraient avoir le droit d’imposer des restrictions injustes à d’autres personnes. \n"
 ""
 
 #. type: Plain text
