@@ -41,7 +41,7 @@ msgid ""
 "be free and should not have to pay allegiance to service providers."
 msgstr ""
 "Dieses Manifest zielt auf die Definition der grundlegenden [[!taglink "
-"rights_to_their_own_data|Datenrechte]] im Internet-Zeitalter ab. Jeder sollte "
+"rights_to_their_own_data|datarights]] im Internet-Zeitalter ab. Jeder sollte "
 "frei sein und sollte nicht an einen Diensteanbieter gebunden sein."
 
 #. type: Plain text
@@ -103,7 +103,7 @@ Wenn Nutzer die Zugriffkontrolle auf die hochgeladenen Daten haben, bedeutet das
 #. type: Plain text
 #, no-wrap
 msgid "    That means the right to use [[!taglink cryptography]] should never be denied. \n"
-msgstr "    Dies bedeutet, dass das Recht auf das Nutzen von [[!taglink cryptography|Kryptographie]] niemals verwährt werden darf. \n"
+msgstr "    Dies bedeutet, dass das Recht auf das Nutzen von [[!taglink Kryptographie|cryptography]] niemals verwährt werden darf. \n"
 
 #. type: Plain text
 #, no-wrap
