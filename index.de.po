@@ -97,8 +97,7 @@ msgid ""
 "    provider, nor shared with governments.  Users should be the only ones to have\n"
 "    ultimate control over it and to grant access to it. \n"
 msgstr ""
-
-Wenn Nutzer die Zugriffkontrolle auf die hochgeladenen Daten haben, bedeutet das, dass weder der Dienstanbieter noch Regierungen Zugriff auf privat geteilten Daten haben. Die Nutzer haben die alleinige Kontrolle über die Daten und die Bewilligung der Zugriffsberechtigung auf diese.
+"    Wenn Nutzer die Zugriffkontrolle auf die hochgeladenen Daten haben, bedeutet das, dass weder der Dienstanbieter noch Regierungen Zugriff auf privat geteilten Daten haben. Die Nutzer haben die alleinige Kontrolle über die Daten und die Bewilligung der Zugriffsberechtigung auf diese. \n"
 
 #. type: Plain text
 #, no-wrap
