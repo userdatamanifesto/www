@@ -27,7 +27,7 @@ msgstr "[[!meta description=\"Dieses Manifest zielt auf die Definition der grund
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
-msgstr "[[!meta language=\"de\"]] [[!template id=\"translation-notice.tmpl\" deutsch=\"yes\" todo=\"yes\" ghsrc=\"index.de.po\"]]"
+msgstr "[[!meta language=\"de\"]] [[!template id=\"translation-notice.tmpl\" deutsch=\"yes\" doing=\"yes\" ghsrc=\"index.de.po\"]]"
 
 #. type: Title #
 #, no-wrap
