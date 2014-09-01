@@ -17,12 +17,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"user data manifesto\"]]\n"
-msgstr ""
+msgstr "[[!meta title=\"User Data Manifesto\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta description=\"This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.\"]] \n"
-msgstr ""
+msgstr "[[!meta description=\"Dieses Manifest zielt auf die Definition der grundlegenden Rechte eines Nutzers an seinen eigenen Daten im Internet-Zeitalter ab. Jeder sollte frei sein und sollte nicht an einen Diensteanbieter gebunden sein.\"]] \n"
 
 #. type: Plain text
 #, no-wrap
@@ -32,7 +32,7 @@ msgstr "[[!meta language=\"de\"]] [[!template id=\"translation-notice.tmpl\" deu
 #. type: Title #
 #, no-wrap
 msgid "2.0 DRAFT"
-msgstr ""
+msgstr "2.0 ENTWURF"
 
 #. type: Plain text
 msgid ""
@@ -40,6 +40,9 @@ msgid ""
 "rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
 msgstr ""
+"Dieses Manifest zielt auf die Definition der grundlegenden [[!taglink "
+"rights_to_their_own_data|Datenrechte]] im Internet-Zeitalter ab. Jeder sollte "
+"frei sein und sollte nicht an einen Diensteanbieter gebunden sein."
 
 #. type: Plain text
 #, no-wrap
@@ -47,14 +50,16 @@ msgid ""
 "<ol start=\"0\"><li><strong>User data</strong> means any data uploaded by a user and/or\n"
 "generated from a user, while using a service on the Internet. </li></ol>\n"
 msgstr ""
+"<ol start=\"0\"><li><strong>Nutzerdaten</strong> bezeichnet alle Daten, die ein Nutzer hochgeladen und/oder\n"
+"von einem Nutzer generiert wurden, während er einen Dienst im Internet nutzte. </li></ol>\n"
 
 #. type: Plain text
 msgid "Thus, users should have:"
-msgstr ""
+msgstr "Deswegen sollte jeder Nutzer folgendes haben:"
 
 #. type: Bullet: '1. '
 msgid "**Control** over user data access"
-msgstr ""
+msgstr "**Kontrolle** über den Zugriff auf die Nutzerdaten"
 
 #. type: Plain text
 #, no-wrap
@@ -69,6 +74,10 @@ msgid ""
 "    direct access to their data and with which permissions and licenses such\n"
 "    access should be granted.\n"
 msgstr ""
+"    Daten, die explizit und gewollt vom Nutzer hochgeladen wurden, sollten unter\n"
+"    alleiniger Kontrolle des Nutzers sein. Der Nutzer sollte in der Lage sein, zu\n"
+"    entscheiden wem direkter Zugriff auf die Daten erlaubt ist und mit welchen\n"
+"    Berechtigungen und Lizenzen der Zugriff erlaubt ist.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -89,15 +98,17 @@ msgid ""
 "    ultimate control over it and to grant access to it. \n"
 msgstr ""
 
+Wenn Nutzer die Zugriffkontrolle auf die hochgeladenen Daten haben, bedeutet das, dass weder der Dienstanbieter noch Regierungen Zugriff auf privat geteilten Daten haben. Die Nutzer haben die alleinige Kontrolle über die Daten und die Bewilligung der Zugriffsberechtigung auf diese.
+
 #. type: Plain text
 #, no-wrap
 msgid "    That means the right to use [[!taglink cryptography]] should never be denied. \n"
-msgstr ""
+msgstr "    Dies bedeutet, dass das Recht auf das Nutzen von [[!taglink cryptography|Kryptographie]] niemals verwährt werden darf. \n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    That also means that a service provider should **not**:\n"
-msgstr ""
+msgstr "    Dies bedeutet auch, dass der Diensteanbieter folgendes **nicht** darf:\n"
 
 #. type: Bullet: '     1. '
 msgid ""
@@ -166,7 +177,7 @@ msgstr ""
 
 #. type: Bullet: '2. '
 msgid "**Knowledge** of how the data is stored"
-msgstr ""
+msgstr "**Wissen** wie die Daten gespeichert sind"
 
 #. type: Plain text
 #, no-wrap
@@ -241,7 +252,7 @@ msgstr ""
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
-msgstr ""
+msgstr "**Freiheit** eine Platform zu wählen"
 
 #. type: Plain text
 #, no-wrap
