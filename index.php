@@ -99,7 +99,7 @@ Everybody should be able to protect their own data against surveillance and to f
 
 </td><td></td></tr></table>
 
-<div class="draft">The <strong><a href="http://userdatamanifesto.org/2.0" target="_blank">User Data Manifesto 2.0</a></strong> is in the works!</div>
+<div class="draft">The <strong><a href="https://userdatamanifesto.org/2.0" target="_blank">User Data Manifesto 2.0</a></strong> is in the works!</div>
 
 </body>
 </html>
