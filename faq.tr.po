@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-10-10 09:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Bullet: '1. '
+msgid "what’s *not* user data?"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"User data is not necessarily private data and does not necessarily relate to "
+"a person or contains personally identifiable information. Thus, this "
+"manifesto does not aim at modifying personal data regulations, but rather "
+"aim at complementing them."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Anonymously “dumped” data, e.g. on pastebin, or data that can be edited "
+"directly by anybody, e.g. a public etherpad, do not usually deal with user "
+"data."
+msgstr ""

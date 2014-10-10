@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-10-10 09:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+msgid "Cryptography should be easy to use, with [[!taglink Free_Software]]."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"We mean effective cryptography. If the service provider enables\n"
+"  cryptography but controls the keys or encrypts the data with your "
+"password,\n"
+"  it’s probably [snake oil][Snake Oil].\n"
+msgstr ""
+
+#. type: Plain text
+msgid "[Snake Oil]: https://en.wikipedia.org/wiki/Snake_oil_%28cryptography%29"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<!--Cryptography (e.g. a [PKI]) is necessary to enable this control.-->\n"
+msgstr ""
+
+#. type: Plain text
+msgid "[PKI]: https://en.wikipedia.org/wiki/PKI"
+msgstr ""
