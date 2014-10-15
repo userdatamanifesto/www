@@ -29,7 +29,7 @@ msgstr "[[!meta description=\"Bu bildirge, İnternet çağında kullanıcıları
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
-msgstr "[[!meta language=\"tr\"]]\n"
+msgstr "[[!meta language=\"tr\"]] [[!template id=\"translation-notice.tmpl\" turkish=\"yes\" doing=\"yes\" ghsrc=\"index.tr.po\"]]"
 
 #. type: Title #
 #, no-wrap
