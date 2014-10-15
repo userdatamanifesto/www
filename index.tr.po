@@ -1,8 +1,3 @@
-# SOME DESCRIPTIVE TITLE
-# Copyright (C) YEAR Free Software Foundation, Inc.
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
@@ -42,8 +37,7 @@ msgid ""
 "rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
 msgstr ""
-"Bu bildirge, İnternet çağında kullanıcıların [[!taglink "
-"kendi_verilerine_ilişkin|datarights]] temel haklarını tanımlamayı "
+"Bu bildirge, İnternet çağında kullanıcıların [[!taglink kendi_verilerine_ilişkin|datarights]] temel haklarını tanımlamayı "
 "amaçlamaktadır. İnsanlar özgür olmalıdır ve hizmet sağlayıcılara bağımlı "
 "olmak zorunda kalmamalıdır."
 
