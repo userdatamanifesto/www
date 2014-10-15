@@ -3,41 +3,38 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: ikiwiki\n"
 "POT-Creation-Date: 2014-10-10 09:19+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2014-10-12 09:25+0200\n"
+"Last-Translator: T. E. KALAYCI <tekrei@fsfe.org>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"user data manifesto\"]]\n"
-msgstr ""
+msgstr "[[!meta title=\"kullanıcı veri bildirgesi\"]]\n"
 
 #. type: Plain text
 #, no-wrap
-msgid ""
-"[[!meta description=\"This manifesto aims at defining users’ fundamental "
-"rights to their own data in the Internet age. People ought to be free and "
-"should not have to pay allegiance to service providers.\"]] \n"
-msgstr ""
+msgid "[[!meta description=\"This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.\"]] \n"
+msgstr "[[!meta description=\"Bu bildirge, İnternet çağında kullanıcıların kendi verilerine ilişkin temel haklarını tanımlamayı amaçlamaktadır. İnsanlar özgür olmalıdır ve hizmet sağlayıcılara bağlı olmak zorunda kalmamalıdır.\"]] \n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta language=\"en\"]]\n"
-msgstr ""
+msgstr "[[!meta language=\"tr\"]]\n"
 
 #. type: Title #
 #, no-wrap
 msgid "2.0 DRAFT"
-msgstr ""
+msgstr "2.0 TASLAK"
 
 #. type: Plain text
 msgid ""
@@ -45,139 +42,156 @@ msgid ""
 "rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
 msgstr ""
+"Bu bildirge, İnternet çağında kullanıcıların [[!taglink "
+"kendi_verilerine_ilişkin|datarights]] temel haklarını tanımlamayı "
+"amaçlamaktadır. İnsanlar özgür olmalıdır ve hizmet sağlayıcılara bağımlı "
+"olmak zorunda kalmamalıdır."
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"<ol start=\"0\"><li><strong>User data</strong> means any data uploaded by a "
-"user and/or\n"
+"<ol start=\"0\"><li><strong>User data</strong> means any data uploaded by a user and/or\n"
 "generated from a user, while using a service on the Internet. </li></ol>\n"
 msgstr ""
+"<ol start=\"0\"><li><strong>Kullanıcı verisi</strong>, bir kullanıcı tarafından yüklenmiş ve/veya\n"
+"İnternet üzerinde bir hizmeti kullanırken üretilmiş olan herhangi bir veriyi kasteder.</li></ol>\n"
 
 #. type: Plain text
 msgid "Thus, users should have:"
-msgstr ""
+msgstr "Böylece, kullanıcılar şunlara sahip olmalıdır:"
 
 #. type: Bullet: '1. '
 msgid "**Control** over user data access"
-msgstr ""
+msgstr "Kullanıcı verisi erişimi üzerinde **denetim**"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
 "    Data explicitly and willingly uploaded by a user should be under the\n"
-"    ultimate control of the user. Users should be able to decide whom to "
-"grant\n"
-"    direct access to their data and with which permissions and licenses "
-"such\n"
+"    ultimate control of the user. Users should be able to decide whom to grant\n"
+"    direct access to their data and with which permissions and licenses such\n"
 "    access should be granted.\n"
 msgstr ""
+"    Açıkça ve kendi isteğiyle bir kullanıcı tarafından yüklenmiş olan bir veri \n"
+"    mutlak olarak kullanıcının denetiminde olmalıdır. Kullanıcılar, verilerine kimlerin \n"
+"    doğrudan erişimi olacağına, hangi izinlerle ve lisanslarla bu erişimin sağlanacağına \n"
+"    karar verebilmelidirler.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"wucat\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"wucat\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
 "    When users control access to the data they upload, it means that\n"
-"    data intended to be privately shared should not be accessible to the "
-"service\n"
-"    provider, nor shared with governments.  Users should be the only ones to "
-"have\n"
+"    data intended to be privately shared should not be accessible to the service\n"
+"    provider, nor shared with governments.  Users should be the only ones to have\n"
 "    ultimate control over it and to grant access to it. \n"
 msgstr ""
+"    Kullanıcılar yükledikleri veriye erişimi denetlediklerinde, \n"
+"    özel olarak paylaşıma sunulmuş olan verinin, hizmet sağlayıcı tarafından \n"
+"    erişilebilir olmamalı, hükümetlerle paylaşılmamalıdır. Bu veriler üzerindeki \n"
+"    mutlak denetim ve erişime açma hakkı sadece kullanıcıların olmalıdır. \n"
 
 #. type: Plain text
 #, no-wrap
-msgid ""
-"    That means the right to use [[!taglink cryptography]] should never be "
-"denied. \n"
-msgstr ""
+msgid "    That means the right to use [[!taglink cryptography]] should never be denied. \n"
+msgstr "    Bu [[!taglink şifreleme|cryptography]] kullanma hakkının hiç bir zaman engellenemeyeceği anlamına gelir. \n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    That also means that a service provider should **not**:\n"
-msgstr ""
+msgstr "    Bu ayrıca hizmet sağlayıcının aşağıdakileri **yapmaması** gerektiği anlamına da gelir:\n"
 
 #. type: Bullet: '     1. '
 msgid ""
 "force users to disclose private data (including private correspondence)  "
 "with them, nor"
 msgstr ""
+"kullanıcıları özel verilerini (özel yazışmalar da dahil olmak üzere) "
+"kendilerine göstermeye zorlama, veya"
 
 #. type: Bullet: '     2. '
 msgid ""
 "impose licensing conditions (e.g. copyright, personal data protection)  that "
 "go beyond what is necessary for the purpose of the service."
 msgstr ""
+"hizmetin amaçları açısından gerekenin ötesinde lisanslama koşulları (örneğin "
+"telif hakları, kişisel veri koruma, vb.) dayatma"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    When users make data available to others, whether to a restrictive group "
-"of\n"
+"    When users make data available to others, whether to a restrictive group of\n"
 "    people or to large groups, they should be able to decide under which\n"
-"    permissions they grant access to this data. However, this right is not "
-"absolute\n"
-"    and should not extend over others’ rights to use and exploit the data "
-"once it\n"
-"    has been made available to them.  What’s more, it does not mean that "
-"users\n"
+"    permissions they grant access to this data. However, this right is not absolute\n"
+"    and should not extend over others’ rights to use and exploit the data once it\n"
+"    has been made available to them.  What’s more, it does not mean that users\n"
 "    should have the right to impose unfair restrictions to other people. \n"
 msgstr ""
+"    Kullanıcılar, verilerini, ister kısıtlı bir grup isterse de geniş bir grup olsun, \n"
+"    başkalarına sağladıklarında, bu veriye erişimi hangi izinlerle sağladıklarına \n"
+"    karar verebilmelidirler. Ancak, bu hak kesinlikle mutlak değildir ve başkaları \n"
+"    tarafından onlara sağlanır sağlanmaz bu veriyi kullanma ve istismar etme haklarına \n"
+"    kadar uzanamaz. Üstelik, bu kullanıcıların diğer insanlara adil olmayan kısıtlamalar \n"
+"    dayatma hakkına sahip olması gerektiği anlamına da gelmez.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"ssauts\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Data received, generated, and/or collected from users’ activity while "
-"using\n"
-"    the service (e.g. metadata or social graph data) should be made "
-"accessible\n"
+"    Data received, generated, and/or collected from users’ activity while using\n"
+"    the service (e.g. metadata or social graph data) should be made accessible\n"
 "    to them and put under their control as well. If this control can’t be\n"
 "    given, then this type of data should be anonymous or not stored for\n"
 "    periods longer than necessary.\n"
 msgstr ""
+"    Kullanıcıların hizmeti kullanırken yaptığı etkinlikler sonucunda elde edilen,\n"
+"    üretilen ve/veya toplanan veriler (örneğin üst veri veya sosyal grafik verisi),\n"
+"    onlara sağlanmalı ve denetimlerine de sunulmalıdır. Eğer bu denetim verilemeyecekse,\n"
+"    o zaman bu tür veriler anonim olmalı veya gerekenden daha uzun bir süre\n"
+"    saklanmamalıdır.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Some services allow users to submit data with the intention to make it "
-"publicly\n"
-"    available for all. Even in these cases, some amount of user data is "
-"kept\n"
-"    private (e.g. metadata or social graph data). The user should also have "
-"control\n"
-"    over this data, because metadata and logging information can be used "
-"for\n"
+"    Some services allow users to submit data with the intention to make it publicly\n"
+"    available for all. Even in these cases, some amount of user data is kept\n"
+"    private (e.g. metadata or social graph data). The user should also have control\n"
+"    over this data, because metadata and logging information can be used for\n"
 "    disproportionate surveillance. \n"
 msgstr ""
+"    Bazı hizmetler kullanıcılara verilerini herkese halka açık kılma niyetiyle sunma \n"
+"    olanağı sağlarlar. Bu durumlarda bile, bazı kullanıcı verileri (örneğin üst veri ve \n"
+"    sosyal grafik verisi) gizli tutulmaktadır. Kullanıcı da bu veri üzerinde denetime sahip \n"
+"    olmalıdır, çünkü üst veri ve işlem kaydı bilgileri orantısız gözetim amacıyla \n"
+"    kullanılabilir.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -185,84 +199,90 @@ msgid ""
 "    That means that service providers must commit to keeping these to a\n"
 "    minimum, and only for the purpose of operating the service.\n"
 msgstr ""
+"    Bunun anlamı, hizmet sağlayıcının bunları en alt düzeyde ve sadece\n"
+"    hizmeti sürdürme amacıyla tutacağına ilişkin taahhütte bulunması gereklidir.\n"
 
 #. type: Bullet: '2. '
 msgid "**Knowledge** of how the data is stored"
-msgstr ""
+msgstr "Verinin nasıl saklandığına ilişkin **bilgi**"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    When the data is uploaded to a specific service provider, users should "
-"be\n"
-"    informed about where that specific service provider stores the data, "
-"how\n"
-"    long, in which jurisdiction the specific service provider operates, "
-"and\n"
+"    When the data is uploaded to a specific service provider, users should be\n"
+"    informed about where that specific service provider stores the data, how\n"
+"    long, in which jurisdiction the specific service provider operates, and\n"
 "    which laws apply.\n"
 msgstr ""
+"    Veri belirli bir hizmet sağlayıcıya yüklendiğinde, kullanıcılar ilgili sağlayıcının\n"
+"    veriyi nerede, ne kadar zamanla sakladığı, ilgili hizmet sağlayıcının\n"
+"    hangi yetkilerle iş gördüğü ve hangi yasaların geçerli olduğu konularında\n"
+"    bilgilendirilmelidir.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    When users use centralised services that uploads data to specific "
-"storage\n"
-"    providers instead of relying on peer-to-peer systems, it is important to "
-"know\n"
-"    where the providers might store data because they could be compelled "
-"by\n"
+"    When users use centralised services that uploads data to specific storage\n"
+"    providers instead of relying on peer-to-peer systems, it is important to know\n"
+"    where the providers might store data because they could be compelled by\n"
 "    governments to turn over data they have in their possession.\n"
 msgstr ""
+"    Kullanıcıların, eşler arası sistemlere dayanmak yerine veriyi belirli depolama sağlayıcılarına\n"
+"    yükleyen merkezi hizmetleri kullanmaları durumunda, sağlayıcıların veriyi nereye\n"
+"    sakladıklarını bilmeleri önemlidir, çünkü sağlayıcılar hükümetler tarafından\n"
+"    sahip oldukları verileri vermeye zorlanabilirler.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Users should be free to choose to store their own data on devices "
-"(e.g.\n"
-"    servers) in their vicinity and under their direct control. This way, "
-"users\n"
+"    Users should be free to choose to store their own data on devices (e.g.\n"
+"    servers) in their vicinity and under their direct control. This way, users\n"
 "    do not have to rely on centralised services.\n"
 msgstr ""
+"    Kullanıcılar kendi verilerini kendilerine yakın ve doğrudan denetimlerinde\n"
+"    olan aygıtlar üzerinde (örneğin sunucular) saklama tercihinde özgür olmalıdır.\n"
+"    Bu şekilde, kullanıcılar merkezi hizmetlere bel bağlamak zorunda kalmazlar.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Users should not rely on centralised services. Peer-to-peer systems "
-"and\n"
-"    unhosted applications are a means to that end.  In the long term, all "
-"users\n"
+"    Users should not rely on centralised services. Peer-to-peer systems and\n"
+"    unhosted applications are a means to that end.  In the long term, all users\n"
 "    should be able to have their own server.  \n"
 msgstr ""
+"    Kullanıcılar, merkezi hizmetlere itibar etmemelidirler. Eşler arası sistemler ve\n"
+"    sunucusuz uygulamalar bu niyete yönelik araçlardır. Uzun vadede, bütün kullanıcılar\n"
+"    kendi sunucularına sahip olabilmelidir. \n"
 
 #. type: Plain text
 #, no-wrap
@@ -270,59 +290,68 @@ msgid ""
 "    Unfortunately, this is made very difficult by some Internet access\n"
 "    providers that restrict their customers unfairly. \n"
 msgstr ""
+"    Maalesef, bu durum, müşterilerini haksızca kısıtlayan bazı İnternet\n"
+"    erişim sağlayıcılar tarafından oldukça güçleştirilmiştir.\n"
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
-msgstr ""
+msgstr "Herhangi bir platformu seçme **özgürlüğü**"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Users should always be able to extract their data from the service at "
-"any\n"
+"    Users should always be able to extract their data from the service at any\n"
 "    time without experiencing any vendor lock-in.\n"
 msgstr ""
+"    Kullanıcılar daima, istedikleri zaman, herhangi bir sağlayıcıya bağımlı\n"
+"    kılınmadan hizmetteki verilerini alabilmelidirler.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
-msgstr ""
+msgstr "    [[!toggleable id=\"usngsi\" text=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
-msgstr ""
+msgstr "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Users should not get stuck into a specific technical solution.  This is "
-"why\n"
+"    Users should not get stuck into a specific technical solution.  This is why\n"
 "    they should always be able to leave a platform and settle elsewhere.\n"
 msgstr ""
+"    Kullanıcılar belirli teknik çözümlere mahkum olmamalıdır. Bu yüzden\n"
+"    her zaman bir platformu terk edebilmeli ve başka bir yere yerleşebilmelidirler.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid ""
 "    [[!taglink Open_standards]] for formats and protocols are necessary to\n"
-"    guarantee this.  Obviously, without the source code of the programs used "
-"to\n"
-"    deal with user data, this is impractical.  This is why programs should "
-"be\n"
+"    guarantee this.  Obviously, without the source code of the programs used to\n"
+"    deal with user data, this is impractical.  This is why programs should be\n"
 "    distributed under a \n"
 "    [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].\n"
 msgstr ""
+"    Bunu güvence altına almak için biçimler ve protokollerde [[!taglink Açık_Standartlar|Open_standards]] \n"
+"    gereklidir.  Açıkçası, kullanıcı verisiyle uğraşan programların kaynak kodu olmadan \n"
+"    bu uygulanamaz. Bu nedenle programlar \n"
+"    [[!taglink GNU_AGPL-3_benzeri_Özgür_Yazılım_Lisanslarıyla|Free_Software]].\n"
+"    dağıtılmalıdır.\n"
 
 #. type: Plain text
 msgid ""
 "If users have these rights, they are in control of their data rather than "
 "being subjugated by service providers."
 msgstr ""
+"Eğer kullanıcıların bu haklara sahipse, hizmet sağlayıcıları tarafından kendi"
+"verilerinin zaptedilmesi yerine, bu verilerin denetimlerine sahiptirler."
 
 #. type: Plain text
 msgid ""
@@ -332,6 +361,12 @@ msgid ""
 "the service providers so that they can exploit user data (e.g. by selling "
 "them, licensing them or building a profile for advertisers)."
 msgstr ""
+"Kullanıcı verisiyle ile ilgilenen çoğu hizmet şu an için ücretsizdir, ancak "
+"bu özgür oldukları anlamına gelmez. Para ile ödeme yapmak yerine, "
+"kullanıcılar hizmet sağlayıcılara [[!taglink "
+"bağlılıklarıyla_ödeme_yapmaktadır|Internet_Feudalism]], böylece hizmet "
+"sağlayıcılar bu veriyi istismar edebilmektedir (veriyi satarak, "
+"lisanslayarak veya reklam verenler için bir profil oluşturarak)."
 
 #. type: Plain text
 msgid ""
@@ -340,6 +375,9 @@ msgid ""
 "these Internet services bring. This has made this kind of exchange to become "
 "common."
 msgstr ""
+"Mahremiyet ve diğer haklardan bu şekilde feragat etmek, çoğu kullanıcıya "
+"önemsiz ve bu İnternet hizmetlerinin sağladıkları rahatlık uğruna ufak bir "
+"bedel olarak gözükebilmektedir. Bu durum, bu tür bir takası yaygınlaştırmıştır."
 
 #. type: Plain text
 msgid ""
@@ -348,6 +386,10 @@ msgid ""
 "systems. It is of grave importance that people understand/realize this, "
 "since it forms a serious threat to the freedom of humanity."
 msgstr ""
+"Hizmet sağlayıcılar bu nedenle farkında olmayarak değerli İnternet "
+"hizmetlerini büyük çapta ve merkezi gözetim sistemlerine dönüştürmeye "
+"zorlanmaktadır. İnsanların bunu anlaması/fark etmesi oldukça önemlidir, "
+"çünkü bu insanlığın özgürlüğüne ciddi bir tehdit oluşturmaktadır."
 
 #. type: Plain text
 msgid ""
@@ -357,3 +399,9 @@ msgid ""
 "rights and give them the possibility to exercise the [[!taglink datarights]] "
 "defined in this manifesto."
 msgstr ""
+"Sonuçta, kullanıcıların verilerinin kendilerinin denetiminde olmasını "
+"güvence altına almaya yönelik en iyi teknik tasarımlar eşler arası (peer-to-"
+"peer) veya dağıtık sistemleri ve sunucusuz uygulamaları içermektedir. Yasal "
+"olarak bu, hizmet şartlarının kullanıcıların haklarına saygı göstermesi ve "
+"onlara bu bildirgede tanımlanmış olan [[!taglink veri_haklarını|datarights]] "
+"uygulama olanağını sunması gerektiği anlamına gelir."
