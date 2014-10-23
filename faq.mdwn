@@ -1,13 +1,25 @@
 
+ 1. what’s the difference between *personal data* protection and *user data* rights?
 
-1. what’s *not* user data?
+    Data is called *personal data* when it identifies a person, called the
+    *data subject*. But the data subject is not necessarily the user of the
+    data.
 
-User data is not necessarily private data and does not necessarily relate to a
-person or contains personally identifiable information. Thus, this manifesto
-does not aim at modifying personal data regulations, but rather aim at
-complementing them.
+    For example, if Alice uploads a very boring photo of her friend Bernard;
+    the data of that photo is both *personal data* because it identifies
+    Bernard (the *subject*), but it is also *user data* because it is Alice who
+    uploaded the photo somwhere: she is the *user*.
 
-Anonymously “dumped” data, e.g. on pastebin, or data that can be edited
-directly by anybody, e.g. a public etherpad, do not usually deal with user
-data.
+    For more information [[on the distinction between copyright, data protection and data rights|tags/datarights]].
+
+ 1. what’s *not* user data?
+
+    User data is not necessarily private data and does not necessarily relate to a
+    person or contains personally identifiable information. Thus, this manifesto
+    does not aim at modifying personal data regulations, but rather aim at
+    complementing them.
+
+    Anonymously “dumped” data, e.g. on pastebin, or data that can be edited
+    directly by anybody, e.g. a public etherpad, do not usually deal with user
+    data.
 
