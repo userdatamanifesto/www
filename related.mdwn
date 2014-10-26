@@ -39,7 +39,8 @@ introduction or preamble.
     > and pay, where they do pay, for use of the ‘service’ rather than for ‘owning’
     > (or licensing) the application itself.
 
- - [Data Portability]
+  - [Data Portability]
+
 
 [opendefinition]: http://opendefinition.org/software-service/
 [franklin]: http://autonomo.us/2008/07/14/franklin-street-statement/
