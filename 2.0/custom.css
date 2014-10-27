@@ -89,6 +89,19 @@ h3 {
 }
 
 
+.more-button-row {
+	display: block;
+	clear: both;
+	padding-top: 70px;
+}
+.more-button {
+	border: 3px solid black;
+	border-radius: 5px;
+	padding: 20px;
+	margin-left: -5%;
+}
+
+
 @media (min-width: 768px) {
 
 	.section {
