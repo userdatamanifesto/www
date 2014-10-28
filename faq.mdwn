@@ -23,3 +23,6 @@
     directly by anybody, e.g. a public etherpad, do not usually deal with user
     data.
 
+ 1. what other initiatives are there?
+
+    We maintain a page of [[related initiatives|related]].
