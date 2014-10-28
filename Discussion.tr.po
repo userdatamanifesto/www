@@ -19,7 +19,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "**Please sign your comment or give us a way to get back to you so we can discuss.**\n"
-msgstr ""
+msgstr "[[!meta redir=index.en.html]]"
 
 #. type: Plain text
 msgid ""
