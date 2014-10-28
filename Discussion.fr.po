@@ -19,7 +19,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "**Please sign your comment or give us a way to get back to you so we can discuss.**\n"
-msgstr "[[!meta redir=http://udm.branchable.com/Discussion/index.en.html]] **Please do not edit this page**"
+msgstr ""
 
 #. type: Plain text
 msgid ""
