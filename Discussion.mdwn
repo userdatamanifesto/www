@@ -1,4 +1,5 @@
-To discuss the manifesto, please comment (there's a bug right now preventing us to use the discussion features)
+**Please sign your comment or give us a way to get back to you so we can discuss.**
+
 
 From http://source.udm.branchable.com/?p=source.git;a=commitdiff;h=70c036cbeb2cdea9e5718a871a15c40a18a3d533
 
