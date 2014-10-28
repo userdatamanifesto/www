@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-28 13:48+0000\n"
+"POT-Creation-Date: 2014-10-28 13:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,9 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-msgid ""
-"To discuss the manifesto, please comment (there's a bug right now preventing "
-"us to use the discussion features)"
+#, no-wrap
+msgid "**Please sign your comment or give us a way to get back to you so we can discuss.**\n"
 msgstr ""
 
 #. type: Plain text
