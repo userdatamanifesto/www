@@ -1,2 +1,7 @@
-The manifesto as it stands, seems fine for "user-created content", as in social media. But with the dawn of the Internet of Things, people will be generating much data of which they are unaware, though often it will have privacy implications. Therefore I propose a new section in the manifesto which deals with anonymisation. Often the use of anonymous data will be beneficial to citizens; they just need to have control of what is anonymised and when. 
+To discuss the manifesto, please comment (there's a bug right now preventing us to use the discussion features)
+
+From http://source.udm.branchable.com/?p=source.git;a=commitdiff;h=70c036cbeb2cdea9e5718a871a15c40a18a3d533
+
+ > The manifesto as it stands, seems fine for "user-created content", as in social media. But with the dawn of the Internet of Things, people will be generating much data of which they are unaware, though often it will have privacy implications. Therefore I propose a new section in the manifesto which deals with anonymisation. Often the use of anonymous data will be beneficial to citizens; they just need to have control of what is anonymised and when. 
+
 
