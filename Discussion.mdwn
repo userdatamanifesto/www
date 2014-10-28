@@ -1,8 +1,17 @@
 **Please sign your comment or give us a way to get back to you so we can discuss.**
 
+----
 
 From http://source.udm.branchable.com/?p=source.git;a=commitdiff;h=70c036cbeb2cdea9e5718a871a15c40a18a3d533
 
  > The manifesto as it stands, seems fine for "user-created content", as in social media. But with the dawn of the Internet of Things, people will be generating much data of which they are unaware, though often it will have privacy implications. Therefore I propose a new section in the manifesto which deals with anonymisation. Often the use of anonymous data will be beneficial to citizens; they just need to have control of what is anonymised and when. 
 
+Hugo: Thiere is already such a section, see point 1 paragraph 2 :
 
+ > Data received, generated, and/or collected from users’ activity while using
+ > the service (e.g. metadata or social graph data) should be made accessible
+ > to them and put under their control as well. If this control can’t be given,
+ > then this type of data should be anonymous or not stored for periods longer
+ > than necessary.
+
+----
