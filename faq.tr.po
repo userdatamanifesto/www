@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-28 13:54+0000\n"
+"POT-Creation-Date: 2014-10-28 14:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,4 +63,13 @@ msgid ""
 "    Anonymously “dumped” data, e.g. on pastebin, or data that can be edited\n"
 "    directly by anybody, e.g. a public etherpad, do not usually deal with user\n"
 "    data.\n"
+msgstr ""
+
+#. type: Bullet: ' 1. '
+msgid "what other initiatives are there?"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "    We maintain a page of [[related initiatives|related]].\n"
 msgstr ""

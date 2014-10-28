@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-28 13:54+0000\n"
+"POT-Creation-Date: 2014-10-28 14:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -90,10 +90,28 @@ msgid "[Data Portability]"
 msgstr ""
 
 #. type: Plain text
+#, no-wrap
 msgid ""
-"[opendefinition]: http://opendefinition.org/software-service/ [franklin]: "
-"http://autonomo.us/2008/07/14/franklin-street-statement/ "
+"    Data portability is the ability for people to reuse their data across\n"
+"    interoperable applications. The DataPortability Project works to advance\n"
+"    this vision by identifying, contextualizing and promoting efforts in the\n"
+"    space.\n"
+msgstr ""
+
+#. type: Plain text
+msgid "[opendefinition]: http://opendefinition.org/software-service/"
+msgstr ""
+
+#. type: Plain text
+msgid "[franklin]: http://autonomo.us/2008/07/14/franklin-street-statement/"
+msgstr ""
+
+#. type: Plain text
+msgid ""
 "[FreeOpenServicesDefinition]: https://wiki.gnome.org/Attic/"
-"FreeOpenServicesDefinition [Data Portability]: http://www.dataportability."
-"org/"
+"FreeOpenServicesDefinition"
+msgstr ""
+
+#. type: Plain text
+msgid "[Data Portability]: http://www.dataportability.org/"
 msgstr ""
