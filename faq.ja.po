@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-10 13:07+0000\n"
+"POT-Creation-Date: 2014-10-28 13:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,21 +16,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Bullet: '1. '
+#. type: Bullet: ' 1. '
+msgid ""
+"what’s the difference between *personal data* protection and *user data* "
+"rights?"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"    Data is called *personal data* when it identifies a person, called the\n"
+"    *data subject*. But the data subject is not necessarily the user of the\n"
+"    data.\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"    For example, if Alice uploads a very boring photo of her friend Bernard;\n"
+"    the data of that photo is both *personal data* because it identifies\n"
+"    Bernard (the *subject*), but it is also *user data* because it is Alice who\n"
+"    uploaded the photo somwhere: she is the *user*.\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "    For more information [[on the distinction between copyright, data protection and data rights|tags/datarights]].\n"
+msgstr ""
+
+#. type: Bullet: ' 1. '
 msgid "what’s *not* user data?"
 msgstr ""
 
 #. type: Plain text
+#, no-wrap
 msgid ""
-"User data is not necessarily private data and does not necessarily relate to "
-"a person or contains personally identifiable information. Thus, this "
-"manifesto does not aim at modifying personal data regulations, but rather "
-"aim at complementing them."
+"    User data is not necessarily private data and does not necessarily relate to a\n"
+"    person or contains personally identifiable information. Thus, this manifesto\n"
+"    does not aim at modifying personal data regulations, but rather aim at\n"
+"    complementing them.\n"
 msgstr ""
 
 #. type: Plain text
+#, no-wrap
 msgid ""
-"Anonymously “dumped” data, e.g. on pastebin, or data that can be edited "
-"directly by anybody, e.g. a public etherpad, do not usually deal with user "
-"data."
+"    Anonymously “dumped” data, e.g. on pastebin, or data that can be edited\n"
+"    directly by anybody, e.g. a public etherpad, do not usually deal with user\n"
+"    data.\n"
 msgstr ""
