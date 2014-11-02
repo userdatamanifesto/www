@@ -19,7 +19,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"user data manifesto\"]]\n"
-msgstr ""
+msgstr "[[!meta title=\"ユーザーデータマニュフェスト\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -28,6 +28,9 @@ msgid ""
 "rights to their own data in the Internet age. People ought to be free and "
 "should not have to pay allegiance to service providers.\"]] \n"
 msgstr ""
+"[[!meta description=\"このマニュフェストはこのインターネットの時代においてユーザーの"
+"自らの情報に関する基本的権利を定義することを目的としている。人々は自由であるべきであり、"
+"サービス提供者に対して忠誠を示すべきではないのである。\"]] \n"
 
 #. type: Plain text
 #, no-wrap
@@ -45,6 +48,9 @@ msgid ""
 "rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
 msgstr ""
+"このマニュフェストはこのインターネットの時代においてユーザーの [[!taglink "
+"自らの情報に関する基本的権利|datarights]] を定義することを目的としている。"
+"人々は自由であるべきであり、サービス提供者に対して忠誠を示すべきではないのである。"
 
 #. type: Plain text
 #, no-wrap
@@ -53,14 +59,16 @@ msgid ""
 "user and/or\n"
 "generated from a user, while using a service on the Internet. </li></ol>\n"
 msgstr ""
+"<ol start=\"0\"><li><strong>ユーザーデータ</strong>とはユーザーがインターネット上の"
+"サービスを用いてアップ、もしくは作成した情報を指す。</li></ol>\n"
 
 #. type: Plain text
 msgid "Thus, users should have:"
-msgstr ""
+msgstr "したがって、ユーザーは以下の権利を有していなければならない。"
 
 #. type: Bullet: '1. '
 msgid "**Control** over user data access"
-msgstr ""
+msgstr "ユーザーデータへの**アクセス管理**"
 
 #. type: Plain text
 #, no-wrap
@@ -77,6 +85,9 @@ msgid ""
 "such\n"
 "    access should be granted.\n"
 msgstr ""
+"    ユーザーが公にかつ自分の意志でアップしたデータはユーザーの管理下にあるべきであり、\n"
+"    ユーザーは誰が自らのデータに直接アクセスできるか、またどの種のパーミッションや"
+"    ライセンスでアクセスを許可されるかを自分で決めることができる。"
 
 #. type: Plain text
 #, no-wrap
@@ -154,6 +165,10 @@ msgid ""
 "    given, then this type of data should be anonymous or not stored for\n"
 "    periods longer than necessary.\n"
 msgstr ""
+"    あるサービスを利用する上でユーザーの活動から受信された、生じた、"
+"    集められたメタデータやソーシャル・グラフ・データ等のデータに関しては"
+"    ユーザーもアクセス、管理ができる。もしこの管理ができないのであれば、"
+"    この種のデータは匿名であるか必要以上に長期に渡って保存されるべきではない。"
 
 #. type: Plain text
 #, no-wrap
@@ -206,6 +221,9 @@ msgid ""
 "and\n"
 "    which laws apply.\n"
 msgstr ""
+"    ある特定のサービス提供者にデータをアップする際、ユーザーに対しその提供者からどこに、"
+"    どのくらいの期間そのデータを保存するのか、提供者の運営上の権限やどの法律に基づいている"
+"    のかが知らされるべきである。"
 
 #. type: Plain text
 #, no-wrap
@@ -243,6 +261,9 @@ msgid ""
 "users\n"
 "    do not have to rely on centralised services.\n"
 msgstr ""
+"    ユーザーは自らのデータが近辺の直接管理できるサーバーのような諸デバイスに"
+"    保存されることを選べるべきである。それによって、ユーザーは中央集中サービスに"
+"    頼る必要もなくなるのである。"
 
 #. type: Plain text
 #, no-wrap
@@ -273,7 +294,7 @@ msgstr ""
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
-msgstr ""
+msgstr "プラットフォーム選択の**自由**"
 
 #. type: Plain text
 #, no-wrap
@@ -287,6 +308,7 @@ msgid ""
 "any\n"
 "    time without experiencing any vendor lock-in.\n"
 msgstr ""
+"    ユーザーは常に自らのデータをいつでもサービス提供者を介することなく取り出せるべきである。"
 
 #. type: Plain text
 #, no-wrap
@@ -323,6 +345,8 @@ msgid ""
 "If users have these rights, they are in control of their data rather than "
 "being subjugated by service providers."
 msgstr ""
+"もしユーザーがこれらの権利を有しているとすれば、そのデータはサービス提供者が支配するのでは"
+"なく自らの管理下にあるはずである。"
 
 #. type: Plain text
 msgid ""
@@ -332,6 +356,11 @@ msgid ""
 "the service providers so that they can exploit user data (e.g. by selling "
 "them, licensing them or building a profile for advertisers)."
 msgstr ""
+"ユーザーデータを扱うサービスの多くは無料であるが、それは自由であるという意味ではない。"
+"ユーザーはお金を払う代わりにサービス提供者に対し忠誠を示すこととなり、その結果提供者は"
+"ユーザーデータを売る、占有する、広告用のプロフィールを作成するといった事柄に利用することが"
+"できるのである。"
+# NEEDS UPDATE
 
 #. type: Plain text
 msgid ""
@@ -340,6 +369,9 @@ msgid ""
 "these Internet services bring. This has made this kind of exchange to become "
 "common."
 msgstr ""
+"このようにプライバシーやその他の権利を諦めることは多くの人々にしてみれば些細なことであり、"
+"インターネットサービスがもたらした便利さに比べれば安いものだと見えるだろう。そのためこの種の"
+"交換条件が一般化したのだ。"
 
 #. type: Plain text
 msgid ""
@@ -348,6 +380,10 @@ msgid ""
 "systems. It is of grave importance that people understand/realize this, "
 "since it forms a serious threat to the freedom of humanity."
 msgstr ""
+"したがってサービス提供者は無意識的に彼らのインターネットサービスが"
+"大規模な中央集中型の監視システムに変えざるを得なくなったのだ。"
+"そしてこれらが人権に対して深刻な脅威となったときに、やっとその重要性を理解する、"
+"もしくは気づくのである。"
 
 #. type: Plain text
 msgid ""
@@ -357,3 +393,7 @@ msgid ""
 "rights and give them the possibility to exercise the [[!taglink datarights]] "
 "defined in this manifesto."
 msgstr ""
+"最後に、ユーザーデータがユーザー本人の管理下にあることを保証するための最も優れた技術的"
+"デザインとしてペア・トウ・ペアや分散型システム、アンホステッド・アプリ等があげられる。"
+"法的観点から言うならば、一連のサービスはユーザーの権利を尊重し、このマニュフェストで"
+"定義されているデータ権利を行使する機会を与える必要があるということである。"
