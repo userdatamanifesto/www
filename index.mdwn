@@ -98,7 +98,8 @@ Thus, users should have:
     [[!toggle  id="usnroc" text="×"]]
     Users should not rely on centralised services. Peer-to-peer systems and
     unhosted applications are a means to that end.  In the long term, all users
-    should be able to have their own server.  
+    should be able to have their own server with
+    [[!taglink Free_Software]].
     
     Unfortunately, this is made very difficult by some Internet access
     providers that restrict their customers unfairly. 
