@@ -119,8 +119,9 @@ Thus, users should have:
 
     [[!taglink Open_standards]] for formats and protocols are necessary to
     guarantee this.  Obviously, without the source code of the programs used to
-    deal with user data, this is impractical.  This is why programs should be
-    distributed under a 
+    deal with user data, this is impractical. In order to enable users to
+    process the user data on the platform of their choice these programs should be
+    available under a
     [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].
     """]]
 
