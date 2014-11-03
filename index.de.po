@@ -4,7 +4,7 @@
 # modification, are permitted under any circumstances. No warranty.
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2014-08-30 09:48+0000\n"
+"POT-Creation-Date: 2014-11-03 15:42+0000\n"
 "PO-Revision-Date: 2010-03-12 09:40+0530\n"
 "Last-Translator: Sebastian Kuhnert <mail@sebastian-kuhnert.de>\n"
 "Language-Team: None\n"
@@ -96,8 +96,7 @@ msgid ""
 "    data intended to be privately shared should not be accessible to the service\n"
 "    provider, nor shared with governments.  Users should be the only ones to have\n"
 "    ultimate control over it and to grant access to it. \n"
-msgstr ""
-"    Wenn Nutzer die Zugriffkontrolle auf die hochgeladenen Daten haben, bedeutet das, dass weder der Dienstanbieter noch Regierungen Zugriff auf privat geteilten Daten haben. Die Nutzer haben die alleinige Kontrolle über die Daten und die Bewilligung der Zugriffsberechtigung auf diese. \n"
+msgstr "    Wenn Nutzer die Zugriffkontrolle auf die hochgeladenen Daten haben, bedeutet das, dass weder der Dienstanbieter noch Regierungen Zugriff auf privat geteilten Daten haben. Die Nutzer haben die alleinige Kontrolle über die Daten und die Bewilligung der Zugriffsberechtigung auf diese. \n"
 
 #. type: Plain text
 #, no-wrap
@@ -239,7 +238,8 @@ msgstr ""
 msgid ""
 "    Users should not rely on centralised services. Peer-to-peer systems and\n"
 "    unhosted applications are a means to that end.  In the long term, all users\n"
-"    should be able to have their own server.  \n"
+"    should be able to have their own server with\n"
+"    [[!taglink Free_Software]].\n"
 msgstr ""
 
 #. type: Plain text

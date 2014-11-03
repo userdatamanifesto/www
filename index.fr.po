@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
-"POT-Creation-Date: 2014-08-30 09:48+0000\n"
+"POT-Creation-Date: 2014-11-03 15:42+0000\n"
 "PO-Revision-Date: 2009-08-23 18:50+0200\n"
 "Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -40,12 +40,12 @@ msgstr "2.0 BROUILLON"
 
 #. type: Plain text
 msgid ""
-"This manifesto aims at defining users’ fundamental "
-"[[!taglink rights_to_their_own_data|datarights]] in the Internet age. People ought to "
+"This manifesto aims at defining users’ fundamental [[!taglink "
+"rights_to_their_own_data|datarights]] in the Internet age. People ought to "
 "be free and should not have to pay allegiance to service providers."
 msgstr ""
-"Ce manifeste a pour but de définir "
-"[[!taglink les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à "
+"Ce manifeste a pour but de définir [[!taglink "
+"les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à "
 "l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer "
 "allégeance aux fournisseurs de service."
 
@@ -111,13 +111,18 @@ msgstr "Cela signifie également qu’un fournisseur de service devrait **ne pas
 msgid ""
 "force users to disclose private data (including private correspondence)  "
 "with them, nor"
-msgstr "forcer les utilisateurs à divulguer des données privées (ce qui inclut la correspondance privée) pour eux, ni"
+msgstr ""
+"forcer les utilisateurs à divulguer des données privées (ce qui inclut la "
+"correspondance privée) pour eux, ni"
 
 #. type: Bullet: '     2. '
 msgid ""
 "impose licensing conditions (e.g. copyright, personal data protection)  that "
 "go beyond what is necessary for the purpose of the service."
-msgstr "imposer des conditions de licence (ex. : de droit d’auteur ou de protection des données personnelles) qui vont au-delà de ce qui est nécessaire pour l’objectif du service."
+msgstr ""
+"imposer des conditions de licence (ex. : de droit d’auteur ou de protection "
+"des données personnelles) qui vont au-delà de ce qui est nécessaire pour "
+"l’objectif du service."
 
 #. type: Plain text
 #, no-wrap
@@ -233,11 +238,16 @@ msgid "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 
 #. type: Plain text
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    Users should not rely on centralised services. Peer-to-peer systems and\n"
+#| "    unhosted applications are a means to that end.  In the long term, all users\n"
+#| "    should be able to have their own server.  \n"
 msgid ""
 "    Users should not rely on centralised services. Peer-to-peer systems and\n"
 "    unhosted applications are a means to that end.  In the long term, all users\n"
-"    should be able to have their own server.  \n"
+"    should be able to have their own server with\n"
+"    [[!taglink Free_Software]].\n"
 msgstr "    Les utilisateurs ne devraient pas reposer sur des services centralisés. Les systèmes pair-à-pair et les applications *unhosted* sont un moyen d’y arriver. À long terme, tous les utilisateurs devraient être capables d’avoir leur propre serveur."
 
 #. type: Plain text
@@ -294,7 +304,9 @@ msgstr "    [[!taglink Les_standards_ouverts|Open_standards]] pour les formats e
 msgid ""
 "If users have these rights, they are in control of their data rather than "
 "being subjugated by service providers."
-msgstr "Si les utilisateurs ont ces droits, ils ont la maîtrise de leurs données plutôt que d’être subjugués par les fournisseurs de service."
+msgstr ""
+"Si les utilisateurs ont ces droits, ils ont la maîtrise de leurs données "
+"plutôt que d’être subjugués par les fournisseurs de service."
 
 #. type: Plain text
 msgid ""
@@ -303,7 +315,13 @@ msgid ""
 "users are [[!taglink paying_with_their_allegiance|Internet_Feudalism]] to "
 "the service providers so that they can exploit user data (e.g. by selling "
 "them, licensing them or building a profile for advertisers)."
-msgstr "De nombreux services qui gèrent les données utilisateur à ce jour sont gratuits, mais cela ne signifie pas qu’ils soient libres. Plutôt que de payer avec de l’argent, les utilisateurs [[!taglink payent_allégeance|Internet_Feudalism]] aux fournisseurs de services pour que ceux-ci puissent exploiter les données utilisateurs (par ex. en les vendant, en offrant des licences ou en construisant des profils pour les annonceurs publicitaires)."
+msgstr ""
+"De nombreux services qui gèrent les données utilisateur à ce jour sont "
+"gratuits, mais cela ne signifie pas qu’ils soient libres. Plutôt que de "
+"payer avec de l’argent, les utilisateurs [[!taglink payent_allégeance|"
+"Internet_Feudalism]] aux fournisseurs de services pour que ceux-ci puissent "
+"exploiter les données utilisateurs (par ex. en les vendant, en offrant des "
+"licences ou en construisant des profils pour les annonceurs publicitaires)."
 
 #. type: Plain text
 msgid ""
@@ -311,7 +329,11 @@ msgid ""
 "trivial thing and a small price to pay for the sake of convenience that "
 "these Internet services bring. This has made this kind of exchange to become "
 "common."
-msgstr "Abandonner ainsi la maîtrise de sa vie privée et d’autres droits semble être un acte trivial pour de nombreuses personnes, un faible prix à payer en échange du confort que ces services Internet apportent. Cela fait que ce genre d’échange de procédé s’est répandu."
+msgstr ""
+"Abandonner ainsi la maîtrise de sa vie privée et d’autres droits semble être "
+"un acte trivial pour de nombreuses personnes, un faible prix à payer en "
+"échange du confort que ces services Internet apportent. Cela fait que ce "
+"genre d’échange de procédé s’est répandu."
 
 #. type: Plain text
 msgid ""
@@ -319,7 +341,11 @@ msgid ""
 "valuable Internet services into massive and centralised surveillance "
 "systems. It is of grave importance that people understand/realize this, "
 "since it forms a serious threat to the freedom of humanity."
-msgstr "Les fournisseurs de service ont ainsi été obligés de transformer leurs valeureux services Internet en systèmes massifs et centralisés de surveillance. Il est crucial que chacun réalise et comprenne cela, puisqu’il s’agit d’une menace importante pour les libertés de l’humanité."
+msgstr ""
+"Les fournisseurs de service ont ainsi été obligés de transformer leurs "
+"valeureux services Internet en systèmes massifs et centralisés de "
+"surveillance. Il est crucial que chacun réalise et comprenne cela, puisqu’il "
+"s’agit d’une menace importante pour les libertés de l’humanité."
 
 #. type: Plain text
 msgid ""
@@ -328,7 +354,14 @@ msgid ""
 "applications. Legally, that means terms of service should respect users’ "
 "rights and give them the possibility to exercise the [[!taglink datarights]] "
 "defined in this manifesto."
-msgstr "Enfin, pour assurer que les données utilisateurs soient sous la maîtrise des utilisateurs, les meilleurs conceptions techniques incluent les systèmes distribués ou pair-à-pair, ainsi que les applications *unhosted*. Juridiquement, cela signifie que les conditions générales d’utilisation devraient respecter les droits des utilisateurs et leur donner la possibilité d’exercer les [[!taglink droits_des_données|datarights]] définis dans ce manifeste."
+msgstr ""
+"Enfin, pour assurer que les données utilisateurs soient sous la maîtrise des "
+"utilisateurs, les meilleurs conceptions techniques incluent les systèmes "
+"distribués ou pair-à-pair, ainsi que les applications *unhosted*. "
+"Juridiquement, cela signifie que les conditions générales d’utilisation "
+"devraient respecter les droits des utilisateurs et leur donner la "
+"possibilité d’exercer les [[!taglink droits_des_données|datarights]] définis "
+"dans ce manifeste."
 
 #~ msgid "Welcome to your new wiki."
 #~ msgstr "Bienvenue sur votre nouveau wiki."
