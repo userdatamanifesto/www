@@ -1,6 +1,6 @@
 <ul class="nav" role="menu">
 <li>[[About this wiki|about]]</li>
 <li>[[Frequently Asked Questions|faq]]</li>
-<li>[[Discussion|Discussion/index.en.html]]</li>
+<li>[[Discussion|Discussion/]]</li>
 <li><a href="/ikiwiki.cgi?P=">Search</a></li>
 </ul>
