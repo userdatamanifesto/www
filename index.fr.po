@@ -238,17 +238,13 @@ msgid "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 
 #. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "    Users should not rely on centralised services. Peer-to-peer systems and\n"
-#| "    unhosted applications are a means to that end.  In the long term, all users\n"
-#| "    should be able to have their own server.  \n"
+#, no-wrap
 msgid ""
 "    Users should not rely on centralised services. Peer-to-peer systems and\n"
 "    unhosted applications are a means to that end.  In the long term, all users\n"
 "    should be able to have their own server with\n"
 "    [[!taglink Free_Software]].\n"
-msgstr "    Les utilisateurs ne devraient pas reposer sur des services centralisés. Les systèmes pair-à-pair et les applications *unhosted* sont un moyen d’y arriver. À long terme, tous les utilisateurs devraient être capables d’avoir leur propre serveur."
+msgstr "    Les utilisateurs ne devraient pas reposer sur des services centralisés. Les systèmes pair-à-pair et les applications *unhosted* sont un moyen d’y arriver. À long terme, tous les utilisateurs devraient être capables d’avoir leur propre serveur avec [[!taglink du_logiciel_libre|Free_Software]]."
 
 #. type: Plain text
 #, no-wrap
