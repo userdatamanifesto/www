@@ -42,14 +42,16 @@ Thus, users should have:
 
     [[!toggleable id="wucat" text="""
     [[!toggle  id="wucat" text="×"]]
-    When users control access to the data they upload, it means that
+    When users have control over upload of their data, it means that
     data intended to be privately shared should not be accessible to the service
     provider, nor shared with governments.  Users should be the only ones to have
     ultimate control over it and to grant access to it. 
 
     That means the right to use [[!taglink cryptography]] should never be denied. 
 
-    That also means that a service provider should **not**:
+    That also means that when users do not have full control over upload of
+    their data (e.g. if they don't use cryptography before uploading) a service
+    provider should **not**:
      
      1. force users to disclose private data (including private correspondence)
         with them, nor
