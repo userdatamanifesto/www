@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
-"POT-Creation-Date: 2014-11-15 15:47+0000\n"
+"POT-Creation-Date: 2014-11-15 21:09+0000\n"
 "PO-Revision-Date: 2009-08-23 18:50+0200\n"
 "Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
@@ -124,9 +124,14 @@ msgid "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
 msgstr "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
 
 #. type: Plain text
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    When users control access to the data they upload, it means that\n"
+#| "    data intended to be privately shared should not be accessible to the service\n"
+#| "    provider, nor shared with governments.  Users should be the only ones to have\n"
+#| "    ultimate control over it and to grant access to it. \n"
 msgid ""
-"    When users control access to the data they upload, it means that\n"
+"    When users have control over upload of their data, it means that\n"
 "    data intended to be privately shared should not be accessible to the service\n"
 "    provider, nor shared with governments.  Users should be the only ones to have\n"
 "    ultimate control over it and to grant access to it. \n"
@@ -139,8 +144,11 @@ msgstr "    Cela signifie que le droit d’utiliser [[!taglink la_cryptographie|
 
 #. type: Plain text
 #, no-wrap
-msgid "    That also means that a service provider should **not**:\n"
-msgstr "Cela signifie également qu’un fournisseur de service devrait **ne pas** :"
+msgid ""
+"    That also means that when users do not have full control over upload of\n"
+"    their data (e.g. if they don't use cryptography before uploading) a service\n"
+"    provider should **not**:\n"
+msgstr ""
 
 #. type: Bullet: '     1. '
 msgid ""
@@ -407,6 +415,9 @@ msgstr ""
 "devraient respecter les droits des utilisateurs et leur donner la "
 "possibilité d’exercer les [[!taglink droits_des_données|datarights]] définis "
 "dans ce manifeste."
+
+#~ msgid "    That also means that a service provider should **not**:\n"
+#~ msgstr "Cela signifie également qu’un fournisseur de service devrait **ne pas** :"
 
 #~ msgid "Welcome to your new wiki."
 #~ msgstr "Bienvenue sur votre nouveau wiki."

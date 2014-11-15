@@ -4,7 +4,7 @@
 # modification, are permitted under any circumstances. No warranty.
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2014-11-15 15:47+0000\n"
+"POT-Creation-Date: 2014-11-15 21:09+0000\n"
 "PO-Revision-Date: 2010-03-12 09:40+0530\n"
 "Last-Translator: Sebastian Kuhnert <mail@sebastian-kuhnert.de>\n"
 "Language-Team: None\n"
@@ -123,9 +123,14 @@ msgid "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
 msgstr ""
 
 #. type: Plain text
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    When users control access to the data they upload, it means that\n"
+#| "    data intended to be privately shared should not be accessible to the service\n"
+#| "    provider, nor shared with governments.  Users should be the only ones to have\n"
+#| "    ultimate control over it and to grant access to it. \n"
 msgid ""
-"    When users control access to the data they upload, it means that\n"
+"    When users have control over upload of their data, it means that\n"
 "    data intended to be privately shared should not be accessible to the service\n"
 "    provider, nor shared with governments.  Users should be the only ones to have\n"
 "    ultimate control over it and to grant access to it. \n"
@@ -138,8 +143,11 @@ msgstr "    Dies bedeutet, dass das Recht auf das Nutzen von [[!taglink Kryptogr
 
 #. type: Plain text
 #, no-wrap
-msgid "    That also means that a service provider should **not**:\n"
-msgstr "    Dies bedeutet auch, dass der Diensteanbieter folgendes **nicht** darf:\n"
+msgid ""
+"    That also means that when users do not have full control over upload of\n"
+"    their data (e.g. if they don't use cryptography before uploading) a service\n"
+"    provider should **not**:\n"
+msgstr ""
 
 #. type: Bullet: '     1. '
 msgid ""
@@ -361,6 +369,9 @@ msgid ""
 "rights and give them the possibility to exercise the [[!taglink datarights]] "
 "defined in this manifesto."
 msgstr ""
+
+#~ msgid "    That also means that a service provider should **not**:\n"
+#~ msgstr "    Dies bedeutet auch, dass der Diensteanbieter folgendes **nicht** darf:\n"
 
 #~ msgid "Welcome to your new wiki."
 #~ msgstr "Willkommen in Ihrem neuen Wiki."
