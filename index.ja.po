@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-11-15 15:47+0000\n"
+"POT-Creation-Date: 2014-11-15 21:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -124,7 +124,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    When users control access to the data they upload, it means that\n"
+"    When users have control over upload of their data, it means that\n"
 "    data intended to be privately shared should not be accessible to the service\n"
 "    provider, nor shared with governments.  Users should be the only ones to have\n"
 "    ultimate control over it and to grant access to it. \n"
@@ -137,7 +137,10 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid "    That also means that a service provider should **not**:\n"
+msgid ""
+"    That also means that when users do not have full control over upload of\n"
+"    their data (e.g. if they don't use cryptography before uploading) a service\n"
+"    provider should **not**:\n"
 msgstr ""
 
 #. type: Bullet: '     1. '
