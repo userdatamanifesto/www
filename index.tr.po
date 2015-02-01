@@ -85,6 +85,15 @@ msgid ""
 "</ul>\n"
 "</li></ul>\n"
 msgstr ""
+"<ul style=\"list-style-type: none;\"><li>\n"
+"Kullanıcı verisi örnekleri:\n"
+"<ul>\n"
+"<li>bir kullanıcının bir çok aygıt aracılığıyla eşlediği veya arkadaşıyla paylaştığı dosyalar</li>\n"
+"<li>çevrim içi olarak okuyabilmek, görüntüleyebilmek veya değiştirmek amacıyla aygıtından karşıya yüklediği bir kullanıcının resim, kitap ve diğer dosya kütüphaneleri</li>\n"
+"<li>bir kullanıcının aygıtı tarafından üretilen ve sunucuya gönderilen veri</li>\n"
+"<li>bir kullanıcının arama motoru sorguları</li>\n"
+"</ul>\n"
+"</li></ul>\n"
 
 #. type: Plain text
 msgid "Thus, users should have:"
@@ -206,9 +215,7 @@ msgid ""
 msgstr ""
 "    Kullanıcıların hizmeti kullanırken yaptığı etkinlikler sonucunda elde edilen,\n"
 "    üretilen ve/veya toplanan veriler (örneğin üst veri veya sosyal grafik verisi),\n"
-"    onlara sağlanmalı ve denetimlerine de sunulmalıdır. Eğer bu denetim verilemeyecekse,\n"
-"    o zaman bu tür veriler anonim olmalı veya gerekenden daha uzun bir süre\n"
-"    saklanmamalıdır.\n"
+"    onlara sağlanmalı ve denetimlerine de sunulmalıdır.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -267,7 +274,7 @@ msgid ""
 "    provider operates and which laws apply.\n"
 msgstr ""
 "    Veri belirli bir hizmet sağlayıcıya yüklendiğinde, kullanıcılar ilgili sağlayıcının\n"
-"    veriyi nerede, ne kadar zamanla sakladığı, ilgili hizmet sağlayıcının\n"
+"    veriyi saklandığı coğrafik konum, ne kadar zamanla sakladığı, ilgili hizmet sağlayıcının\n"
 "    hangi yetkilerle iş gördüğü ve hangi yasaların geçerli olduğu konularında\n"
 "    bilgilendirilmelidir.\n"
 
@@ -335,6 +342,7 @@ msgstr ""
 "    Kullanıcılar, merkezi hizmetlere itibar etmemelidirler. Eşler arası sistemler ve\n"
 "    sunucusuz uygulamalar bu niyete yönelik araçlardır. Uzun vadede, bütün kullanıcılar\n"
 "    kendi sunucularına sahip olabilmelidir. \n"
+"    [[!taglink Özgür_Yazılım|Free_Software]].\n"
 
 #. type: Plain text
 #, no-wrap
@@ -434,8 +442,7 @@ msgid ""
 msgstr ""
 "Mahremiyet ve diğer haklardan bu şekilde feragat etmek, çoğu kullanıcıya "
 "önemsiz ve bu İnternet hizmetlerinin sağladıkları rahatlık uğruna ufak bir "
-"bedel olarak gözükebilmektedir. Bu durum, bu tür bir takası "
-"yaygınlaştırmıştır."
+"bedel olarak gözükebilmektedir."
 
 #. type: Plain text
 msgid ""
