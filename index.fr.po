@@ -51,31 +51,26 @@ msgstr ""
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
 msgid "[[!toggle  id=\"userdata\" text=\"\"\"\n"
-msgstr "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
+msgstr "    [[!toggle  id=\"userdata\" text=\"\"\"\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "<ol start=\"0\"><li><strong>User data</strong> means any data uploaded by a user and/or\n"
-#| "generated from a user, while using a service on the Internet. </li></ol>\n"
 msgid ""
 "<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by a user or\n"
 "generated from a user, while using a service on the Internet.</p></li></ol>\n"
-msgstr "<ol start=\"0\"><li>Par <strong>données utilisateur</strong>, on entend les données envoyées par un utilisateur ou générées par une utilisatrice, au moyen de l’utilisation d’un service sur Internet.</li></ol>\n"
+msgstr ""
+"<ol start=\"0\"><li>Par <strong>données utilisateur</strong>, on entend les données envoyées par un utilisateur ou générées par une utilisatrice, au moyen de l’utilisation d’un service sur Internet.</li></ol>\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid "    [[!toggleable id=\"wucat\" text=\"\"\"\n"
 msgid "[[!toggleable id=\"userdata\" text=\"\"\"\n"
-msgstr "    [[!toggleable id=\"wucat\" text=\"\"\"\n"
+msgstr "    [[!toggleable id=\"userdata\" text=\"\"\"\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
 msgid "[[!toggle  id=\"userdata\" text=\"×\"]]\n"
-msgstr "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
+msgstr "    [[!toggle  id=\"userdata\" text=\"×\"]]\n"
 
 #. type: Plain text
 msgid "Examples of user data include:"
@@ -139,11 +134,6 @@ msgstr "    [[!toggle  id=\"wucat\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    When users control access to the data they upload, it means that\n"
-#| "    data intended to be privately shared should not be accessible to the service\n"
-#| "    provider, nor shared with governments.  Users should be the only ones to have\n"
-#| "    ultimate control over it and to grant access to it. \n"
 msgid ""
 "    When users have control over the upload of their data, data\n"
 "    intended to be privately shared should not be accessible to the\n"
@@ -152,7 +142,6 @@ msgstr "    Lorsque les utilisateurs maîtrisent l’accès aux données qu’il
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid "    That means the right to use [[!taglink cryptography]] should never be denied. \n"
 msgid ""
 "    That means the right to use [[!taglink cryptography]] should never be\n"
 "    denied. \n"
@@ -177,9 +166,6 @@ msgstr ""
 
 #. type: Bullet: '     2. '
 #, fuzzy
-#| msgid ""
-#| "impose licensing conditions (e.g. copyright, personal data protection)  "
-#| "that go beyond what is necessary for the purpose of the service."
 msgid ""
 "impose licensing conditions (e.g. on copyright, or personal data "
 "exploitation) that go beyond what is necessary for the purpose of running "
@@ -191,13 +177,6 @@ msgstr ""
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    When users make data available to others, whether to a restrictive group of\n"
-#| "    people or to large groups, they should be able to decide under which\n"
-#| "    permissions they grant access to this data. However, this right is not absolute\n"
-#| "    and should not extend over others’ rights to use and exploit the data once it\n"
-#| "    has been made available to them.  What’s more, it does not mean that users\n"
-#| "    should have the right to impose unfair restrictions to other people. \n"
 msgid ""
 "    When users make data available to others, whether to a restrictive group of\n"
 "    people or to large groups, they should be able to decide under which\n"
@@ -216,12 +195,6 @@ msgstr "    [[!toggle  id=\"ssauts\" text=\"\"\"\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    Data received, generated, and/or collected from users’ activity while using\n"
-#| "    the service (e.g. metadata or social graph data) should be made accessible\n"
-#| "    to them and put under their control as well. If this control can’t be\n"
-#| "    given, then this type of data should be anonymous or not stored for\n"
-#| "    periods longer than necessary.\n"
 msgid ""
 "    Data received, generated, or collected from user activity or from a\n"
 "    user's device (e.g. metadata or social graph data) should be made\n"
@@ -240,12 +213,6 @@ msgstr "    [[!toggle  id=\"ssauts\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    Some services allow users to submit data with the intention to make it publicly\n"
-#| "    available for all. Even in these cases, some amount of user data is kept\n"
-#| "    private (e.g. metadata or social graph data). The user should also have control\n"
-#| "    over this data, because metadata and logging information can be used for\n"
-#| "    disproportionate surveillance. \n"
 msgid ""
 "    Some services allow users to submit data with the intention to make it\n"
 "    publicly available and usable by all. Even in these cases, some\n"
@@ -264,11 +231,6 @@ msgstr "    [[!toggle  id=\"wuucstu\" text=\"\"\"\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    When the data is uploaded to a specific service provider, users should be\n"
-#| "    informed about where that specific service provider stores the data, how\n"
-#| "    long, in which jurisdiction the specific service provider operates, and\n"
-#| "    which laws apply.\n"
 msgid ""
 "    When the data is uploaded to a specific service provider, users should be\n"
 "    informed about the geographic location that specific service provider\n"
@@ -288,11 +250,6 @@ msgstr "    [[!toggle  id=\"wuucstu\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    When users use centralised services that uploads data to specific storage\n"
-#| "    providers instead of relying on peer-to-peer systems, it is important to know\n"
-#| "    where the providers might store data because they could be compelled by\n"
-#| "    governments to turn over data they have in their possession.\n"
 msgid ""
 "    When users use centralised services that uploads data to specific storage\n"
 "    providers instead of relying on peer-to-peer systems, it is important to\n"
@@ -307,10 +264,6 @@ msgstr "    [[!toggle  id=\"usnroc\" text=\"\"\"\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    Users should be free to choose to store their own data on devices (e.g.\n"
-#| "    servers) in their vicinity and under their direct control. This way, users\n"
-#| "    do not have to rely on centralised services.\n"
 msgid ""
 "    Users should be able to store their own data on devices (e.g.  servers) in\n"
 "    their vicinity and under their direct control. This way, users do not have\n"
@@ -329,11 +282,6 @@ msgstr "    [[!toggle  id=\"usnroc\" text=\"×\"]]\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    Users should not rely on centralised services. Peer-to-peer systems and\n"
-#| "    unhosted applications are a means to that end.  In the long term, all users\n"
-#| "    should be able to have their own server with\n"
-#| "    [[!taglink Free_Software]].\n"
 msgid ""
 "    Users should not rely on centralised services. Peer-to-peer systems and\n"
 "    unhosted applications are a means to that end.  In the long term, all users\n"
@@ -389,12 +337,6 @@ msgstr ""
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    [[!taglink Open_standards]] for formats and protocols are necessary to\n"
-#| "    guarantee this.  Obviously, without the source code of the programs used to\n"
-#| "    deal with user data, this is impractical.  This is why programs should be\n"
-#| "    distributed under a \n"
-#| "    [[!taglink Free_Software_license_like_the_GNU_AGPL-3|Free_Software]].\n"
 msgid ""
 "    Obviously, without the source code of the programs used to deal with user\n"
 "    data, this is impractical. This is why programs available to exploit\n"
@@ -427,11 +369,6 @@ msgstr ""
 
 #. type: Plain text
 #, fuzzy
-#| msgid ""
-#| "Surrendering privacy and other rights in this way may seem to many people "
-#| "a trivial thing and a small price to pay for the sake of convenience that "
-#| "these Internet services bring. This has made this kind of exchange to "
-#| "become common."
 msgid ""
 "Surrendering privacy and other rights in this way may seem to many people a "
 "trivial thing and a small price to pay for the sake of convenience that "
@@ -443,11 +380,6 @@ msgstr ""
 
 #. type: Plain text
 #, fuzzy
-#| msgid ""
-#| "Service providers have thus been unwittingly compelled to turn their "
-#| "valuable Internet services into massive and centralised surveillance "
-#| "systems. It is of grave importance that people understand/realize this, "
-#| "since it forms a serious threat to the freedom of humanity."
 msgid ""
 "Service providers have thus been unwittingly compelled to turn their "
 "valuable Internet services into massive and centralised surveillance "
