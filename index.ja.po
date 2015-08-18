@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-18 13:49+0000\n"
+"POT-Creation-Date: 2015-08-18 14:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,8 +58,8 @@ msgstr ""
 #| "<ol start=\"0\"><li><strong>User data</strong> means any data uploaded by a user and/or\n"
 #| "generated from a user, while using a service on the Internet. </li></ol>\n"
 msgid ""
-"<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by a user or\n"
-"generated from a user, while using a service on the Internet.</p></li></ol>\n"
+"<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by a\n"
+"user for his or her own use.</p></li></ol>\n"
 msgstr "<ol start=\"0\"><li><strong>ユーザーデータ</strong>とはユーザーがインターネット上のサービスを用いてアップ、もしくは作成した情報を指す。</li></ol>\n"
 
 #. type: Plain text
@@ -112,12 +112,16 @@ msgid "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
 msgstr ""
 
 #. type: Plain text
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "    Data explicitly and willingly uploaded by a user should be under the\n"
+#| "    ultimate control of the user. Users should be able to decide whom to grant\n"
+#| "    direct access to their data and with which permissions and licenses such\n"
+#| "    access should be granted.\n"
 msgid ""
-"    Data explicitly and willingly uploaded by a user should be under the\n"
-"    ultimate control of the user. Users should be able to decide whom to grant\n"
-"    direct access to their data and with which permissions and licenses such\n"
-"    access should be granted.\n"
+"    User data should be under the ultimate control of the user. Users should be\n"
+"    able to decide whom to grant direct access to their data and with which\n"
+"    permissions and licenses such access should be granted.\n"
 msgstr ""
 "    ユーザーが公にかつ自分の意志でアップしたデータはユーザーの管理下にあるべきであり、\n"
 "    ユーザーは誰が自らのデータに直接アクセスできるか、またどの種のパーミッションや    ライセンスでアクセスを許可されるかを自分で決めることができる。"
@@ -195,9 +199,9 @@ msgstr ""
 #| "    given, then this type of data should be anonymous or not stored for\n"
 #| "    periods longer than necessary.\n"
 msgid ""
-"    Data received, generated, or collected from user activity or from a\n"
-"    user's device (e.g. metadata or social graph data) should be made\n"
-"    accessible to them and put under their control. \n"
+"    Data generated or associated with user data (e.g. metadata) should also be\n"
+"    made available to that user and put under their control just like the user\n"
+"    data itself.\n"
 msgstr "    あるサービスを利用する上でユーザーの活動から受信された、生じた、    集められたメタデータやソーシャル・グラフ・データ等のデータに関しては    ユーザーもアクセス、管理ができる。もしこの管理ができないのであれば、    この種のデータは匿名であるか必要以上に長期に渡って保存されるべきではない。"
 
 #. type: Plain text
@@ -220,8 +224,10 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '2. '
-msgid "**Knowledge** of how the data is stored"
-msgstr ""
+#, fuzzy
+#| msgid "**Control** over user data access"
+msgid "**Knowledge** of how user data is stored"
+msgstr "ユーザーデータへの**アクセス管理**"
 
 #. type: Plain text
 #, no-wrap
@@ -236,9 +242,9 @@ msgstr ""
 #| "    long, in which jurisdiction the specific service provider operates, and\n"
 #| "    which laws apply.\n"
 msgid ""
-"    When the data is uploaded to a specific service provider, users should be\n"
+"    When user data is uploaded to a specific service provider, users should be\n"
 "    informed about the geographic location that specific service provider\n"
-"    stores the data in, how long, in which jurisdiction the specific service\n"
+"    stores the data in, how long, in which jurisdiction that specific service\n"
 "    provider operates and which laws apply.\n"
 msgstr "    ある特定のサービス提供者にデータをアップする際、ユーザーに対しその提供者からどこに、    どのくらいの期間そのデータを保存するのか、提供者の運営上の権限やどの法律に基づいている    のかが知らされるべきである。"
 
@@ -273,9 +279,9 @@ msgstr ""
 #| "    servers) in their vicinity and under their direct control. This way, users\n"
 #| "    do not have to rely on centralised services.\n"
 msgid ""
-"    Users should be able to store their own data on devices (e.g.  servers) in\n"
-"    their vicinity and under their direct control. This way, users do not have\n"
-"    to rely on centralised services.\n"
+"    This point is not relevant when users are able to store their own data on\n"
+"    devices in their vicinity and under their direct control (e.g. servers) or\n"
+"    when they rely on systems without centralised control (e.g. peer-to-peer).\n"
 msgstr "    ユーザーは自らのデータが近辺の直接管理できるサーバーのような諸デバイスに    保存されることを選べるべきである。それによって、ユーザーは中央集中サービスに    頼る必要もなくなるのである。"
 
 #. type: Plain text
@@ -293,14 +299,8 @@ msgstr ""
 msgid ""
 "    Users should not rely on centralised services. Peer-to-peer systems and\n"
 "    unhosted applications are a means to that end.  In the long term, all users\n"
-"    should be able to have their own server with [[!taglink Free_Software]].\n"
-msgstr ""
-
-#. type: Plain text
-#, no-wrap
-msgid ""
-"    Unfortunately, this is made very difficult by some Internet access\n"
-"    providers that restrict their customers unfairly. \n"
+"    should be able to have their own server with\n"
+"    [[!taglink Free_Software]].\n"
 msgstr ""
 
 #. type: Bullet: '3. '
