@@ -1,0 +1,4 @@
+[[!meta title="pages tagged 自""]]
+
+[[!inline pages="tagged(自__34__)" actions="no" archive="yes"
+feedshow=10]]
