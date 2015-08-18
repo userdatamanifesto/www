@@ -59,7 +59,8 @@ msgstr "    [[!toggle  id=\"userdata\" text=\"\"\"\n"
 msgid ""
 "<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by a\n"
 "user for his or her own use.</p></li></ol>\n"
-msgstr "<ol start=\"0\"><li>Par <strong>données utilisateur</strong>, on entend les données envoyées par un utilisateur ou générées par une utilisatrice, au moyen de l’utilisation d’un service sur Internet.</li></ol>\n"
+msgstr ""
+"<ol start=\"0\"><li><p>Par <strong>données utilisateur</strong>, on entend les données envoyées par un utilisateur pour son propre usage.</p></li></ol>\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
@@ -124,7 +125,8 @@ msgid ""
 "    User data should be under the ultimate control of the user. Users should be\n"
 "    able to decide whom to grant direct access to their data and with which\n"
 "    permissions and licenses such access should be granted.\n"
-msgstr "    Les données explicitement et volontairement envoyées par une utilisatrice devraient être sous la pleine maîtrise de l’utilisatrice. Les utilisateurs devraient être capables de décider à qui accorder un accès direct à leurs données et avec quelles permissions et licences cet accès devrait être accordé."
+msgstr ""
+"Les données explicitement et volontairement envoyées par une utilisatrice devraient être sous la pleine maîtrise de l’utilisatrice. Les utilisateurs devraient être capables de décider à qui accorder un accès direct à leurs données et avec quelles permissions et licences cet accès devrait être accordé."
 
 #. type: Plain text
 #, no-wrap
@@ -142,14 +144,16 @@ msgid ""
 "    When users have control over the upload of their data, data\n"
 "    intended to be privately shared should not be accessible to the\n"
 "    service provider, nor shared with governments.\n"
-msgstr "    Lorsque les utilisateurs maîtrisent l’accès aux données qu’ils envoient, les données censées restées privées ou partagées à un cercle restreint ne devraient pas être rendues accessibles au fournisseur du service, ni divulguées aux États."
+msgstr ""
+"    Lorsque les utilisateurs maîtrisent l’accès aux données qu’ils envoient, les données censées restées privées ou partagées à un cercle restreint ne devraient pas être rendues accessibles au fournisseur du service, ni divulguées aux États."
 
 #. type: Plain text
 #, fuzzy, no-wrap
 msgid ""
 "    That means the right to use [[!taglink cryptography]] should never be\n"
 "    denied. \n"
-msgstr "    Cela implique que le droit d’utiliser [[!taglink la_cryptographie|cryptography]] ne devrait jamais être bafoué."
+msgstr ""
+"    Cela implique que le droit d’utiliser [[!taglink la_cryptographie|cryptography]] ne devrait jamais être bafoué."
 
 #. type: Plain text
 #, no-wrap
@@ -157,7 +161,8 @@ msgid ""
 "    That also means that when users do not have full control over the upload of\n"
 "    their data (e.g. if they don't use cryptography before uploading) a service\n"
 "    provider should **not**:\n"
-msgstr "    Cela implique également que lorsque des utilisateurs n'ont pas la pleine maîtrise sur l'envoi de leurs données (par exemple s'ils n'utilisent pas la cryptographie avant l'envoi) un fournisseur de service **ne** doit **pas** :"
+msgstr ""
+"    Cela implique également que lorsque des utilisateurs n'ont pas la pleine maîtrise sur l'envoi de leurs données (par exemple s'ils n'utilisent pas la cryptographie avant l'envoi) un fournisseur de service **ne** doit **pas** :"
 
 #. type: Bullet: '     1. '
 msgid ""
@@ -189,7 +194,8 @@ msgid ""
 "    mean that users should have the right to impose unfair restrictions to\n"
 "    other people. In any event, technical systems should not be designed to\n"
 "    enforce such restrictions (e.g. through [[!taglink DRM]]).\n"
-msgstr "    Lorsque les utilisateurs rendent des données accessibles à d’autres, qu’il s’agisse d’un groupe de gens restreint ou d’un groupe plus large, ils devraient pouvoir décider sous quelles permissions l’accès à leurs données est autorisé. Cependant, ce droit n’est pas absolu et ne devrait pas empiéter sur le droit des tierces personnes à utiliser et exploiter ces données une fois qu’elles leur ont été rendues accessibles. Qui plus est, cela ne signifie pas que les utilisateurs devraient avoir le droit d’imposer des restrictions injustes à d’autres personnes. Dans tous les cas, les systèmes techniques ne doivent pas être conçus pour faire appliquer de telles restrictions (par exemple avec des [[!taglink DRM]])."
+msgstr ""
+"    Lorsque les utilisateurs rendent des données accessibles à d’autres, qu’il s’agisse d’un groupe de gens restreint ou d’un groupe plus large, ils devraient pouvoir décider sous quelles permissions l’accès à leurs données est autorisé. Cependant, ce droit n’est pas absolu et ne devrait pas empiéter sur le droit des tierces personnes à utiliser et exploiter ces données une fois qu’elles leur ont été rendues accessibles. Qui plus est, cela ne signifie pas que les utilisateurs devraient avoir le droit d’imposer des restrictions injustes à d’autres personnes. Dans tous les cas, les systèmes techniques ne doivent pas être conçus pour faire appliquer de telles restrictions (par exemple avec des [[!taglink DRM]])."
 
 #. type: Plain text
 #, no-wrap
@@ -202,7 +208,8 @@ msgid ""
 "    Data generated or associated with user data (e.g. metadata) should also be\n"
 "    made available to that user and put under their control just like the user\n"
 "    data itself.\n"
-msgstr "    Les données reçues, générées ou collectées à partir de l’activité des utilisateurs dans l’utilisation du service (ex. : les métadonnées ou les données du graphe social) devraient leur être rendues accessibles et être également sous leur maîtrise. Si cette maîtrise n’est pas possible, alors ce type de données devrait être anonyme ou bien ne pas être stockée pour une période plus longue que nécessaire."
+msgstr ""
+"    Les données reçues, générées ou collectées à partir de l’activité des utilisateurs dans l’utilisation du service (ex. : les métadonnées ou les données du graphe social) devraient leur être rendues accessibles et être également sous leur maîtrise. Si cette maîtrise n’est pas possible, alors ce type de données devrait être anonyme ou bien ne pas être stockée pour une période plus longue que nécessaire."
 
 #. type: Plain text
 #, no-wrap
@@ -221,7 +228,8 @@ msgid ""
 "    publicly available and usable by all. Even in these cases, some\n"
 "    amount of user data is kept private (e.g. metadata or social graph\n"
 "    data). The user should also have control over this data.\n"
-msgstr "    Certains services permettent aux utilisateurs de soumettre des données avec l’intention de les rendre publiquement accessibles à toutes et à tous. Y compris dans ces cas de figure, quelques données utilisateur restent privées (ex. : les métadonnées ou les données du graphe social). L’utilisateur devrait pouvoir contrôler aussi ces données."
+msgstr ""
+"    Certains services permettent aux utilisateurs de soumettre des données avec l’intention de les rendre publiquement accessibles à toutes et à tous. Y compris dans ces cas de figure, quelques données utilisateur restent privées (ex. : les métadonnées ou les données du graphe social). L’utilisateur devrait pouvoir contrôler aussi ces données."
 
 #. type: Bullet: '2. '
 #, fuzzy
@@ -240,7 +248,8 @@ msgid ""
 "    informed about the geographic location that specific service provider\n"
 "    stores the data in, how long, in which jurisdiction that specific service\n"
 "    provider operates and which laws apply.\n"
-msgstr "    Quand les données sont envoyées à un fournisseur de service particulier, les utilisateurs devraient être informés du lieu de stockage des données du fournisseur de service, de la durée, de la juridiction dans laquelle le fournisseur de service particulier opère et des lois qui s’y appliquent."
+msgstr ""
+"    Quand les données sont envoyées à un fournisseur de service particulier, les utilisateurs devraient être informés du lieu de stockage des données du fournisseur de service, de la durée, de la juridiction dans laquelle le fournisseur de service particulier opère et des lois qui s’y appliquent."
 
 #. type: Plain text
 #, no-wrap
@@ -259,7 +268,8 @@ msgid ""
 "    providers instead of relying on peer-to-peer systems, it is important to\n"
 "    know where the providers might store data because they could be compelled\n"
 "    by governments to turn over data they have in their possession.\n"
-msgstr "    Lorsque les utilisateurs utilisent des services centralisés pour envoyer leurs données à un fournisseur de stockage particulier plutôt que de reposer sur des systèmes pair-à-pair, il est important de savoir où les fournisseurs pourraient stocker ces données car ils pourraient être obligés par les États à divulguer ces données qu’ils ont en leur possession."
+msgstr ""
+"    Lorsque les utilisateurs utilisent des services centralisés pour envoyer leurs données à un fournisseur de stockage particulier plutôt que de reposer sur des systèmes pair-à-pair, il est important de savoir où les fournisseurs pourraient stocker ces données car ils pourraient être obligés par les États à divulguer ces données qu’ils ont en leur possession."
 
 #. type: Plain text
 #, no-wrap
@@ -272,7 +282,8 @@ msgid ""
 "    This point is not relevant when users are able to store their own data on\n"
 "    devices in their vicinity and under their direct control (e.g. servers) or\n"
 "    when they rely on systems without centralised control (e.g. peer-to-peer).\n"
-msgstr "    Les utilisateurs devraient être libres de choisir de stocker leurs propres données sur leurs appareils (ex. : des serveurs) dans leur entourage et sous leur contrôle direct. De cette manière, les utilisateurs n’ont pas à compter sur les services centralisés."
+msgstr ""
+"    Les utilisateurs devraient être libres de choisir de stocker leurs propres données sur leurs appareils (ex. : des serveurs) dans leur entourage et sous leur contrôle direct. De cette manière, les utilisateurs n’ont pas à compter sur les services centralisés."
 
 #. type: Plain text
 #, no-wrap
@@ -291,7 +302,8 @@ msgid ""
 "    unhosted applications are a means to that end.  In the long term, all users\n"
 "    should be able to have their own server with\n"
 "    [[!taglink Free_Software]].\n"
-msgstr "    Les utilisateurs ne devraient pas reposer sur des services centralisés. Les systèmes pair-à-pair et les applications *unhosted* sont un moyen d’y arriver. À long terme, tous les utilisateurs devraient être capables d’avoir leur propre serveur avec [[!taglink du_logiciel_libre|Free_Software]]."
+msgstr ""
+"    Les utilisateurs ne devraient pas reposer sur des services centralisés. Les systèmes pair-à-pair et les applications *unhosted* sont un moyen d’y arriver. À long terme, tous les utilisateurs devraient être capables d’avoir leur propre serveur avec [[!taglink du_logiciel_libre|Free_Software]]."
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
@@ -307,7 +319,8 @@ msgstr "    [[!toggle  id=\"usngsi\" text=\"\"\"\n"
 msgid ""
 "    Users should always be able to extract their data from the service at any\n"
 "    time without experiencing any vendor lock-in.\n"
-msgstr "    Les utilisateurs devraient toujours être en mesure d’extraire leurs données du service à tout moment sans faire l’expérience de l’enfermement propriétaire."
+msgstr ""
+"    Les utilisateurs devraient toujours être en mesure d’extraire leurs données du service à tout moment sans faire l’expérience de l’enfermement propriétaire."
 
 #. type: Plain text
 #, no-wrap
@@ -324,7 +337,8 @@ msgstr "    [[!toggle  id=\"usngsi\" text=\"×\"]]\n"
 msgid ""
 "    Users should not get stuck into a specific technical solution.  This is why\n"
 "    they should always be able to leave a platform and settle elsewhere.\n"
-msgstr "    Les utilisateurs ne devraient pas être bloqués par une solution technique particulière. C’est pourquoi ils devraient toujours être capables de quitter une plateforme et de s’installer ailleurs."
+msgstr ""
+"    Les utilisateurs ne devraient pas être bloqués par une solution technique particulière. C’est pourquoi ils devraient toujours être capables de quitter une plateforme et de s’installer ailleurs."
 
 #. type: Plain text
 #, no-wrap
@@ -340,7 +354,8 @@ msgid ""
 "    data, this is impractical. This is why programs available to exploit\n"
 "    exported data should be available under a \n"
 "    [[!taglink Free_Software_(Open_Source)_License|Free_Software]].\n"
-msgstr "    [[!taglink Les_standards_ouverts|Open_standards]] pour les formats et les protocoles sont nécessaires pour garantir cela. Évidemment, sans le code source des programmes utilisés pour les données utilisateurs, cela n’est pas pratique. C’est pourquoi des programmes devraient être distribués sous une [[!taglink licence_de_logiciel_libre|Free_Software]]."
+msgstr ""
+"    [[!taglink Les_standards_ouverts|Open_standards]] pour les formats et les protocoles sont nécessaires pour garantir cela. Évidemment, sans le code source des programmes utilisés pour les données utilisateurs, cela n’est pas pratique. C’est pourquoi des programmes devraient être distribués sous une [[!taglink licence_de_logiciel_libre|Free_Software]]."
 
 #. type: Plain text
 msgid ""
