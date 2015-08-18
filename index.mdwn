@@ -12,8 +12,8 @@ This manifesto aims at defining users’ fundamental
 ought to be free and should not have to pay allegiance to service providers. 
 
 [[!toggle  id="userdata" text="""
-<ol start="0"><li><p><strong>User data</strong> means any data uploaded by a user or
-generated from a user, while using a service on the Internet.</p></li></ol>
+<ol start="0"><li><p><strong>User data</strong> means any data uploaded by a
+user for his or her own use.</p></li></ol>
 """]]
 
 [[!toggleable id="userdata" text="""
@@ -34,10 +34,9 @@ Thus, users should have:
 1. **Control** over user data access
 
     [[!toggle  id="wucat" text="""
-    Data explicitly and willingly uploaded by a user should be under the
-    ultimate control of the user. Users should be able to decide whom to grant
-    direct access to their data and with which permissions and licenses such
-    access should be granted.
+    User data should be under the ultimate control of the user. Users should be
+    able to decide whom to grant direct access to their data and with which
+    permissions and licenses such access should be granted.
     """]]
 
     [[!toggleable id="wucat" text="""
@@ -70,9 +69,9 @@ Thus, users should have:
     """]]
 
     [[!toggle  id="ssauts" text="""
-    Data received, generated, or collected from user activity or from a
-    user's device (e.g. metadata or social graph data) should be made
-    accessible to them and put under their control. 
+    Data generated or associated with user data (e.g. metadata) should also be
+    made available to that user and put under their control just like the user
+    data itself.
     """]]
 
     [[!toggleable id="ssauts" text="""
@@ -84,12 +83,12 @@ Thus, users should have:
     """]]
 
 
-2. **Knowledge** of how the data is stored
+2. **Knowledge** of how user data is stored
 
     [[!toggle  id="wuucstu" text="""
-    When the data is uploaded to a specific service provider, users should be
+    When user data is uploaded to a specific service provider, users should be
     informed about the geographic location that specific service provider
-    stores the data in, how long, in which jurisdiction the specific service
+    stores the data in, how long, in which jurisdiction that specific service
     provider operates and which laws apply.
     """]]
 
@@ -102,9 +101,9 @@ Thus, users should have:
     """]]
 
     [[!toggle  id="usnroc" text="""
-    Users should be able to store their own data on devices (e.g.  servers) in
-    their vicinity and under their direct control. This way, users do not have
-    to rely on centralised services.
+    This point is not relevant when users are able to store their own data on
+    devices in their vicinity and under their direct control (e.g. servers) or
+    when they rely on systems without centralised control (e.g. peer-to-peer).
     """]]
 
 
@@ -112,10 +111,8 @@ Thus, users should have:
     [[!toggle  id="usnroc" text="×"]]
     Users should not rely on centralised services. Peer-to-peer systems and
     unhosted applications are a means to that end.  In the long term, all users
-    should be able to have their own server with [[!taglink Free_Software]].
-    
-    Unfortunately, this is made very difficult by some Internet access
-    providers that restrict their customers unfairly. 
+    should be able to have their own server with
+    [[!taglink Free_Software]].
     """]]
 
 3. **Freedom** to choose a platform
