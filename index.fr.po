@@ -120,11 +120,6 @@ msgstr "    [[!toggle  id=\"wucat\" text=\"\"\"\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
-#| msgid ""
-#| "    Data explicitly and willingly uploaded by a user should be under the\n"
-#| "    ultimate control of the user. Users should be able to decide whom to grant\n"
-#| "    direct access to their data and with which permissions and licenses such\n"
-#| "    access should be granted.\n"
 msgid ""
 "    User data should be under the ultimate control of the user. Users should be\n"
 "    able to decide whom to grant direct access to their data and with which\n"
@@ -230,7 +225,6 @@ msgstr "    Certains services permettent aux utilisateurs de soumettre des donn�
 
 #. type: Bullet: '2. '
 #, fuzzy
-#| msgid "**Knowledge** of how the data is stored"
 msgid "**Knowledge** of how user data is stored"
 msgstr "**Savoir** comment les données sont stockées"
 
