@@ -10,12 +10,19 @@ Today, the main authors of the User Data Manifesto have announced the release of
 The publication of the Manifesto is supported by:
 
 - KDE
+
 - GNOME
+
 - [Free Software Foundation Europe](https://fsfe.org/news/2015/news-20150829-01.html)
+
 - [Netzpolitik.org](https://netzpolitik.org/2015/user-data-manifesto-2-0/)
+
 - X-Lab
+
 - ToS;DR
+
 - Spreed
+
 - ownCloud
 
 The User Data Manifesto is a starting point, a humble contribution to the greater debate on rights and freedoms online that can hopefully help raise awareness.
