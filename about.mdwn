@@ -1,14 +1,15 @@
 
-This wiki is a space dedicated to exploring, writing and discussing the [next version of the user data manifesto][udm2]. 
+This wiki is a space dedicated to exploring, writing and discussing [the user data manifesto]. 
 
-Attention: there seems to be a [bug](https://www.branchable.com/forum/Discussion_page_not_created/) right now that prevents you from creating “Discussion” pages. For now, please comment on this page to discuss: http://udm.branchable.com/Discussion/
-
-The official page of the [user data manifesto][udm2] is <http://userdatamanifesto.org/2.0/>. Please spread the word!
+The official page of the [user data manifesto][udm2] is <http://userdatamanifesto.org/>. Please spread the word!
 
 [udm2]: http://userdatamanifesto.org/2.0/
+
+-----
 
 Sources should also be available [on Github](https://github.com/userdatamanifesto).
 
 Wiki [hosted by branchable].
 
 [hosted by branchable]: http://udm.branchable.com/ikiwiki.cgi?do=branchable
+
