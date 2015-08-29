@@ -1,5 +1,4 @@
 
 [[!meta title="News - User Data Manifesto"]]
 
-[[!inline pages="page(./news/*) and !*/Discussion" archive=yes
-feedshow=15 quick=yes trail=yes feeds=yes]]
+[[!inline pages="page(./news/*) and !*/Discussion and currentlang()" archive=yes feedshow=15 quick=yes trail=yes feeds=yes]]
