@@ -1,7 +1,7 @@
 [[!meta title="Announcing Version 2.0 of the User Data Manifesto"]]
 [[!meta language="en"]]
 
-Today, the main authors of the User Data Manifesto have announced the release of version 2.0 during the [ownCloud Contributors Conference](https://owncloud.org/conf/) in Berlin.
+Today, the main authors of the User Data Manifesto have announced the release of version 2.0 during the [ownCloud Contributor Conference](https://owncloud.org/conf/) in Berlin.
 
 > “The version 1.0 was instantly very popular and I got a ton of positive feedback and support. But over the time it also became clear that a few things could be expressed in a simpler and clearer way. So the idea came up to do a revision of the manifesto based on all the feedback” [says Frank Karlitschek](http://karlitschek.de/2015/08/user-data-manifesto-2-0-launched/) who launched the initiative in 2012.
 
