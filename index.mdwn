@@ -3,7 +3,7 @@
 [[!meta language="en"]]
 
 <div class="lastNewsEntry">
-## [[news]]
+[[news]]:
 
 [[!inline pages="page(./news/*) and !*/Discussion" archive=yes quick=yes trail=no show="1" feeds="yes"]]
 </div>
