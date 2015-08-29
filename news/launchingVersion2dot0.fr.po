@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-29 15:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"Announcing Version 2.0 of the User Data Manifesto\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta language=\"en\"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Today, the main authors of the User Data Manifesto have announced the "
+"release of version 2.0 during the [ownCloud Contributors "
+"Conference](https://owncloud.org/conf/) in Berlin."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"> “The version 1.0 was instantly very popular and I got a ton of positive "
+"feedback and support. But over the time it also became clear that a few "
+"things could be expressed in a simpler and clearer way. So the idea came up "
+"to do a revision of the manifesto based on all the feedback” [says Frank "
+"Karlitschek](http://karlitschek.de/2015/08/user-data-manifesto-2-0-launched/) "
+"who launched the initiative in 2012.\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"> “The recognition of the User Data Rights defined in the manifesto is an "
+"important block to build a free society in the digital age“ [according to "
+"Hugo Roy](https://hroy.eu/posts/UserDataManifesto2dot0/), coauthor of the "
+"User Data Manifesto version 2.\n"
+msgstr ""
+
+#. type: Plain text
+msgid "The publication of the Manifesto is supported by:"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"- KDE - GNOME - [Free Software Foundation "
+"Europe](https://fsfe.org/news/2015/news-20150829-01.html)  - "
+"[Netzpolitik.org](https://netzpolitik.org/2015/user-data-manifesto-2-0/)  - "
+"X-Lab - ToS;DR - Spreed - ownCloud"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"The User Data Manifesto is a starting point, a humble contribution to the "
+"greater debate on rights and freedoms online that can hopefully help raise "
+"awareness."
+msgstr ""
+
+#. type: Plain text
+msgid "[[Read_the_full_text_of_the_User_Data_Manifesto_here|index]]."
+msgstr ""
