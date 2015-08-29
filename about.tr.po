@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-28 13:54+0000\n"
+"POT-Creation-Date: 2015-08-29 15:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,22 +18,14 @@ msgstr ""
 
 #. type: Plain text
 msgid ""
-"This wiki is a space dedicated to exploring, writing and discussing the "
-"[next version of the user data manifesto][udm2]."
-msgstr ""
-
-#. type: Plain text
-msgid ""
-"Attention: there seems to be a [bug](https://www.branchable.com/forum/"
-"Discussion_page_not_created/) right now that prevents you from creating "
-"“Discussion” pages. For now, please comment on this page to discuss: http://"
-"udm.branchable.com/Discussion/"
+"This wiki is a space dedicated to exploring, writing and discussing [the "
+"user data manifesto]."
 msgstr ""
 
 #. type: Plain text
 msgid ""
 "The official page of the [user data manifesto][udm2] is <http://"
-"userdatamanifesto.org/2.0/>. Please spread the word!"
+"userdatamanifesto.org/>. Please spread the word!"
 msgstr ""
 
 #. type: Plain text
