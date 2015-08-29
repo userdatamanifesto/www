@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-29 15:36+0000\n"
+"POT-Creation-Date: 2015-08-29 15:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,10 +48,38 @@ msgid "The publication of the Manifesto is supported by:"
 msgstr ""
 
 #. type: Plain text
+msgid "- KDE"
+msgstr ""
+
+#. type: Plain text
+msgid "- GNOME"
+msgstr ""
+
+#. type: Plain text
 msgid ""
-"- KDE - GNOME - [Free Software Foundation Europe](https://fsfe.org/news/2015/"
-"news-20150829-01.html)  - [Netzpolitik.org](https://netzpolitik.org/2015/"
-"user-data-manifesto-2-0/)  - X-Lab - ToS;DR - Spreed - ownCloud"
+"- [Free Software Foundation Europe](https://fsfe.org/news/2015/"
+"news-20150829-01.html)"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"- [Netzpolitik.org](https://netzpolitik.org/2015/user-data-manifesto-2-0/)"
+msgstr ""
+
+#. type: Plain text
+msgid "- X-Lab"
+msgstr ""
+
+#. type: Plain text
+msgid "- ToS;DR"
+msgstr ""
+
+#. type: Plain text
+msgid "- Spreed"
+msgstr ""
+
+#. type: Plain text
+msgid "- ownCloud"
 msgstr ""
 
 #. type: Plain text
