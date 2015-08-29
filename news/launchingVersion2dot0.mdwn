@@ -1,0 +1,23 @@
+[[!meta title="Announcing Version 2.0 of the User Data Manifesto"]]
+[[!meta language="en"]]
+
+Today, the main authors of the User Data Manifesto have announced the release of version 2.0 during the [ownCloud Contributors Conference](https://owncloud.org/conf/) in Berlin.
+
+> “The version 1.0 was instantly very popular and I got a ton of positive feedback and support. But over the time it also became clear that a few things could be expressed in a simpler and clearer way. So the idea came up to do a revision of the manifesto based on all the feedback” [says Frank Karlitschek](http://karlitschek.de/2015/08/user-data-manifesto-2-0-launched/) who launched the initiative in 2012.
+
+> “The recognition of the User Data Rights defined in the manifesto is an important block to build a free society in the digital age“ [according to Hugo Roy](https://hroy.eu/posts/UserDataManifesto2dot0/), coauthor of the User Data Manifesto version 2.
+
+The publication of the Manifesto is supported by:
+
+- KDE
+- GNOME
+- [Free Software Foundation Europe](https://fsfe.org/news/2015/news-20150829-01.html)
+- [Netzpolitik.org](https://netzpolitik.org/2015/user-data-manifesto-2-0/)
+- X-Lab
+- ToS;DR
+- Spreed
+- ownCloud
+
+The User Data Manifesto is a starting point, a humble contribution to the greater debate on rights and freedoms online that can hopefully help raise awareness.
+
+[[Read_the_full_text_of_the_User_Data_Manifesto_here|index]].
