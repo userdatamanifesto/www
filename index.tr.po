@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-29 15:44+0000\n"
+"POT-Creation-Date: 2015-08-29 15:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,12 +33,9 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid "<div class=\"lastNewsEntry\">\n"
-msgstr ""
-
-#. type: Title ##
-#, no-wrap
-msgid "[[news]]"
+msgid ""
+"<div class=\"lastNewsEntry\">\n"
+"[[news]]:\n"
 msgstr ""
 
 #. type: Plain text
