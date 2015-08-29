@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-29 15:29+0000\n"
+"POT-Creation-Date: 2015-08-29 15:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,5 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid ""
-"[[!inline pages=\"page(./news/*) and !*/Discussion\" archive=yes\n"
-"feedshow=15 quick=yes trail=yes feeds=yes]]\n"
+msgid "[[!inline pages=\"page(./news/*) and !*/Discussion and currentlang()\" archive=yes feedshow=15 quick=yes trail=yes feeds=yes]]\n"
 msgstr ""
