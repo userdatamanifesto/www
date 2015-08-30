@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-30 17:18+0000\n"
+"POT-Creation-Date: 2015-08-30 17:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,9 +27,35 @@ msgid "Organisations"
 msgstr ""
 
 #. type: Plain text
-msgid ""
-"- KDE - GNOME - Free Software Foundation Europe - Netzpolitik.org - X-Lab - "
-"ToS;DR - Spreed - ownCloud"
+msgid "- KDE"
+msgstr ""
+
+#. type: Plain text
+msgid "- GNOME"
+msgstr ""
+
+#. type: Plain text
+msgid "- Free Software Foundation Europe"
+msgstr ""
+
+#. type: Plain text
+msgid "- Netzpolitik.org"
+msgstr ""
+
+#. type: Plain text
+msgid "- X-Lab"
+msgstr ""
+
+#. type: Plain text
+msgid "- ToS;DR"
+msgstr ""
+
+#. type: Plain text
+msgid "- Spreed"
+msgstr ""
+
+#. type: Plain text
+msgid "- ownCloud"
 msgstr ""
 
 #. type: Title #
@@ -38,11 +64,19 @@ msgid "Individuals"
 msgstr ""
 
 #. type: Plain text
-msgid "- Frank Karlitschek - Hugo Roy - Jan-Christoph Borchardt"
+msgid "- Frank Karlitschek"
+msgstr ""
+
+#. type: Plain text
+msgid "- Hugo Roy"
+msgstr ""
+
+#. type: Plain text
+msgid "- Jan-Christoph Borchardt"
 msgstr ""
 
 #. type: Plain text
 msgid ""
-"[Add your "
-"support](https://github.com/userdatamanifesto/www/edit/master/supporters.mdwn)"
+"[Add your support](https://github.com/userdatamanifesto/www/edit/master/"
+"supporters.mdwn)"
 msgstr ""
