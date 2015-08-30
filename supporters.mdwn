@@ -1,0 +1,22 @@
+[[!meta title="User Data Manifesto Supporters"]]
+
+# Organisations
+
+- KDE
+- GNOME
+- Free Software Foundation Europe
+- Netzpolitik.org
+- X-Lab
+- ToS;DR
+- Spreed
+- ownCloud
+
+# Individuals
+
+- Frank Karlitschek
+- Hugo Roy
+- Jan-Christoph Borchardt
+
+
+
+[Add your support](https://github.com/userdatamanifesto/www/edit/master/supporters.mdwn) 
