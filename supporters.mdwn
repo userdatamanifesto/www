@@ -28,4 +28,4 @@
 
 
 
-[Add your support](https://github.com/userdatamanifesto/www/edit/master/supporters.mdwn) 
+[Add your support](https://github.com/userdatamanifesto/www/edit/master/supporters.mdwn) (This requires GitHub at the moment, but we'll fix this)
