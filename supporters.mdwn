@@ -3,18 +3,27 @@
 # Organisations
 
 - KDE
+
 - GNOME
+
 - Free Software Foundation Europe
+
 - Netzpolitik.org
+
 - X-Lab
+
 - ToS;DR
+
 - Spreed
+
 - ownCloud
 
 # Individuals
 
 - Frank Karlitschek
+
 - Hugo Roy
+
 - Jan-Christoph Borchardt
 
 
