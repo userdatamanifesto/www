@@ -1,105 +1,55 @@
-<?php
-date_default_timezone_set('America/New_York');
+<!DOCTYPE html>
+<html manifest="cache.manifest">
 
-error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
-require('campaigner/libcampaigner.php');
-
-$response=CAMPAIGNER::listener();
-//echo('<center><span class="notify">'.$response.'</span></center>');
-?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>User Data Manifesto</title>
-<link rel="stylesheet" href="style1.0.css" type="text/css"  />
-<link rel="stylesheet" href="campaigner/style.css" type="text/css"  />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
+
+	<title>User Data Manifesto 2.0</title>
+	<meta name="description" content="A manifesto for digital rights">
+
+	<link rel="stylesheet" href="custom.css">
+	<link rel="shortcut icon" href="img/litewrite.png">
+	<link rel="apple-touch-icon-precomposed" href="img/litewrite-touch.png">
 </head>
-<body bgcolor="#EEEEEE">
 
-<?php
+	<body>
+		<h1>User Data Manifesto 2.0</h1>
 
-   echo('<center><span class="notify">'.$response.'</span></center>');
+		<h2>Defining basic rights for people to control their own data in the internet age</h2>
 
-?>
+		<div class="section control">
+			<img src="control.svg" alt="" />
+			<h2>
+				<strong>Control</strong><br/>
+				over user data access
+			</h2>
 
+			<p>Data explicitly and willingly uploaded by a user should be under the ultimate control of the user. Users should be able to decide whom to grant direct access to their data and with which permissions and licenses such access should be granted.</p>
+		</div>
 
-<table border="0" width="100%"><tr><td></td><td width="620px">
-<a href="/"><img src="udm.png" align="left" border="0" >&nbsp;&nbsp;<span class="head1">user data manifesto</span><br /></a>
+		<div class="section knowledge">
+			<img src="knowledge.svg" alt="" />
+			<h2>
+				<strong>Knowledge</strong><br/>
+				of how the data is stored
+			</h2>
 
-<span class="head2">&nbsp;&nbsp;defining basic rights for people to control their own data in the internet age</span>
-<br />
-<br />
+			<p>When the data is uploaded to a specific service provider, users should be informed about where that specific service provider stores the data, how long, in which jurisdiction the specific service provider operates, and which laws apply.</p>
+		</div>
 
+		<div class="section freedom">
+			<img src="freedom.svg" alt="" />
+			<h2>
+				<strong>Freedom</strong><br/>
+				to choose a platform
+			</h2>
 
-<p class="mainitem">1. Own the data<br />
-<span class="subitem">The data that someone directly or indirectly creates belongs to the person who created it.</span>
-</p>
+			<p>Users should always be able to extract their data from the service at any time without experiencing any vendor lock-in. Open standards for formats and protocols are necessary to guarantee this.</p>
+		</div>
 
-<p class="mainitem">2. Know where the data is stored<br />
-<span class="subitem">Everybody should be able to know: where their personal data is physically stored, how long, on which server,  in what country, and what laws apply.</span>
-</p>
-
-<p class="mainitem">3. Choose the storage location<br />
-<span class="subitem">Everybody should always be able to migrate their personal data to a different provider, server or their own machine at any time without being locked in to a specific vendor.</span>
-</p>
-
-<p class="mainitem">4. Control access<br />
-<span class="subitem">Everybody should be able to know, choose and control who has access to their own data to see or modify it.</span>
-</p>
-
-<p class="mainitem">5. Choose the conditions<br />
-<span class="subitem">If someone chooses to share their own data, then the owner of the data selects the sharing license and conditions.</span>
-</p>
-
-<p class="mainitem">6. Invulnerability of data<br />
-<span class="subitem">
-Everybody should be able to protect their own data against surveillance and to federate their own data for backups to prevent data loss or for any other reason.
-</span>
-</p>
-
-<p class="mainitem">7. Use it optimally<br />
-<span class="subitem">Everybody should be able to access and use their own data at all times with any device they choose and in the most convenient and easiest way for them.</span>
-</p>
-
-
-<p class="mainitem">8. Server software transparency<br />
-<span class="subitem">Server software should be free and open source software so that the source code of the software can be inspected to confirm that it works as specified.</span>
-</p>
-
-
-
-<br />
-<span class="related">Services, projects and software that respects the user data rights and this manifesto. <a href="#contact">Contact us</a> to have software or projects added to this list.</span><br />
-<ul class="list">
-<li><a href="http://buddycloud.com">buddycloud</a></li>
-<li><a href="http://data.fm">data.fm</a></li>
-<li><a href="http://diasporaproject.org/">Diaspora</a></li>
-<li><a href="http://owncloud.org">ownCloud</a></li>
-<li><a href="http://sparkleshare.org">Sparkleshare</a></li>
-<li><a href="http://status.net/">status.net</a></li>
-<li><a href="http://tent.io/">tent.io</a></li>
-<li><a href="http://unhosted.org/">Unhosted apps</a></li>
-<li><a href="https://www.wallabag.org/">Wallabag</a></li>
-<li><a href="https://github.com/wrr/wwwhisper">wwwhisper</a></li>
-</ul>
-
-
-
-<?php
-
-   CAMPAIGNER::show();
-
-?>
-
-
-<br /><br />
-<span class="contact" id="contact"><b>Contact:</b> frank.karlitschek (at) userdatamanifesto.org</span>
-
-
-</td><td></td></tr></table>
-
-<div class="draft">The <strong><a href="https://userdatamanifesto.org/2.0">User Data Manifesto 2.0</a></strong> is in the works!</div>
-
-</body>
+		<div class="more-button-row center">
+			<a href="https://udm.branchable.com/" class="more-button" target="_blank">Read more & participate!</a>
+		</div>
+	</body>
 </html>
