@@ -21,7 +21,7 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid "[[!meta description=\"This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.\"]] \n"
+msgid "[[!meta description=\"Ce manifeste a pour objectif de définir les droits fondamentaux des usagers sur leurs données personnelles à l'ère d'Internet. Les internautes devraient être libres de leur choix et ne pas avoir à faire allégeance aux fournisseurs de services.\"]] \n"
 msgstr ""
 
 #. type: Plain text
@@ -61,8 +61,8 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by a\n"
-"user for his or her own use.</p></li></ol>\n"
+"<ol start=\"0\"><li><p><strong>Les données personnelles</strong> sont toutes celles qu'un usager met en ligne\n"
+"pour son usage personnel.</p></li></ol>\n"
 msgstr ""
 
 #. type: Plain text
