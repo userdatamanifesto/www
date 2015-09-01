@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-09-01 15:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"User Data Manifesto Supporters\"]]\n"
+msgstr ""
+
+#. type: Title #
+#, no-wrap
+msgid "Organisations"
+msgstr ""
+
+#. type: Plain text
+msgid "- KDE"
+msgstr ""
+
+#. type: Plain text
+msgid "- GNOME"
+msgstr ""
+
+#. type: Plain text
+msgid "- Free Software Foundation Europe"
+msgstr ""
+
+#. type: Plain text
+msgid "- Netzpolitik.org"
+msgstr ""
+
+#. type: Plain text
+msgid "- X-Lab"
+msgstr ""
+
+#. type: Plain text
+msgid "- ToS;DR"
+msgstr ""
+
+#. type: Plain text
+msgid "- Spreed"
+msgstr ""
+
+#. type: Plain text
+msgid "- ownCloud"
+msgstr ""
+
+#. type: Title #
+#, no-wrap
+msgid "Individuals"
+msgstr ""
+
+#. type: Plain text
+msgid "- Frank Karlitschek"
+msgstr ""
+
+#. type: Plain text
+msgid "- Hugo Roy"
+msgstr ""
+
+#. type: Plain text
+msgid "- Jan-Christoph Borchardt"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[Add your "
+"support](https://github.com/userdatamanifesto/www/edit/master/supporters.mdwn) "
+"(This requires GitHub at the moment, but we'll fix this)"
+msgstr ""

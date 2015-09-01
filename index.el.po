@@ -1,15 +1,17 @@
-# Traduction de ikiwiki
-# Copyright (C) 2009 Debian French l10n team <debian-l10n-french@lists.debian.org>
-# This file is distributed under the same license as the PACKAGE Ikiwiki.
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ikiwiki\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-09-01 15:18+0000\n"
-"PO-Revision-Date: 2009-08-23 18:50+0200\n"
-"Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
-"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
-"Language: fr\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +23,10 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid "[[!meta description=\"This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.\"]] \n"
+msgid ""
+"[[!meta description=\"This manifesto aims at defining users’ fundamental "
+"rights to their own data in the Internet age. People ought to be free and "
+"should not have to pay allegiance to service providers.\"]] \n"
 msgstr ""
 
 #. type: Plain text
@@ -38,7 +43,9 @@ msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid "[[!inline pages=\"page(./news/*) and !*/Discussion\" archive=yes quick=yes trail=no show=\"1\" feeds=\"yes\"]]\n"
+msgid ""
+"[[!inline pages=\"page(./news/*) and !*/Discussion\" archive=yes quick=yes "
+"trail=no show=\"1\" feeds=\"yes\"]]\n"
 msgstr ""
 
 #. type: Plain text
@@ -61,7 +68,8 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by a\n"
+"<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by "
+"a\n"
 "user for his or her own use.</p></li></ol>\n"
 msgstr ""
 
@@ -81,7 +89,8 @@ msgstr ""
 
 #. type: Bullet: '  - '
 msgid ""
-"the files a user is syncing through multiple devices or sharing with a friend"
+"the files a user is syncing through multiple devices or sharing with a "
+"friend"
 msgstr ""
 
 #. type: Bullet: '  - '
@@ -116,8 +125,10 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    User data should be under the ultimate control of the user. Users should be\n"
-"    able to decide whom to grant direct access to their data and with which\n"
+"    User data should be under the ultimate control of the user. Users should "
+"be\n"
+"    able to decide whom to grant direct access to their data and with "
+"which\n"
 "    permissions and licenses such access should be granted.\n"
 msgstr ""
 
@@ -149,8 +160,10 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    That also means that when users do not have full control over the upload of\n"
-"    their data (e.g. if they don't use cryptography before uploading) a service\n"
+"    That also means that when users do not have full control over the upload "
+"of\n"
+"    their data (e.g. if they don't use cryptography before uploading) a "
+"service\n"
 "    provider should **not**:\n"
 msgstr ""
 
@@ -170,13 +183,17 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    When users make data available to others, whether to a restrictive group of\n"
+"    When users make data available to others, whether to a restrictive group "
+"of\n"
 "    people or to large groups, they should be able to decide under which\n"
 "    permissions they grant access to this data. However, this right is not\n"
-"    absolute and should not extend over others’ rights to use and exploit the\n"
-"    data once it has been made available to them.  What’s more, it does not\n"
+"    absolute and should not extend over others’ rights to use and exploit "
+"the\n"
+"    data once it has been made available to them.  What’s more, it does "
+"not\n"
 "    mean that users should have the right to impose unfair restrictions to\n"
-"    other people. In any event, technical systems should not be designed to\n"
+"    other people. In any event, technical systems should not be designed "
+"to\n"
 "    enforce such restrictions (e.g. through [[!taglink DRM]]).\n"
 msgstr ""
 
@@ -188,8 +205,10 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Data generated or associated with user data (e.g. metadata) should also be\n"
-"    made available to that user and put under their control just like the user\n"
+"    Data generated or associated with user data (e.g. metadata) should also "
+"be\n"
+"    made available to that user and put under their control just like the "
+"user\n"
 "    data itself.\n"
 msgstr ""
 
@@ -224,9 +243,11 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    When user data is uploaded to a specific service provider, users should be\n"
+"    When user data is uploaded to a specific service provider, users should "
+"be\n"
 "    informed about the geographic location that specific service provider\n"
-"    stores the data in, how long, in which jurisdiction that specific service\n"
+"    stores the data in, how long, in which jurisdiction that specific "
+"service\n"
 "    provider operates and which laws apply.\n"
 msgstr ""
 
@@ -243,9 +264,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    When users use centralised services that uploads data to specific storage\n"
-"    providers instead of relying on peer-to-peer systems, it is important to\n"
-"    know where the providers might store data because they could be compelled\n"
+"    When users use centralised services that uploads data to specific "
+"storage\n"
+"    providers instead of relying on peer-to-peer systems, it is important "
+"to\n"
+"    know where the providers might store data because they could be "
+"compelled\n"
 "    by governments to turn over data they have in their possession.\n"
 msgstr ""
 
@@ -257,9 +281,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    This point is not relevant when users are able to store their own data on\n"
-"    devices in their vicinity and under their direct control (e.g. servers) or\n"
-"    when they rely on systems without centralised control (e.g. peer-to-peer).\n"
+"    This point is not relevant when users are able to store their own data "
+"on\n"
+"    devices in their vicinity and under their direct control (e.g. servers) "
+"or\n"
+"    when they rely on systems without centralised control "
+"(e.g. peer-to-peer).\n"
 msgstr ""
 
 #. type: Plain text
@@ -275,8 +302,10 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Users should not rely on centralised services. Peer-to-peer systems and\n"
-"    unhosted applications are a means to that end.  In the long term, all users\n"
+"    Users should not rely on centralised services. Peer-to-peer systems "
+"and\n"
+"    unhosted applications are a means to that end.  In the long term, all "
+"users\n"
 "    should be able to have their own server with\n"
 "    [[!taglink Free_Software]].\n"
 msgstr ""
@@ -293,7 +322,8 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Users should always be able to extract their data from the service at any\n"
+"    Users should always be able to extract their data from the service at "
+"any\n"
 "    time without experiencing any vendor lock-in.\n"
 msgstr ""
 
@@ -310,7 +340,8 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Users should not get stuck into a specific technical solution.  This is why\n"
+"    Users should not get stuck into a specific technical solution.  This is "
+"why\n"
 "    they should always be able to leave a platform and settle elsewhere.\n"
 msgstr ""
 
@@ -324,7 +355,8 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid ""
-"    Obviously, without the source code of the programs used to deal with user\n"
+"    Obviously, without the source code of the programs used to deal with "
+"user\n"
 "    data, this is impractical. This is why programs available to exploit\n"
 "    exported data should be available under a \n"
 "    [[!taglink Free_Software_(Open_Source)_License|Free_Software]].\n"
@@ -369,12 +401,3 @@ msgid ""
 "rights and give them the possibility to exercise the [[!taglink datarights]] "
 "defined in this manifesto."
 msgstr ""
-
-#~ msgid "Welcome to your new wiki."
-#~ msgstr "Bienvenue sur votre nouveau wiki."
-
-#~ msgid "All wikis are supposed to have a [[SandBox]], so this one does too."
-#~ msgstr "Comme tous les wikis, ce wiki possède une page [[SandBox]]."
-
-#~ msgid "This wiki is powered by [[ikiwiki]]."
-#~ msgstr "Ce wiki est propulsé par [[ikiwiki]]."
