@@ -9,9 +9,9 @@ Today, the main authors of the User Data Manifesto have announced the release of
 
 The publication of the Manifesto is supported by:
 
-- KDE
+- [KDE](http://blog.lydiapintscher.de/2015/09/03/kde-signs-the-user-data-manifesto-2-0-and-continues-to-defend-your-freedom/)
 
-- GNOME
+- [GNOME](https://www.gnome.org/news/2015/09/gnome-foundandon-endorses-user-data-manifesto/)
 
 - [Free Software Foundation Europe](https://fsfe.org/news/2015/news-20150829-01.html)
 
@@ -19,7 +19,7 @@ The publication of the Manifesto is supported by:
 
 - X-Lab
 
-- ToS;DR
+- [ToS;DR](http://blog.tosdr.org/posts/userDataManifesto/)
 
 - Spreed
 
