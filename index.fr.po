@@ -290,6 +290,11 @@ msgid ""
 "    know where the providers might store data because they could be compelled\n"
 "    by governments to turn over data they have in their possession.\n"
 msgstr ""
+"    Lorsque les utilisateurs utilisent des services centralisés pour envoyer leur \n"
+"    données à des fournisseurs de stockage particuliers plutôt que de s'appuyer \n"
+"    sur des services en pair-à-pair, il est important de savoir où les fournisseurs\n"
+"     stockent les données car ils peuvent être contraints à divulguer les données\n"
+"     en leur possession par les autorités .\n"
 
 #. type: Plain text
 #, no-wrap
@@ -303,6 +308,10 @@ msgid ""
 "    devices in their vicinity and under their direct control (e.g. servers) or\n"
 "    when they rely on systems without centralised control (e.g. peer-to-peer).\n"
 msgstr ""
+"    Cet aspect est sans objet lorsque les utilisateurs peuvent stocker les\n"
+"    données dans un lieu qui leur est accessible et sous leur contrôle direct\n"
+"    (par exemple des serveurs) ou lorsqu'ils s'appuyent sur des systèmes sans\n"
+"    contrôle centralisé (par exemple en pair-à-pair).\n"
 
 #. type: Plain text
 #, no-wrap
@@ -322,10 +331,15 @@ msgid ""
 "    should be able to have their own server with\n"
 "    [[!taglink Free_Software]].\n"
 msgstr ""
+"    Les utilisateurs ne devraient pas s'appuyer sur des services centralisés.\n"
+"    Les systèmes en pair-à-pair et les applications sans hébergement de données\n"
+"    sont des moyens à cette fin. A long terme, tous les utilisateurs devraient\n"
+"    disposer de leur propres serveurs avec\n"
+"    [[!taglink Logiciel_libre|Free_Software]].\n"
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
-msgstr ""
+msgstr "**Etre libre** de choisir une plate-forme"
 
 #. type: Plain text
 #, no-wrap
@@ -338,6 +352,8 @@ msgid ""
 "    Users should always be able to extract their data from the service at any\n"
 "    time without experiencing any vendor lock-in.\n"
 msgstr ""
+"    Les utilisateurs devraient toujours pouvoir récupérer leurs données du\n"
+"    service à tout moment sans être soumis à aucun verrou du fournisseur.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -355,6 +371,8 @@ msgid ""
 "    Users should not get stuck into a specific technical solution.  This is why\n"
 "    they should always be able to leave a platform and settle elsewhere.\n"
 msgstr ""
+"     Les utilisateurs ne devraient pas être enfermés par une solution technique particulière.\n"
+"     C'est pourquoi ils devraient toujours pouvoir quitter une plateforme et s'installer sur une autre.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -362,6 +380,8 @@ msgid ""
 "    [[!taglink Open_standards]] for formats and protocols are necessary to\n"
 "    guarantee this.\n"
 msgstr ""
+"    Les [[!taglink Standards_ouverts|Open_standards]] pour les formats\n"
+"    et les protocoles sont indispensables pour garantir ces possibilités.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -371,12 +391,18 @@ msgid ""
 "    exported data should be available under a \n"
 "    [[!taglink Free_Software_(Open_Source)_License|Free_Software]].\n"
 msgstr ""
+"    Evidemment, cela est impossible sans le code source du programme utilisé\n"
+"    pour manipuler les données de l'utilisateur. C'est pourquoi les programmes destinés\n"
+"    à l'exploitation des données exportées devraient être disponibles sous\n"
+"    [[!taglink licence_libre_(Open_Source)|Free_Software]].\n"
 
 #. type: Plain text
 msgid ""
 "If users have these rights, they are in control of their data rather than "
 "being subjugated by service providers."
 msgstr ""
+"Si les utilisateurs disposent de ces droits, ils ont le contrôle de leurs"
+"données et ne sont plus soumis aux fournisseurs de services."
 
 #. type: Plain text
 msgid ""
@@ -386,6 +412,11 @@ msgid ""
 "the service providers so that they can exploit user data (e.g. by selling "
 "them, licensing them or building a profile for advertisers)."
 msgstr ""
+"Beaucoup de services actuels qui utilisent les données de leurs utilisateurs  sont gratuits,"
+"mais cela ne veut pas dire qu'ils sont libres. Au lieu de payer avec de l'argent,"
+"les utilisateurs rémunèrent le service par leur [[!taglink soumission|Internet_Feudalism]]"
+"aux fournisseurs et leur permettent d'utiliser leurs données (par exemple en les vendant,"
+"cédant les droits ou des profils pour les annonceurs publicitaires)."
 
 #. type: Plain text
 msgid ""
@@ -393,6 +424,9 @@ msgid ""
 "trivial thing and a small price to pay for the sake of convenience that "
 "these Internet services bring."
 msgstr ""
+"Abandonner ses droits et la maîtrise de sa vie privée de cette manière peut paraitre anodin"
+"à beaucoup de personnes et un faible prix à payer au regard de la commodité"
+"apportée par ces services."
 
 #. type: Plain text
 msgid ""
@@ -402,6 +436,10 @@ msgid ""
 "since it forms a serious threat to the freedom of humanity and to the "
 "privacy of each individual."
 msgstr ""
+"Les fournisseurs de services ont ainsi été ammené à transformer leur outils"
+"en des systèmes de surveillance massive centralisés. Il est extrêmement important"
+"que les gens réalisent et comprennent cela, car cela constitue une grave menace"
+"pour la liberté de l'humanité et la vie privée de chaque individu."
 
 #. type: Plain text
 msgid ""
@@ -411,12 +449,18 @@ msgid ""
 "rights and give them the possibility to exercise the [[!taglink datarights]] "
 "defined in this manifesto."
 msgstr ""
+"En conclusion, pour garantir que les données de l'utilisateur sont sous son contrôle,"
+"les meilleures solutions techniques s'appuyent sur des systèmes en pair-à-pair"
+"ou distribués, et permettant d'exploiter des données stockées ailleurs (*unhosted*)."
+"Juridiquement, cela implique que les conditions d'utilisation devraient respecter"
+"les droits de l'utilisateur et lui permettre d'exercer les"
+"[[!taglink droits_des_données|datarights]] définis dans le présent manifeste."
 
 #~ msgid "Welcome to your new wiki."
 #~ msgstr "Bienvenue sur votre nouveau wiki."
 
 #~ msgid "All wikis are supposed to have a [[SandBox]], so this one does too."
-#~ msgstr "Comme tous les wikis, ce wiki possède une page [[SandBox]]."
+#~ msgstr "Comme tous les wikis, ce wiki possède une page [[Bac_à_Sable|SandBox]]."
 
 #~ msgid "This wiki is powered by [[ikiwiki]]."
 #~ msgstr "Ce wiki est propulsé par [[ikiwiki]]."
