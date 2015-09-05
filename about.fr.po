@@ -20,7 +20,7 @@ msgstr ""
 msgid ""
 "This wiki is a space dedicated to exploring, writing and discussing [the "
 "user data manifesto]."
-msgstr "Ce wiki est destiné à découvrir, écrire et échanger à propos du [user data manifesto] (manifeste des données utilisateur)."
+msgstr "Ce wiki est destiné à découvrir, écrire et échanger à propos du [user data manifesto] (manifeste des données de l'utilisateur)."
 
 #. type: Plain text
 msgid ""
