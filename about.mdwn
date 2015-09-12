@@ -7,6 +7,16 @@ The official page of the [user data manifesto][udm2] is <http://userdatamanifest
 
 -----
 
+We are currently facing issues with the translation module for
+ikiwiki. We have backed  up previous translations at
+<https://github.com/userdatamanifesto/www/tree/master/translationsBackups>.
+
+If you wish to contribute a translation in additional languages,
+please open a new issue on Github
+<https://github.com/userdatamanifesto/www/issues/> or [[Get_in_touch|contact]].
+
+-----
+
 Sources should also be available [on Github](https://github.com/userdatamanifesto).
 
 Wiki [hosted by branchable].
