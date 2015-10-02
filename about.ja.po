@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-29 15:44+0000\n"
+"POT-Creation-Date: 2015-10-02 16:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,6 +30,20 @@ msgstr ""
 
 #. type: Plain text
 msgid "[udm2]: http://userdatamanifesto.org/2.0/"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"We are currently facing issues with the translation module for ikiwiki. We "
+"have backed up previous translations at <https://github.com/"
+"userdatamanifesto/www/tree/master/translationsBackups>."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"If you wish to contribute a translation in additional languages, please open "
+"a new issue on Github <https://github.com/userdatamanifesto/www/issues/> or "
+"[[Get_in_touch|contact]]."
 msgstr ""
 
 #. type: Plain text

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-29 15:37+0000\n"
+"POT-Creation-Date: 2015-10-02 16:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,11 +48,15 @@ msgid "The publication of the Manifesto is supported by:"
 msgstr ""
 
 #. type: Plain text
-msgid "- KDE"
+msgid ""
+"- [KDE](http://blog.lydiapintscher.de/2015/09/03/kde-signs-the-user-data-"
+"manifesto-2-0-and-continues-to-defend-your-freedom/)"
 msgstr ""
 
 #. type: Plain text
-msgid "- GNOME"
+msgid ""
+"- [GNOME](https://www.gnome.org/news/2015/09/gnome-foundandon-endorses-user-"
+"data-manifesto/)"
 msgstr ""
 
 #. type: Plain text
@@ -71,7 +75,7 @@ msgid "- X-Lab"
 msgstr ""
 
 #. type: Plain text
-msgid "- ToS;DR"
+msgid "- [ToS;DR](http://blog.tosdr.org/posts/userDataManifesto/)"
 msgstr ""
 
 #. type: Plain text
