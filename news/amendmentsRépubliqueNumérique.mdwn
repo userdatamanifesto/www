@@ -1,0 +1,30 @@
+[[!meta title="In support of user data rights in France's République Numérique draft law"]]
+[[!meta language="en"]]
+
+The French government has launched a platform to solicit contributions
+on its draft law « république numérique » (digital republic). A
+section of the law would give rise to the recognition of user data
+rights regarding “portability” of data.
+
+Today, with La Quadrature du Net, we are adding our own amendment in
+order to recognise users' <strong>right to know how their data is
+stored</strong>. We think that when the data you use is stored online
+by a specific provider, users should be informed about where that
+specific service provider stores the data, <strong>how long, in which
+jurisdiction</strong> the specific service provider operates, and
+which laws apply.
+
+You can join us and support this proposal: <https://www.republique-numerique.fr/consultations/projet-de-loi-numerique/consultation/consultation/opinions/section-2-portabilite-des-donnees/article-12-portabilite-des-donnees/versions/consacrer-un-droit-d-information-sur-les-modalites-du-stockage-des-fichiers-et-donnees-utilisateur>
+
+In the User Data Manifesto, we also demand that users have the
+<strong>freedom to choose a platform</strong>, i.e. users should
+always be able to extract their data from the service at any time
+without experiencing any vendor lock-in. Open standards for formats
+and protocols are necessary to guarantee this.
+
+Please support this amendment in order to make this user data right
+more effective: <https://www.republique-numerique.fr/consultations/projet-de-loi-numerique/consultation/consultation/opinions/section-2-portabilite-des-donnees/article-12-portabilite-des-donnees/versions/consacrer-un-droit-effectif-a-la-portabilite>.
+
+If you have other inspired ideas in line with the user data manifesto
+that could be implemented into law, feel free to suggest them!
+Contributions and votes are still accepted until the end of the week.
