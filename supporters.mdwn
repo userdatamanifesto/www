@@ -18,6 +18,8 @@
 
 - ownCloud
 
+- IndieHosters
+
 # Individuals
 
 - Frank Karlitschek
