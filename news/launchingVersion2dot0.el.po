@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-09-01 15:18+0000\n"
+"POT-Creation-Date: 2015-10-12 14:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,28 +29,18 @@ msgstr ""
 #. type: Plain text
 msgid ""
 "Today, the main authors of the User Data Manifesto have announced the "
-"release of version 2.0 during the [ownCloud Contributor "
-"Conference](https://owncloud.org/conf/) in Berlin."
+"release of version 2.0 during the [ownCloud Contributor Conference](https://"
+"owncloud.org/conf/) in Berlin."
 msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid ""
-"> “The version 1.0 was instantly very popular and I got a ton of positive "
-"feedback and support. But over the time it also became clear that a few "
-"things could be expressed in a simpler and clearer way. So the idea came up "
-"to do a revision of the manifesto based on all the feedback” [says Frank "
-"Karlitschek](http://karlitschek.de/2015/08/user-data-manifesto-2-0-launched/) "
-"who launched the initiative in 2012.\n"
+msgid "> “The version 1.0 was instantly very popular and I got a ton of positive feedback and support. But over the time it also became clear that a few things could be expressed in a simpler and clearer way. So the idea came up to do a revision of the manifesto based on all the feedback” [says Frank Karlitschek](http://karlitschek.de/2015/08/user-data-manifesto-2-0-launched/) who launched the initiative in 2012.\n"
 msgstr ""
 
 #. type: Plain text
 #, no-wrap
-msgid ""
-"> “The recognition of the User Data Rights defined in the manifesto is an "
-"important block to build a free society in the digital age“ [according to "
-"Hugo Roy](https://hroy.eu/posts/UserDataManifesto2dot0/), coauthor of the "
-"User Data Manifesto version 2.\n"
+msgid "> “The recognition of the User Data Rights defined in the manifesto is an important block to build a free society in the digital age“ [according to Hugo Roy](https://hroy.eu/posts/UserDataManifesto2dot0/), coauthor of the User Data Manifesto version 2.\n"
 msgstr ""
 
 #. type: Plain text
@@ -58,21 +48,26 @@ msgid "The publication of the Manifesto is supported by:"
 msgstr ""
 
 #. type: Plain text
-msgid "- KDE"
-msgstr ""
-
-#. type: Plain text
-msgid "- GNOME"
+msgid ""
+"- [KDE](http://blog.lydiapintscher.de/2015/09/03/kde-signs-the-user-data-"
+"manifesto-2-0-and-continues-to-defend-your-freedom/)"
 msgstr ""
 
 #. type: Plain text
 msgid ""
-"- [Free Software Foundation "
-"Europe](https://fsfe.org/news/2015/news-20150829-01.html)"
+"- [GNOME](https://www.gnome.org/news/2015/09/gnome-foundandon-endorses-user-"
+"data-manifesto/)"
 msgstr ""
 
 #. type: Plain text
-msgid "- [Netzpolitik.org](https://netzpolitik.org/2015/user-data-manifesto-2-0/)"
+msgid ""
+"- [Free Software Foundation Europe](https://fsfe.org/news/2015/"
+"news-20150829-01.html)"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"- [Netzpolitik.org](https://netzpolitik.org/2015/user-data-manifesto-2-0/)"
 msgstr ""
 
 #. type: Plain text
@@ -80,7 +75,7 @@ msgid "- X-Lab"
 msgstr ""
 
 #. type: Plain text
-msgid "- ToS;DR"
+msgid "- [ToS;DR](http://blog.tosdr.org/posts/userDataManifesto/)"
 msgstr ""
 
 #. type: Plain text
