@@ -49,7 +49,7 @@
 		</div>
 
 		<div class="more-button-row center">
-			<a href="https://udm.branchable.com/" class="more-button" target="_blank">Read more & participate!</a>
+			<a href="https://udm.branchable.com/index.en.html" class="more-button" target="_blank">Read more & participate!</a>
 		</div>
 	</body>
 </html>
