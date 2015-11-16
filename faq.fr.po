@@ -9,9 +9,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2014-10-28 14:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Last-Translator: Sylvain Comte <sylvain.comte@yahoo.fr>\n"
+"Language-Team: French <LL@li.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,6 +21,8 @@ msgid ""
 "what’s the difference between *personal data* protection and *user data* "
 "rights?"
 msgstr ""
+"Quelle est la différence entre  protection des *données personnelles* et  "
+"droits associés aux *données de l'utilisateur*?"
 
 #. type: Plain text
 #, no-wrap
@@ -29,6 +31,9 @@ msgid ""
 "    *data subject*. But the data subject is not necessarily the user of the\n"
 "    data.\n"
 msgstr ""
+"    La donnée est qualifiée de  *donnée personnelle* lorsqu'elle identifie une personne, appelée\n"
+"    *sujet de la donnée*. Mais le sujet de la donnée n'est pas nécessairement l'utilisateur de la\n"
+"    donnée.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -38,15 +43,19 @@ msgid ""
 "    Bernard (the *subject*), but it is also *user data* because it is Alice who\n"
 "    uploaded the photo somwhere: she is the *user*.\n"
 msgstr ""
+"    Par exemple, si Alice poste une photo très ennuyeuse de son ami Bernard;\n"
+"    la donnée de cette photo est à la fois une *donnée personnelle* puisqu'elle identifie\n"
+"    Bernard (le *sujet*), et une *donnée utilisateur* puisque c'est Alice qui\n"
+"    a posté la photo quelque part : elle est *l'utilisatrice*.\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "    For more information [[on the distinction between copyright, data protection and data rights|tags/datarights]].\n"
-msgstr ""
+msgstr "    Pour plus d'informations sur [[la différence entre propriété intellectuelle, protection des données et droits des données|tags/datarights]].\n"
 
 #. type: Bullet: ' 1. '
 msgid "what’s *not* user data?"
-msgstr ""
+msgstr "Qu'est ce qui *n'est pas* une donnée utilisateur"
 
 #. type: Plain text
 #, no-wrap
@@ -56,6 +65,10 @@ msgid ""
 "    does not aim at modifying personal data regulations, but rather aim at\n"
 "    complementing them.\n"
 msgstr ""
+"    La donnée utilisateur n'est pas nécessairement privée n'est pas forcémment relative à une\n"
+"    personne ou à des informations personnelles. Ainsi, ce manifeste\n"
+"    ne vise pas à changer les règles en matière de données personnelles, mais vise plutôt à\n"
+"    les compléter.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -64,12 +77,16 @@ msgid ""
 "    directly by anybody, e.g. a public etherpad, do not usually deal with user\n"
 "    data.\n"
 msgstr ""
+"    Les données “versées” anonymement, par exemple sur pastebin, ou celles qui peuvent être modifiées\n"
+"    directement par n'importe qui, comme un etherpad public, ne sont en général pas considérées comme\n"
+"    des données utilisateur.\n"
 
 #. type: Bullet: ' 1. '
 msgid "what other initiatives are there?"
-msgstr ""
+msgstr "Quelles autres initiatives existent?"
+
 
 #. type: Plain text
 #, no-wrap
 msgid "    We maintain a page of [[related initiatives|related]].\n"
-msgstr ""
+msgstr "    Nous tenons à jour une page des [[initiatives associées|related]].
