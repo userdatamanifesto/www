@@ -9,10 +9,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ikiwiki\n"
-"POT-Creation-Date: 2015-08-18 14:16+0000\n"
-"PO-Revision-Date: 2009-08-23 18:50+0200\n"
-"Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
-"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
+"POT-Creation-Date: 2019-08-31 14:16+0000\n"
+"PO-Revision-Date: 2019-08-31 18:50+0200\n"
+"Last-Translator: Goofy <goofy@framasoft.org>\n"
+"Language-Team: French <goofy@framasoft.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +26,7 @@ msgstr "[[!meta title=\"manifeste des données utilisateur\"]]\n"
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta description=\"This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.\"]] \n"
-msgstr "[[!meta description=\"Ce manifeste a pour but de définir les droits fondamentaux des utilisateurs sur leurs données à l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer allégeance aux fournisseurs de service.\"]] \n"
+msgstr "[[!meta description=\"Ce manifeste a pour but de définir les droits fondamentaux des utilisateurs sur leurs données à l’ère d’Internet. Chacun devrait être libre et ne pas avoir à faire allégeance aux fournisseurs de service.\"]] \n"
 
 #. type: Plain text
 #, no-wrap
@@ -46,7 +46,7 @@ msgid ""
 msgstr ""
 "Ce manifeste a pour but de définir [[!taglink "
 "les_droits_fondamentaux_des_utilisateurs_sur_leurs_données|datarights]] à "
-"l’ère d’internet. Chacun devrait être libre et ne pas avoir à payer "
+"l’ère d’internet. Chacun devrait être libre et ne pas avoir à faire  "
 "allégeance aux fournisseurs de service."
 
 #. type: Plain text
@@ -60,7 +60,7 @@ msgid ""
 "<ol start=\"0\"><li><p><strong>User data</strong> means any data uploaded by a\n"
 "user for his or her own use.</p></li></ol>\n"
 msgstr ""
-"<ol start=\"0\"><li><p>Par <strong>données utilisateur</strong>, on entend les données envoyées par un utilisateur pour son propre usage.</p></li></ol>\n"
+"<ol start=\"0\"><li><p>Par <strong>données utilisateur</strong>, on entend les données envoyées par un utilisateur ou une utilisatrice pour son propre usage.</p></li></ol>\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
@@ -80,8 +80,8 @@ msgstr "Par exemple,  les données utilisateur comprennent :"
 msgid ""
 "the files a user is syncing through multiple devices or sharing with a friend"
 msgstr ""
-"les fichiers qu'un utilisateur synchronise entre plusieurs appareils ou "
-"qu'il partage avec une amie"
+"les fichiers qu'un utilisateur ou qu’une utilisatrice synchronise entre plusieurs appareils ou "
+"qu'il partage avec un⋅e proche"
 
 #. type: Bullet: '  - '
 msgid ""
@@ -112,7 +112,7 @@ msgstr "Ainsi, les utilisateurs devraient pouvoir :"
 
 #. type: Bullet: '1. '
 msgid "**Control** over user data access"
-msgstr "**Maîtriser** l’accès aux données utilisateur"
+msgstr "**Maîtriser** leur accès à leurs données"
 
 #. type: Plain text
 #, no-wrap
@@ -162,7 +162,7 @@ msgid ""
 "    their data (e.g. if they don't use cryptography before uploading) a service\n"
 "    provider should **not**:\n"
 msgstr ""
-"    Cela implique également que lorsque des utilisateurs n'ont pas la pleine maîtrise sur l'envoi de leurs données (par exemple s'ils n'utilisent pas la cryptographie avant l'envoi) un fournisseur de service **ne** doit **pas** :"
+"    Cela implique également que lorsque des utilisateurs n'ont pas la pleine maîtrise sur l'envoi de leurs données (par exemple s'ils n'utilisent pas le chiffrement avant l'envoi) un fournisseur de service **ne** doit **pas** :"
 
 #. type: Bullet: '     1. '
 msgid ""
@@ -249,7 +249,7 @@ msgid ""
 "    stores the data in, how long, in which jurisdiction that specific service\n"
 "    provider operates and which laws apply.\n"
 msgstr ""
-"    Quand les données sont envoyées à un fournisseur de service particulier, les utilisateurs devraient être informés du lieu de stockage des données du fournisseur de service, de la durée, de la juridiction dans laquelle le fournisseur de service particulier opère et des lois qui s’y appliquent."
+"    Quand les données sont envoyées à un fournisseur de service particulier, les utilisateurs et utilisatrices devraient être informé⋅e⋅s du lieu de stockage des données du fournisseur de service, de la durée, de la juridiction dans laquelle le fournisseur de service particulier opère et des lois qui s’y appliquent."
 
 #. type: Plain text
 #, no-wrap
@@ -307,7 +307,7 @@ msgstr ""
 
 #. type: Bullet: '3. '
 msgid "**Freedom** to choose a platform"
-msgstr "**Être libre** de choisir une plateforme"
+msgstr "**Être libres** de choisir une plateforme"
 
 #. type: Plain text
 #, no-wrap
@@ -320,7 +320,7 @@ msgid ""
 "    Users should always be able to extract their data from the service at any\n"
 "    time without experiencing any vendor lock-in.\n"
 msgstr ""
-"    Les utilisateurs devraient toujours être en mesure d’extraire leurs données du service à tout moment sans faire l’expérience de l’enfermement propriétaire."
+"    Les utilisatrices devraient toujours être en mesure d’extraire leurs données du service à tout moment sans faire l’expérience de l’enfermement propriétaire."
 
 #. type: Plain text
 #, no-wrap
@@ -363,7 +363,7 @@ msgid ""
 "being subjugated by service providers."
 msgstr ""
 "Si les utilisateurs ont ces droits, ils ont la maîtrise de leurs données "
-"plutôt que d’être subjugués par les fournisseurs de service."
+"plutôt que d’être sous la coupe des fournisseurs de service."
 
 #. type: Plain text
 msgid ""
@@ -375,7 +375,7 @@ msgid ""
 msgstr ""
 "De nombreux services qui gèrent les données utilisateur à ce jour sont "
 "gratuits, mais cela ne signifie pas qu’ils soient libres. Plutôt que de "
-"payer avec de l’argent, les utilisateurs [[!taglink payent_allégeance|Internet_Feudalism]] aux fournisseurs de services pour que ceux-ci puissent "
+"payer avec de l’argent, les utilisateurs [[!taglink font_allégeance|Internet_Feudalism]] aux fournisseurs de services pour que ceux-ci puissent "
 "exploiter les données utilisateurs (par ex. en les vendant, en offrant des "
 "licences ou en construisant des profils pour les annonceurs publicitaires)."
 
@@ -400,7 +400,7 @@ msgid ""
 "privacy of each individual."
 msgstr ""
 "Les fournisseurs de service ont ainsi été obligés de transformer leurs "
-"valeureux services Internet en systèmes massifs et centralisés de "
+"précieux services Internet en systèmes massifs et centralisés de "
 "surveillance. Il est crucial que chacun réalise et comprenne cela, puisqu’il "
 "s’agit d’une menace importante pour les libertés de l’humanité et le respect "
 "de la vie privée de chacun."
